@@ -1,0 +1,2143 @@
+[
+  {
+    "object_id": "70201000",
+    "name": "梅兰芳 / 梅派",
+    "object_type": "school",
+    "role_focus": [
+      "旦",
+      "正旦",
+      "青衣",
+      "花衫"
+    ],
+    "collection_code": "70201000",
+    "collection_label": "《梅兰芳演出剧本选集》",
+    "n_plays": 11,
+    "play_ids": [
+      "70201101",
+      "70201104",
+      "70201105",
+      "70201106",
+      "70201107",
+      "70201109",
+      "70201110",
+      "70201201",
+      "70201202",
+      "70201203",
+      "70201204"
+    ],
+    "highlights": [
+      "宇宙锋",
+      "霸王别姬",
+      "洛神",
+      "生死恨",
+      "穆桂英挂帅"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "典雅",
+      "身段",
+      "女性主体",
+      "古典意象"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 11,
+      "missing_version_ids": [],
+      "mean_scene_count": 8.727273,
+      "mean_role_count": 5.090909,
+      "segment_counts": {
+        "entrance_exit": 477,
+        "recitation": 118,
+        "speech": 2701,
+        "stage_direction": 214,
+        "aria": 468,
+        "unknown": 85,
+        "gong_drum_cue": 21
+      },
+      "aria_segment_ratio": 0.142379,
+      "mean_aria_char_density": 0.168879,
+      "mean_speech_char_density": 0.721279,
+      "mean_stage_direction_char_density": 0.089846,
+      "mean_mode_diversity": 9.090909,
+      "mean_character_concentration": 0.366734,
+      "tune_counts": {
+        "西皮": 376,
+        "二黄": 50,
+        "南梆子": 9,
+        "反二黄": 8,
+        "四平调": 2
+      },
+      "banqiang_counts": {
+        "散板": 145,
+        "摇板": 132,
+        "原板": 59,
+        "流水": 27,
+        "导板": 24,
+        "慢板": 20,
+        "二六": 13,
+        "快板": 9,
+        "哭头": 5,
+        "回龙": 5
+      },
+      "role_type_counts": {
+        "老生": 12,
+        "旦": 11,
+        "小生": 8,
+        "净": 7,
+        "丑": 7,
+        "正旦": 3,
+        "武净": 2,
+        "老旦": 2,
+        "贴旦": 1,
+        "丑旦": 1,
+        "老生（或小生）": 1,
+        "青衣": 1
+      },
+      "top_speakers": [
+        {
+          "name": "韩玉娘",
+          "segments": 169
+        },
+        {
+          "name": "项羽",
+          "segments": 127
+        },
+        {
+          "name": "苏三",
+          "segments": 123
+        },
+        {
+          "name": "程鹏举",
+          "segments": 112
+        },
+        {
+          "name": "崇公道",
+          "segments": 98
+        },
+        {
+          "name": "杨文广",
+          "segments": 89
+        },
+        {
+          "name": "刘秉义",
+          "segments": 87
+        },
+        {
+          "name": "西施",
+          "segments": 85
+        },
+        {
+          "name": "范蠡",
+          "segments": 82
+        },
+        {
+          "name": "王金龙",
+          "segments": 81
+        },
+        {
+          "name": "伯嚭",
+          "segments": 80
+        },
+        {
+          "name": "夫差",
+          "segments": 78
+        },
+        {
+          "name": "曹植",
+          "segments": 76
+        },
+        {
+          "name": "穆桂英",
+          "segments": 75
+        },
+        {
+          "name": "洛神",
+          "segments": 70
+        },
+        {
+          "name": "虞姬",
+          "segments": 68
+        },
+        {
+          "name": "梁红玉",
+          "segments": 67
+        },
+        {
+          "name": "韩世忠",
+          "segments": 63
+        },
+        {
+          "name": "杨金花",
+          "segments": 61
+        },
+        {
+          "name": "赵艳容",
+          "segments": 59
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70202000",
+    "name": "程砚秋 / 程派",
+    "object_type": "school",
+    "role_focus": [
+      "旦",
+      "青衣"
+    ],
+    "collection_code": "70202000",
+    "collection_label": "《程砚秋演出剧本选集》",
+    "n_plays": 12,
+    "play_ids": [
+      "70202101",
+      "70202102",
+      "70202103",
+      "70202104",
+      "70202105",
+      "70202106",
+      "70202107",
+      "70202108",
+      "70202109",
+      "70202110",
+      "70202111",
+      "70202112"
+    ],
+    "highlights": [
+      "锁麟囊",
+      "春闺梦",
+      "荒山泪",
+      "窦娥冤"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "沉郁",
+      "悲悯",
+      "命运感",
+      "回环结构"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 12,
+      "missing_version_ids": [],
+      "mean_scene_count": 12.25,
+      "mean_role_count": 6.833333,
+      "segment_counts": {
+        "entrance_exit": 887,
+        "recitation": 237,
+        "speech": 4755,
+        "aria": 645,
+        "unknown": 100,
+        "stage_direction": 719,
+        "gong_drum_cue": 29
+      },
+      "aria_segment_ratio": 0.114423,
+      "mean_aria_char_density": 0.151239,
+      "mean_speech_char_density": 0.73748,
+      "mean_stage_direction_char_density": 0.106399,
+      "mean_mode_diversity": 10.75,
+      "mean_character_concentration": 0.280446,
+      "tune_counts": {
+        "西皮": 476,
+        "二黄": 127,
+        "南梆子": 10,
+        "四平调": 8,
+        "反二黄": 6
+      },
+      "banqiang_counts": {
+        "摇板": 203,
+        "散板": 201,
+        "原板": 53,
+        "快板": 40,
+        "慢板": 35,
+        "二六": 25,
+        "导板": 22,
+        "流水": 18,
+        "哭头": 12,
+        "回龙": 5
+      },
+      "role_type_counts": {
+        "丑": 21,
+        "旦": 14,
+        "老生": 11,
+        "小生": 7,
+        "老旦": 7,
+        "丑旦": 7,
+        "净": 4,
+        "彩旦": 2,
+        "末": 2,
+        "花旦": 2,
+        "娃娃生": 2,
+        "花衫": 1,
+        "贴旦": 1,
+        "正旦": 1
+      },
+      "top_speakers": [
+        {
+          "name": "薛湘灵",
+          "segments": 163
+        },
+        {
+          "name": "谢招郎",
+          "segments": 160
+        },
+        {
+          "name": "王大娘",
+          "segments": 157
+        },
+        {
+          "name": "张慧珠",
+          "segments": 144
+        },
+        {
+          "name": "朱春登",
+          "segments": 138
+        },
+        {
+          "name": "唐明皇",
+          "segments": 123
+        },
+        {
+          "name": "申雪贞",
+          "segments": 113
+        },
+        {
+          "name": "小蕙",
+          "segments": 113
+        },
+        {
+          "name": "李靖",
+          "segments": 105
+        },
+        {
+          "name": "赵锦棠",
+          "segments": 98
+        },
+        {
+          "name": "红拂",
+          "segments": 97
+        },
+        {
+          "name": "方世一",
+          "segments": 96
+        },
+        {
+          "name": "宋成",
+          "segments": 96
+        },
+        {
+          "name": "赵守贞",
+          "segments": 96
+        },
+        {
+          "name": "王五姐",
+          "segments": 95
+        },
+        {
+          "name": "江采苹",
+          "segments": 95
+        },
+        {
+          "name": "张玉贞",
+          "segments": 93
+        },
+        {
+          "name": "王四香",
+          "segments": 92
+        },
+        {
+          "name": "张氏",
+          "segments": 92
+        },
+        {
+          "name": "虬髯公",
+          "segments": 91
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70203000",
+    "name": "荀慧生 / 荀派",
+    "object_type": "school",
+    "role_focus": [
+      "旦",
+      "花旦",
+      "闺门旦"
+    ],
+    "collection_code": "70203000",
+    "collection_label": "《荀慧生演出剧本选集》",
+    "n_plays": 15,
+    "play_ids": [
+      "70203101",
+      "70203102",
+      "70203103",
+      "70203104",
+      "70203105",
+      "70203106",
+      "70203107",
+      "70203108",
+      "70203109",
+      "70203111",
+      "70203112",
+      "70203201",
+      "70203202",
+      "70203203",
+      "70203204"
+    ],
+    "highlights": [
+      "红娘",
+      "花田错",
+      "钗头凤",
+      "玉堂春",
+      "杜十娘"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "俏丽",
+      "机敏",
+      "生活气",
+      "市井情趣"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 15,
+      "missing_version_ids": [],
+      "mean_scene_count": 10.933333,
+      "mean_role_count": 11.4,
+      "segment_counts": {
+        "entrance_exit": 1442,
+        "aria": 958,
+        "speech": 10775,
+        "gong_drum_cue": 71,
+        "recitation": 358,
+        "stage_direction": 1225,
+        "unknown": 99
+      },
+      "aria_segment_ratio": 0.079232,
+      "mean_aria_char_density": 0.092716,
+      "mean_speech_char_density": 0.810059,
+      "mean_stage_direction_char_density": 0.093515,
+      "mean_mode_diversity": 9.666667,
+      "mean_character_concentration": 0.275084,
+      "tune_counts": {
+        "西皮": 714,
+        "二黄": 170,
+        "四平调": 30,
+        "南梆子": 24,
+        "反二黄": 4,
+        "汉调": 1
+      },
+      "banqiang_counts": {
+        "散板": 487,
+        "摇板": 176,
+        "原板": 86,
+        "流水": 51,
+        "快板": 26,
+        "导板": 21,
+        "慢板": 17,
+        "二六": 14,
+        "哭头": 8,
+        "回龙": 5,
+        "垛板": 2
+      },
+      "role_type_counts": {
+        "丑": 49,
+        "旦": 44,
+        "老生": 21,
+        "净": 16,
+        "小生": 15,
+        "老旦": 8,
+        "生": 8,
+        "彩旦": 6,
+        "花旦": 1,
+        "娃娃生": 1,
+        "彩丑": 1,
+        "武丑": 1
+      },
+      "top_speakers": [
+        {
+          "name": "春兰",
+          "segments": 313
+        },
+        {
+          "name": "陈母",
+          "segments": 301
+        },
+        {
+          "name": "陈秀英",
+          "segments": 271
+        },
+        {
+          "name": "郑元和",
+          "segments": 269
+        },
+        {
+          "name": "苏三",
+          "segments": 260
+        },
+        {
+          "name": "金松",
+          "segments": 237
+        },
+        {
+          "name": "李益",
+          "segments": 222
+        },
+        {
+          "name": "莫稽",
+          "segments": 219
+        },
+        {
+          "name": "王金龙",
+          "segments": 219
+        },
+        {
+          "name": "红娘",
+          "segments": 209
+        },
+        {
+          "name": "李亚仙",
+          "segments": 200
+        },
+        {
+          "name": "李氏",
+          "segments": 189
+        },
+        {
+          "name": "李干先",
+          "segments": 189
+        },
+        {
+          "name": "林慧娘",
+          "segments": 172
+        },
+        {
+          "name": "金玉奴",
+          "segments": 170
+        },
+        {
+          "name": "杜十娘",
+          "segments": 168
+        },
+        {
+          "name": "卞玑",
+          "segments": 167
+        },
+        {
+          "name": "吕昭华",
+          "segments": 165
+        },
+        {
+          "name": "唐通",
+          "segments": 156
+        },
+        {
+          "name": "唐蕙仙",
+          "segments": 156
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70002000",
+    "name": "马连良 / 马派",
+    "object_type": "school",
+    "role_focus": [
+      "老生"
+    ],
+    "collection_code": "70002000",
+    "collection_label": "《马连良演出剧本选集》",
+    "n_plays": 9,
+    "play_ids": [
+      "70002101",
+      "70002102",
+      "70002103",
+      "70002104",
+      "70002105",
+      "70002201",
+      "70002202",
+      "70002203",
+      "70002205"
+    ],
+    "highlights": [
+      "赵氏孤儿",
+      "甘露寺",
+      "四进士",
+      "清官册·夜审潘洪"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "潇洒",
+      "叙事清楚",
+      "念白与做派"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 9,
+      "missing_version_ids": [],
+      "mean_scene_count": 14.222222,
+      "mean_role_count": 8.111111,
+      "segment_counts": {
+        "entrance_exit": 568,
+        "recitation": 186,
+        "gong_drum_cue": 763,
+        "speech": 6280,
+        "unknown": 197,
+        "stage_direction": 997,
+        "aria": 739
+      },
+      "aria_segment_ratio": 0.102568,
+      "mean_aria_char_density": 0.13245,
+      "mean_speech_char_density": 0.696545,
+      "mean_stage_direction_char_density": 0.141564,
+      "mean_mode_diversity": 9.222222,
+      "mean_character_concentration": 0.293557,
+      "tune_counts": {
+        "西皮": 548,
+        "二黄": 170,
+        "反二黄": 3,
+        "汉调": 2,
+        "南梆子": 1,
+        "四平调": 1
+      },
+      "banqiang_counts": {
+        "散板": 400,
+        "摇板": 144,
+        "原板": 57,
+        "流水": 34,
+        "快板": 33,
+        "导板": 33,
+        "慢板": 10,
+        "哭头": 7,
+        "回龙": 5,
+        "二六": 4
+      },
+      "role_type_counts": {
+        "丑，纱帽，红官衣，玉带，彩裤，朝方": 5,
+        "旦，过桥，褶子，云肩，裙子，彩鞋": 2,
+        "生，青罗帽，青素褶子，青彩裤，厚底靴": 2,
+        "旦，大头，花褶子，素裙子，彩鞋": 2,
+        "老生，扎巾盔，黑三，紫软靠，彩裤，厚底": 1,
+        "生，中军盔，黑三，红开氅，彩裤，厚底": 1,
+        "杂，白小板巾，白龙套，红彩裤，薄底": 1,
+        "杂，红小板巾，红龙套，彩裤，薄底": 1,
+        "杂，小倒缨盔，跨衣，卒坎，彩裤，薄底": 1,
+        "老生，荷叶盔，黑三，蓝软靠，红彩裤，厚底": 1,
+        "老生，荷叶盔，黪三，红软靠，彩裤，厚底": 1,
+        "杂，孩发，素褶子，彩裤，白布袜子，皂鞋": 1,
+        "武生，白夫子盔，白硬靠，彩裤，厚底": 1,
+        "大太监帽，大太监衣，红彩裤，厚底": 1,
+        "太监帽，太监衣，薄底，红彩裤": 1,
+        "杂，梢子帽，青素箭衣，卒坎": 1,
+        "毡帽，青素箭衣，卒坎，黑彩裤，薄底": 1,
+        "丑，金大镫，黪扎，紫蟒，玉带，彩裤，朝方": 1,
+        "旦，凤冠，女蟒，玉带，裙子，彩鞋": 1,
+        "丑，纱帽，丑三，红官衣，玉带，彩裤，朝方": 1,
+        "生，大太监帽，大太监衣，绦子，彩裤，厚底": 1,
+        "杂，大铠靠，贯字盔，彩裤，薄底": 1,
+        "杂，太监帽，太监衣，绦子，彩裤，薄底": 1,
+        "小生，武生巾，花褶子，彩裤，厚底": 1,
+        "丑，梢子帽，蓝布箭衣，大带，黑彩裤，皂鞋": 1,
+        "杂，黑罗帽，青袍，彩裤，薄底": 1,
+        "丑，梢子帽，蓝布箭衣，大带，青彩裤，薄底": 1,
+        "旦，白褶子，白裙，白彩绸": 1,
+        "旦，过桥，花褶子，素裙，彩鞋": 1,
+        "杂，皂吏帽，布箭衣，大带，青彩裤，薄底": 1,
+        "旦，青衣，白素裙，腰巾，彩鞋": 1,
+        "杂，秦椒帽，青袍，青彩裤，薄底": 1,
+        "武生，将巾，箭衣，马褂，大带，彩裤，厚底": 1,
+        "杂，大太监帽，大太监衣，绦子，彩裤，厚底": 1,
+        "杂，大铠甲，彩裤，薄底": 1,
+        "旦，过桥，褶子，裙子，云肩，彩裤，彩鞋": 1,
+        "净，黑满，虎头壳，紫软靠，彩裤，厚底": 1,
+        "净，将巾，箭衣，马褂，大带，彩裤，厚底": 1,
+        "武生，虎头壳，蓝软靠，彩裤，厚底": 1,
+        "老生，虎头壳，黑三，红软靠，彩裤，厚底": 1,
+        "净，大板巾，箭衣，马褂，大带，彩裤，薄底": 1,
+        "小生，珠子头，翎子，花箭衣，彩裤，厚底": 1,
+        "武生，倒缨盔，白软靠，彩裤，厚底": 1,
+        "净，虎头壳，绿软靠，彩裤，厚底": 1,
+        "丑，彩旦袄子，坎肩，腰巾子，青裤，彩鞋": 1,
+        "丑，鬃帽，大袖，搭包，青彩裤，白袜，黑鞋": 1,
+        "丑，毡帽，茶衣，搭包，青彩裤，白袜，黑鞋": 1,
+        "小生，小生巾，花褶子，厚底靴": 1,
+        "丑，青罗帽，青褶子，大带，白袜，黑鞋": 1,
+        "丑，梢子帽，蓝布箭衣，大带，白袱，黑鞋": 1,
+        "老旦，白网子，烟色老斗衣，腰包，福字履": 1,
+        "武，青包头，青夸衣，青彩裤，薄底靴": 1,
+        "杂，青椒帽，青袍，青彩裤，薄底靴": 1,
+        "旦，大头，亮花儿，青褶子，蓝边裙，彩鞋": 1,
+        "生，鸭尾巾，黑三，蓝褶子，青彩裤，厚底靴": 1,
+        "生，高方巾，黑三，青褶子，青彩裤，厚底靴": 1,
+        "净，紫员外巾，黪满，紫帔，福字履，扇子": 1,
+        "生，青罗帽，青褶子，青彩裤，厚底靴": 1,
+        "青衣，大头，点翠花儿，蓝帔，花裙，彩鞋": 1,
+        "旦，大头，花裤子袄，小坎肩，彩鞋，拿手绢": 1,
+        "丑，皂吏帽，布箭衣，大带，黑彩裤，薄底鞋": 1,
+        "老生，金大镫，黑三，绿蟒，红彩裤，厚底靴": 1,
+        "杂，红辣椒帽，青褶子，青彩裤，薄底鞋": 1,
+        "生，大太监帽，大太监衣，红彩裤，厚底靴": 1,
+        "丑，大太监帽，大太监衣，青彩裤，朝方": 1,
+        "丑，元纱帽，丑三，青褶子，青彩裤，朝方": 1
+      },
+      "top_speakers": [
+        {
+          "name": "宋士杰",
+          "segments": 273
+        },
+        {
+          "name": "周瑜",
+          "segments": 261
+        },
+        {
+          "name": "白怀",
+          "segments": 238
+        },
+        {
+          "name": "张苍",
+          "segments": 235
+        },
+        {
+          "name": "鲁肃",
+          "segments": 209
+        },
+        {
+          "name": "寇准",
+          "segments": 207
+        },
+        {
+          "name": "杨春",
+          "segments": 204
+        },
+        {
+          "name": "刘彦昌",
+          "segments": 195
+        },
+        {
+          "name": "诸葛亮",
+          "segments": 194
+        },
+        {
+          "name": "白简",
+          "segments": 191
+        },
+        {
+          "name": "刘长",
+          "segments": 178
+        },
+        {
+          "name": "金祥瑞",
+          "segments": 168
+        },
+        {
+          "name": "毛朋",
+          "segments": 167
+        },
+        {
+          "name": "王桂英",
+          "segments": 157
+        },
+        {
+          "name": "蒋干",
+          "segments": 151
+        },
+        {
+          "name": "屠岸贾",
+          "segments": 147
+        },
+        {
+          "name": "程婴",
+          "segments": 147
+        },
+        {
+          "name": "陈平",
+          "segments": 146
+        },
+        {
+          "name": "蒯彻",
+          "segments": 127
+        },
+        {
+          "name": "杨素贞",
+          "segments": 123
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70001000",
+    "name": "周信芳 / 麒派",
+    "object_type": "school",
+    "role_focus": [
+      "老生"
+    ],
+    "collection_code": "70001000",
+    "collection_label": "《周信芳演出剧本选集》",
+    "n_plays": 14,
+    "play_ids": [
+      "70001101",
+      "70001102",
+      "70001103",
+      "70001106",
+      "70001107",
+      "70001108",
+      "70001111",
+      "70001201",
+      "70001202",
+      "70001203",
+      "70001204",
+      "70001205",
+      "70001310",
+      "70001311"
+    ],
+    "highlights": [
+      "徐策跑城",
+      "萧何月下追韩信",
+      "打渔杀家",
+      "文天祥"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "苍劲",
+      "现实感",
+      "悲壮历史意识"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 14,
+      "missing_version_ids": [],
+      "mean_scene_count": 9.714286,
+      "mean_role_count": 6.142857,
+      "segment_counts": {
+        "gong_drum_cue": 46,
+        "speech": 7049,
+        "stage_direction": 901,
+        "entrance_exit": 958,
+        "unknown": 118,
+        "recitation": 179,
+        "aria": 804
+      },
+      "aria_segment_ratio": 0.1001,
+      "mean_aria_char_density": 0.174036,
+      "mean_speech_char_density": 0.713058,
+      "mean_stage_direction_char_density": 0.099719,
+      "mean_mode_diversity": 7.428571,
+      "mean_character_concentration": 0.424242,
+      "tune_counts": {
+        "西皮": 510,
+        "二黄": 229,
+        "高拨子": 37,
+        "四平调": 7,
+        "反二黄": 2
+      },
+      "banqiang_counts": {
+        "摇板": 331,
+        "散板": 258,
+        "快板": 39,
+        "原板": 33,
+        "流水": 28,
+        "导板": 27,
+        "哭头": 11,
+        "慢板": 7,
+        "二六": 5,
+        "垛板": 3,
+        "回龙": 3
+      },
+      "role_type_counts": {
+        "老生": 24,
+        "丑": 20,
+        "净": 13,
+        "旦": 10,
+        "小生": 7,
+        "武生": 4,
+        "老旦": 2,
+        "彩旦": 1,
+        "生": 1,
+        "花旦": 1,
+        "副净": 1,
+        "末": 1,
+        "红生": 1
+      },
+      "top_speakers": [
+        {
+          "name": "邹应龙",
+          "segments": 499
+        },
+        {
+          "name": "文天祥",
+          "segments": 458
+        },
+        {
+          "name": "严嵩",
+          "segments": 371
+        },
+        {
+          "name": "宋江",
+          "segments": 302
+        },
+        {
+          "name": "宋士杰",
+          "segments": 298
+        },
+        {
+          "name": "崇祯",
+          "segments": 265
+        },
+        {
+          "name": "阎惜姣",
+          "segments": 249
+        },
+        {
+          "name": "陆炳",
+          "segments": 176
+        },
+        {
+          "name": "杨春",
+          "segments": 165
+        },
+        {
+          "name": "萧何",
+          "segments": 158
+        },
+        {
+          "name": "萧恩",
+          "segments": 157
+        },
+        {
+          "name": "汤勤",
+          "segments": 153
+        },
+        {
+          "name": "严侠",
+          "segments": 148
+        },
+        {
+          "name": "贾似道",
+          "segments": 146
+        },
+        {
+          "name": "毛朋",
+          "segments": 133
+        },
+        {
+          "name": "杨素贞",
+          "segments": 131
+        },
+        {
+          "name": "常宝童",
+          "segments": 123
+        },
+        {
+          "name": "王中",
+          "segments": 122
+        },
+        {
+          "name": "关羽",
+          "segments": 114
+        },
+        {
+          "name": "伯颜",
+          "segments": 110
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70006000",
+    "name": "孟小冬 / 余派传承",
+    "object_type": "tradition_anthology",
+    "role_focus": [
+      "老生"
+    ],
+    "collection_code": "70006000",
+    "collection_label": "《余派戏词钱氏辑粹》",
+    "n_plays": 12,
+    "play_ids": [
+      "70006101",
+      "70006102",
+      "70006103",
+      "70006104",
+      "70006105",
+      "70006106",
+      "70006107",
+      "70006108",
+      "70006109",
+      "70006110",
+      "70006111",
+      "70006112"
+    ],
+    "highlights": [
+      "定军山",
+      "失街亭·空城计·斩马谡",
+      "捉放曹",
+      "珠帘寨"
+    ],
+    "caveat": "本目录为《余派戏词钱氏辑粹》，按文档口径标注为 '余派传承文本'，不简单写 '孟派'。",
+    "narrative_keywords": [
+      "老生范式",
+      "唱念法度",
+      "传统骨架"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 12,
+      "missing_version_ids": [],
+      "mean_scene_count": 5.083333,
+      "mean_role_count": 5.083333,
+      "segment_counts": {
+        "speech": 1933,
+        "gong_drum_cue": 13,
+        "recitation": 98,
+        "aria": 629,
+        "entrance_exit": 327,
+        "stage_direction": 86,
+        "unknown": 52
+      },
+      "aria_segment_ratio": 0.236466,
+      "mean_aria_char_density": 0.410935,
+      "mean_speech_char_density": 0.514475,
+      "mean_stage_direction_char_density": 0.066466,
+      "mean_mode_diversity": 7.5,
+      "mean_character_concentration": 0.51168,
+      "tune_counts": {
+        "西皮": 424,
+        "二黄": 197,
+        "反二黄": 4
+      },
+      "banqiang_counts": {
+        "摇板": 174,
+        "散板": 158,
+        "原板": 120,
+        "快板": 66,
+        "流水": 52,
+        "导板": 23,
+        "二六": 12,
+        "慢板": 11,
+        "回龙": 3,
+        "哭头": 3
+      },
+      "role_type_counts": {
+        "老生": 21,
+        "净": 12,
+        "旦": 10,
+        "丑": 10,
+        "小生": 5,
+        "老旦": 1,
+        "贴旦": 1,
+        "正旦": 1
+      },
+      "top_speakers": [
+        {
+          "name": "李克用",
+          "segments": 162
+        },
+        {
+          "name": "薛平贵",
+          "segments": 140
+        },
+        {
+          "name": "曹操",
+          "segments": 139
+        },
+        {
+          "name": "王宝钏",
+          "segments": 129
+        },
+        {
+          "name": "张别古",
+          "segments": 123
+        },
+        {
+          "name": "诸葛亮",
+          "segments": 119
+        },
+        {
+          "name": "王有道",
+          "segments": 97
+        },
+        {
+          "name": "陈宫",
+          "segments": 93
+        },
+        {
+          "name": "赵大",
+          "segments": 90
+        },
+        {
+          "name": "程婴",
+          "segments": 88
+        },
+        {
+          "name": "黄忠",
+          "segments": 87
+        },
+        {
+          "name": "刘世昌",
+          "segments": 74
+        },
+        {
+          "name": "祢衡",
+          "segments": 70
+        },
+        {
+          "name": "二皇娘",
+          "segments": 69
+        },
+        {
+          "name": "李嗣源",
+          "segments": 60
+        },
+        {
+          "name": "花云",
+          "segments": 54
+        },
+        {
+          "name": "公孙杵臼",
+          "segments": 52
+        },
+        {
+          "name": "屠岸贾",
+          "segments": 51
+        },
+        {
+          "name": "程敬思",
+          "segments": 49
+        },
+        {
+          "name": "杨延昭",
+          "segments": 47
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70003000",
+    "name": "李洪春",
+    "object_type": "performance_collection",
+    "role_focus": [
+      "武老生",
+      "关羽戏"
+    ],
+    "collection_code": "70003000",
+    "collection_label": "《关羽戏集：李洪春演出本》",
+    "n_plays": 27,
+    "play_ids": [
+      "70003101",
+      "70003102",
+      "70003103",
+      "70003104",
+      "70003105",
+      "70003106",
+      "70003107",
+      "70003108",
+      "70003109",
+      "70003110",
+      "70003111",
+      "70003112",
+      "70003113",
+      "70003114",
+      "70003115",
+      "70003116",
+      "70003117",
+      "70003118",
+      "70003119",
+      "70003120",
+      "70003121",
+      "70003122",
+      "70003123",
+      "70003124",
+      "70003125",
+      "70003126",
+      "70003127"
+    ],
+    "highlights": [
+      "过五关",
+      "走麦城",
+      "水淹七军",
+      "单刀会"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "忠义谱系",
+      "关羽叙事",
+      "武戏程式"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 27,
+      "missing_version_ids": [],
+      "mean_scene_count": 8.814815,
+      "mean_role_count": 5.888889,
+      "segment_counts": {
+        "entrance_exit": 1065,
+        "speech": 4002,
+        "recitation": 215,
+        "unknown": 204,
+        "stage_direction": 295,
+        "gong_drum_cue": 51,
+        "aria": 496
+      },
+      "aria_segment_ratio": 0.105241,
+      "mean_aria_char_density": 0.125016,
+      "mean_speech_char_density": 0.697439,
+      "mean_stage_direction_char_density": 0.130527,
+      "mean_mode_diversity": 3.777778,
+      "mean_character_concentration": 0.342866,
+      "tune_counts": {
+        "西皮": 358,
+        "吹腔": 25,
+        "二黄": 9,
+        "高拨子": 6
+      },
+      "banqiang_counts": {
+        "散板": 138,
+        "摇板": 132,
+        "原板": 28,
+        "导板": 26,
+        "流水": 23,
+        "快板": 17,
+        "二六": 8,
+        "哭头": 6,
+        "回龙": 1
+      },
+      "role_type_counts": {
+        "净": 56,
+        "红生": 26,
+        "老生": 24,
+        "生": 22,
+        "武生": 10,
+        "丑": 8,
+        "旦": 7,
+        "小生": 6
+      },
+      "top_speakers": [
+        {
+          "name": "关羽",
+          "segments": 1210
+        },
+        {
+          "name": "曹操",
+          "segments": 351
+        },
+        {
+          "name": "刘备",
+          "segments": 322
+        },
+        {
+          "name": "张飞",
+          "segments": 222
+        },
+        {
+          "name": "诸葛亮",
+          "segments": 122
+        },
+        {
+          "name": "关平",
+          "segments": 99
+        },
+        {
+          "name": "周仓",
+          "segments": 91
+        },
+        {
+          "name": "张辽",
+          "segments": 90
+        },
+        {
+          "name": "马童",
+          "segments": 77
+        },
+        {
+          "name": "袁绍",
+          "segments": 74
+        },
+        {
+          "name": "黄忠",
+          "segments": 73
+        },
+        {
+          "name": "报子",
+          "segments": 72
+        },
+        {
+          "name": "鲁肃",
+          "segments": 71
+        },
+        {
+          "name": "孙权",
+          "segments": 71
+        },
+        {
+          "name": "魏延",
+          "segments": 68
+        },
+        {
+          "name": "众将",
+          "segments": 65
+        },
+        {
+          "name": "旗牌",
+          "segments": 64
+        },
+        {
+          "name": "诸葛瑾",
+          "segments": 62
+        },
+        {
+          "name": "吕蒙",
+          "segments": 57
+        },
+        {
+          "name": "夏侯惇",
+          "segments": 52
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70004000",
+    "name": "唐韵笙",
+    "object_type": "master_anthology",
+    "role_focus": [
+      "老生",
+      "文武并重"
+    ],
+    "collection_code": "70004000",
+    "collection_label": "《唐韵笙舞台艺术集》",
+    "n_plays": 10,
+    "play_ids": [
+      "70004101",
+      "70004102",
+      "70004103",
+      "70004104",
+      "70004105",
+      "70004106",
+      "70004107",
+      "70004108",
+      "70004109",
+      "70004111"
+    ],
+    "highlights": [
+      "古城会",
+      "走麦城",
+      "二子乘舟",
+      "绝龙岭"
+    ],
+    "caveat": "不要过度简化为单一 '唐派公式'。",
+    "narrative_keywords": [
+      "历史剧",
+      "文武并重",
+      "北方舞台传统"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 10,
+      "missing_version_ids": [],
+      "mean_scene_count": 9.3,
+      "mean_role_count": 3.6,
+      "segment_counts": {
+        "entrance_exit": 551,
+        "speech": 2308,
+        "recitation": 102,
+        "stage_direction": 288,
+        "unknown": 78,
+        "aria": 528,
+        "gong_drum_cue": 62
+      },
+      "aria_segment_ratio": 0.179714,
+      "mean_aria_char_density": 0.194658,
+      "mean_speech_char_density": 0.642776,
+      "mean_stage_direction_char_density": 0.128613,
+      "mean_mode_diversity": 6.1,
+      "mean_character_concentration": 0.436811,
+      "tune_counts": {
+        "西皮": 172,
+        "二黄": 55,
+        "高拨子": 7,
+        "吹腔": 2,
+        "反二黄": 2
+      },
+      "banqiang_counts": {
+        "散板": 111,
+        "原板": 44,
+        "摇板": 36,
+        "导板": 19,
+        "流水": 15,
+        "回龙": 4,
+        "垛板": 3,
+        "二六": 3,
+        "快板": 2
+      },
+      "role_type_counts": {
+        "净": 12,
+        "生": 6,
+        "老生": 4,
+        "旦": 4,
+        "丑": 3,
+        "小生": 3,
+        "红生": 2,
+        "武生": 1,
+        "老生，白三，金踏蹬，黄软靠，黑靴，金刀": 1
+      },
+      "top_speakers": [
+        {
+          "name": "闻仲",
+          "segments": 188
+        },
+        {
+          "name": "关羽",
+          "segments": 186
+        },
+        {
+          "name": "急子",
+          "segments": 176
+        },
+        {
+          "name": "雷万春",
+          "segments": 114
+        },
+        {
+          "name": "南宫长万",
+          "segments": 110
+        },
+        {
+          "name": "赵盾",
+          "segments": 107
+        },
+        {
+          "name": "弘演",
+          "segments": 85
+        },
+        {
+          "name": "韩信",
+          "segments": 84
+        },
+        {
+          "name": "卫宣公",
+          "segments": 83
+        },
+        {
+          "name": "晋灵公",
+          "segments": 75
+        },
+        {
+          "name": "公子寿",
+          "segments": 65
+        },
+        {
+          "name": "公子洩",
+          "segments": 60
+        },
+        {
+          "name": "宣姜",
+          "segments": 59
+        },
+        {
+          "name": "大太监",
+          "segments": 53
+        },
+        {
+          "name": "纣王",
+          "segments": 53
+        },
+        {
+          "name": "萧何",
+          "segments": 52
+        },
+        {
+          "name": "卫懿公",
+          "segments": 51
+        },
+        {
+          "name": "张飞",
+          "segments": 50
+        },
+        {
+          "name": "宁速",
+          "segments": 49
+        },
+        {
+          "name": "宋闵公",
+          "segments": 47
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70401000",
+    "name": "郝寿臣 / 郝派",
+    "object_type": "school",
+    "role_focus": [
+      "净",
+      "花脸"
+    ],
+    "collection_code": "70401000",
+    "collection_label": "《郝寿臣演出剧本选集》",
+    "n_plays": 5,
+    "play_ids": [
+      "70401101",
+      "70401104",
+      "70401106",
+      "70401107",
+      "70401110"
+    ],
+    "highlights": [
+      "荆轲传",
+      "瓦口关",
+      "打龙棚",
+      "青梅煮酒论英雄"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "气势",
+      "性格化",
+      "净行塑造"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 5,
+      "missing_version_ids": [],
+      "mean_scene_count": 8.2,
+      "mean_role_count": 4.6,
+      "segment_counts": {
+        "gong_drum_cue": 491,
+        "speech": 1483,
+        "aria": 182,
+        "stage_direction": 160,
+        "recitation": 78,
+        "unknown": 62,
+        "entrance_exit": 87
+      },
+      "aria_segment_ratio": 0.104418,
+      "mean_aria_char_density": 0.158863,
+      "mean_speech_char_density": 0.744993,
+      "mean_stage_direction_char_density": 0.077382,
+      "mean_mode_diversity": 6.6,
+      "mean_character_concentration": 0.434694,
+      "tune_counts": {
+        "西皮": 116,
+        "二黄": 60
+      },
+      "banqiang_counts": {
+        "散板": 71,
+        "摇板": 55,
+        "原板": 21,
+        "快板": 9,
+        "导板": 6,
+        "垛板": 6,
+        "流水": 6,
+        "二六": 3,
+        "哭头": 1,
+        "慢板": 1
+      },
+      "role_type_counts": {
+        "净": 8,
+        "生": 6,
+        "老生": 2,
+        "丑": 2,
+        "武生": 2,
+        "红生": 1,
+        "花旦": 1,
+        "旦": 1
+      },
+      "top_speakers": [
+        {
+          "name": "郑恩",
+          "segments": 201
+        },
+        {
+          "name": "牛皋",
+          "segments": 193
+        },
+        {
+          "name": "荆轲",
+          "segments": 186
+        },
+        {
+          "name": "张飞",
+          "segments": 181
+        },
+        {
+          "name": "太子丹",
+          "segments": 129
+        },
+        {
+          "name": "金节",
+          "segments": 118
+        },
+        {
+          "name": "柴荣",
+          "segments": 105
+        },
+        {
+          "name": "刘备",
+          "segments": 88
+        },
+        {
+          "name": "曹操",
+          "segments": 78
+        },
+        {
+          "name": "岳飞",
+          "segments": 68
+        },
+        {
+          "name": "张郃",
+          "segments": 65
+        },
+        {
+          "name": "戚赛玉",
+          "segments": 60
+        },
+        {
+          "name": "赵匡胤",
+          "segments": 54
+        },
+        {
+          "name": "田光",
+          "segments": 49
+        },
+        {
+          "name": "戚夫人",
+          "segments": 46
+        },
+        {
+          "name": "秦王",
+          "segments": 41
+        },
+        {
+          "name": "高渐离",
+          "segments": 37
+        },
+        {
+          "name": "樊于期",
+          "segments": 32
+        },
+        {
+          "name": "鞠武",
+          "segments": 30
+        },
+        {
+          "name": "许褚",
+          "segments": 30
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70402000",
+    "name": "方荣翔 / 裘派花脸传承",
+    "object_type": "tradition_anthology",
+    "role_focus": [
+      "净",
+      "铜锤花脸"
+    ],
+    "collection_code": "70402000",
+    "collection_label": "《方荣翔戏剧集》",
+    "n_plays": 5,
+    "play_ids": [
+      "70402101",
+      "70402102",
+      "70402103",
+      "70402104",
+      "70402105"
+    ],
+    "highlights": [
+      "铡美案",
+      "锁五龙",
+      "铡判官",
+      "断密涧"
+    ],
+    "caveat": "文字写 '裘派传承/方荣翔演出本' 更稳妥。",
+    "narrative_keywords": [
+      "包公",
+      "公案",
+      "刚正",
+      "铜锤花脸"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 5,
+      "missing_version_ids": [],
+      "mean_scene_count": 7.2,
+      "mean_role_count": 6.6,
+      "segment_counts": {
+        "unknown": 27,
+        "entrance_exit": 210,
+        "aria": 396,
+        "stage_direction": 179,
+        "speech": 1251,
+        "recitation": 32,
+        "gong_drum_cue": 16
+      },
+      "aria_segment_ratio": 0.235855,
+      "mean_aria_char_density": 0.353858,
+      "mean_speech_char_density": 0.463516,
+      "mean_stage_direction_char_density": 0.169496,
+      "mean_mode_diversity": 10.4,
+      "mean_character_concentration": 0.383551,
+      "tune_counts": {
+        "西皮": 297,
+        "二黄": 58,
+        "反二黄": 16,
+        "高拨子": 6
+      },
+      "banqiang_counts": {
+        "散板": 165,
+        "摇板": 64,
+        "原板": 56,
+        "快板": 48,
+        "流水": 20,
+        "导板": 13,
+        "二六": 5,
+        "垛板": 4,
+        "回龙": 3,
+        "哭头": 2,
+        "慢板": 1
+      },
+      "role_type_counts": {
+        "丑": 8,
+        "老生": 7,
+        "净": 6,
+        "老旦": 4,
+        "小生": 3,
+        "花旦": 2,
+        "正旦": 2,
+        "武生": 1
+      },
+      "top_speakers": [
+        {
+          "name": "包拯",
+          "segments": 150
+        },
+        {
+          "name": "周处",
+          "segments": 137
+        },
+        {
+          "name": "陈世美",
+          "segments": 133
+        },
+        {
+          "name": "秦香莲",
+          "segments": 130
+        },
+        {
+          "name": "李密",
+          "segments": 120
+        },
+        {
+          "name": "王伯党",
+          "segments": 102
+        },
+        {
+          "name": "王延龄",
+          "segments": 93
+        },
+        {
+          "name": "王浚",
+          "segments": 74
+        },
+        {
+          "name": "李世民",
+          "segments": 57
+        },
+        {
+          "name": "颜查散",
+          "segments": 38
+        },
+        {
+          "name": "柳金婵",
+          "segments": 37
+        },
+        {
+          "name": "张三阳",
+          "segments": 34
+        },
+        {
+          "name": "县令",
+          "segments": 33
+        },
+        {
+          "name": "张洪",
+          "segments": 33
+        },
+        {
+          "name": "刘才",
+          "segments": 29
+        },
+        {
+          "name": "单雄信",
+          "segments": 28
+        },
+        {
+          "name": "范老二",
+          "segments": 28
+        },
+        {
+          "name": "河阳公主",
+          "segments": 26
+        },
+        {
+          "name": "韩琪",
+          "segments": 24
+        },
+        {
+          "name": "李渊",
+          "segments": 24
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70601000",
+    "name": "萧长华",
+    "object_type": "master_anthology",
+    "role_focus": [
+      "丑"
+    ],
+    "collection_code": "70601000",
+    "collection_label": "《萧长华演出剧本选集》",
+    "n_plays": 9,
+    "play_ids": [
+      "70601101",
+      "70601102",
+      "70601103",
+      "70601104",
+      "70601105",
+      "70601106",
+      "70601107",
+      "70601108",
+      "70601110"
+    ],
+    "highlights": [
+      "赤壁鏖兵",
+      "变羊记"
+    ],
+    "caveat": "提醒：京剧流派不只属于生旦净，丑行同样形成传承。",
+    "narrative_keywords": [
+      "丑行",
+      "讽谑",
+      "调度",
+      "群戏结构"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 9,
+      "missing_version_ids": [],
+      "mean_scene_count": 7.0,
+      "mean_role_count": 6.222222,
+      "segment_counts": {
+        "entrance_exit": 365,
+        "unknown": 103,
+        "speech": 2537,
+        "gong_drum_cue": 20,
+        "recitation": 134,
+        "aria": 230,
+        "stage_direction": 220
+      },
+      "aria_segment_ratio": 0.079283,
+      "mean_aria_char_density": 0.150416,
+      "mean_speech_char_density": 0.736632,
+      "mean_stage_direction_char_density": 0.090944,
+      "mean_mode_diversity": 4.222222,
+      "mean_character_concentration": 0.365132,
+      "tune_counts": {
+        "西皮": 218,
+        "二黄": 4,
+        "吹腔": 2,
+        "南梆子": 1
+      },
+      "banqiang_counts": {
+        "摇板": 136,
+        "散板": 31,
+        "原板": 26,
+        "快板": 14,
+        "导板": 7,
+        "流水": 5,
+        "垛板": 2,
+        "回龙": 1
+      },
+      "role_type_counts": {
+        "老生": 23,
+        "净": 14,
+        "小生": 8,
+        "丑": 4,
+        "红生": 3,
+        "武生": 2,
+        "旦": 1,
+        "彩旦": 1
+      },
+      "top_speakers": [
+        {
+          "name": "周瑜",
+          "segments": 422
+        },
+        {
+          "name": "诸葛亮",
+          "segments": 323
+        },
+        {
+          "name": "鲁肃",
+          "segments": 274
+        },
+        {
+          "name": "曹操",
+          "segments": 241
+        },
+        {
+          "name": "苍头",
+          "segments": 160
+        },
+        {
+          "name": "贾妈",
+          "segments": 160
+        },
+        {
+          "name": "蒋干",
+          "segments": 157
+        },
+        {
+          "name": "柳氏",
+          "segments": 142
+        },
+        {
+          "name": "陈慥",
+          "segments": 112
+        },
+        {
+          "name": "刘备",
+          "segments": 102
+        },
+        {
+          "name": "关羽",
+          "segments": 89
+        },
+        {
+          "name": "黄盖",
+          "segments": 68
+        },
+        {
+          "name": "孙权",
+          "segments": 62
+        },
+        {
+          "name": "庞统",
+          "segments": 52
+        },
+        {
+          "name": "阚泽",
+          "segments": 44
+        },
+        {
+          "name": "文聘",
+          "segments": 37
+        },
+        {
+          "name": "甘宁",
+          "segments": 35
+        },
+        {
+          "name": "丑中军",
+          "segments": 34
+        },
+        {
+          "name": "陆绩",
+          "segments": 33
+        },
+        {
+          "name": "于禁",
+          "segments": 30
+        }
+      ]
+    }
+  },
+  {
+    "object_id": "70005000",
+    "name": "汪笑侬",
+    "object_type": "master_anthology",
+    "role_focus": [
+      "老生",
+      "改良京剧"
+    ],
+    "collection_code": "70005000",
+    "collection_label": "《汪笑侬戏曲集》",
+    "n_plays": 14,
+    "play_ids": [
+      "70005101",
+      "70005102",
+      "70005103",
+      "70005104",
+      "70005106",
+      "70005108",
+      "70005109",
+      "70005110",
+      "70005111",
+      "70005112",
+      "70005114",
+      "70005115",
+      "70005116",
+      "70005118"
+    ],
+    "highlights": [
+      "马嵬驿",
+      "哭祖庙",
+      "煤山恨",
+      "将相和"
+    ],
+    "caveat": null,
+    "narrative_keywords": [
+      "历史忧患",
+      "近代改革",
+      "政治寓意"
+    ],
+    "metadata_origin": "human_curated_structured_data_v0.1",
+    "computed_profile": {
+      "metric_origin": "full_corpus_v1_uniform_parser",
+      "version_count": 14,
+      "missing_version_ids": [],
+      "mean_scene_count": 6.428571,
+      "mean_role_count": 4.285714,
+      "segment_counts": {
+        "entrance_exit": 391,
+        "recitation": 87,
+        "speech": 1349,
+        "stage_direction": 119,
+        "aria": 348,
+        "unknown": 47,
+        "gong_drum_cue": 14
+      },
+      "aria_segment_ratio": 0.195067,
+      "mean_aria_char_density": 0.383652,
+      "mean_speech_char_density": 0.520686,
+      "mean_stage_direction_char_density": 0.090231,
+      "mean_mode_diversity": 5.214286,
+      "mean_character_concentration": 0.532934,
+      "tune_counts": {
+        "西皮": 257,
+        "二黄": 60,
+        "反二黄": 6
+      },
+      "banqiang_counts": {
+        "摇板": 192,
+        "原板": 40,
+        "流水": 34,
+        "快板": 20,
+        "导板": 16,
+        "二六": 9,
+        "慢板": 5,
+        "回龙": 3,
+        "散板": 2,
+        "哭头": 1
+      },
+      "role_type_counts": {
+        "净": 13,
+        "老生": 13,
+        "末": 8,
+        "旦": 7,
+        "丑": 6,
+        "外": 3,
+        "彩旦": 2,
+        "正旦": 2,
+        "花旦": 2,
+        "生": 1,
+        "武生": 1,
+        "副净": 1,
+        "小生": 1
+      },
+      "top_speakers": [
+        {
+          "name": "郭胡迪",
+          "segments": 117
+        },
+        {
+          "name": "雷万春",
+          "segments": 94
+        },
+        {
+          "name": "朱买臣",
+          "segments": 90
+        },
+        {
+          "name": "崔氏",
+          "segments": 84
+        },
+        {
+          "name": "张氏",
+          "segments": 77
+        },
+        {
+          "name": "崇祯",
+          "segments": 67
+        },
+        {
+          "name": "陈炳顺",
+          "segments": 58
+        },
+        {
+          "name": "郭章",
+          "segments": 53
+        },
+        {
+          "name": "万花公主",
+          "segments": 45
+        },
+        {
+          "name": "羌洪",
+          "segments": 42
+        },
+        {
+          "name": "黄帝",
+          "segments": 38
+        },
+        {
+          "name": "和尚",
+          "segments": 38
+        },
+        {
+          "name": "陈贵",
+          "segments": 38
+        },
+        {
+          "name": "刘谌",
+          "segments": 37
+        },
+        {
+          "name": "沈氏",
+          "segments": 37
+        },
+        {
+          "name": "汉献帝",
+          "segments": 32
+        },
+        {
+          "name": "蔺相如",
+          "segments": 30
+        },
+        {
+          "name": "廉颇",
+          "segments": 29
+        },
+        {
+          "name": "张三",
+          "segments": 29
+        },
+        {
+          "name": "诸葛亮",
+          "segments": 27
+        }
+      ]
+    }
+  }
+]

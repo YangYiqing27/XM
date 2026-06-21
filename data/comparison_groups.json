@@ -1,0 +1,395 @@
+[
+  {
+    "normalized_title": "四郎探母",
+    "versions": [
+      {
+        "version_id": "80000001",
+        "title": "四郎探母",
+        "source_collection": "录音、唱片本",
+        "source_type": "recording_transcript",
+        "n_pages": 17,
+        "n_scenes": 11,
+        "n_roles": 10,
+        "n_aria": 177,
+        "n_speech": 260,
+        "n_recitation": 5,
+        "n_stage_direction": 61,
+        "aria_segment_ratio": 0.4005,
+        "tune_counts": {
+          "西皮": 156
+        },
+        "banqiang_counts": {
+          "慢板": 7,
+          "二六板": 2,
+          "哭头": 6,
+          "摇板": 55,
+          "导板": 10,
+          "快板": 48,
+          "流水板": 11,
+          "原板": 9,
+          "散板": 29
+        },
+        "role_type_counts": {
+          "老生": 2,
+          "旦": 4,
+          "小生": 1,
+          "老旦": 1,
+          "丑": 2
+        },
+        "match_rate_to_v1": 0.992048
+      },
+      {
+        "version_id": "80000028",
+        "title": "四郎探母",
+        "source_collection": "录音、唱片本",
+        "source_type": "recording_transcript",
+        "n_pages": 20,
+        "n_scenes": 12,
+        "n_roles": 11,
+        "n_aria": 215,
+        "n_speech": 337,
+        "n_recitation": 6,
+        "n_stage_direction": 102,
+        "aria_segment_ratio": 0.3853,
+        "tune_counts": {
+          "西皮": 191
+        },
+        "banqiang_counts": {
+          "慢板": 7,
+          "二六板": 2,
+          "哭头": 10,
+          "摇板": 85,
+          "导板": 11,
+          "快板": 40,
+          "流水板": 16,
+          "原板": 6,
+          "散板": 37,
+          "回龙": 1
+        },
+        "role_type_counts": {
+          "老生": 2,
+          "旦": 5,
+          "小生": 1,
+          "老旦": 1,
+          "丑": 2
+        },
+        "match_rate_to_v1": 0.990909
+      }
+    ],
+    "similarity_pairs": [
+      {
+        "left_version_id": "80000001",
+        "right_version_id": "80000028",
+        "char_trigram_cosine": 0.9556
+      }
+    ]
+  },
+  {
+    "normalized_title": "宇宙锋",
+    "versions": [
+      {
+        "version_id": "70201101",
+        "title": "宇宙锋",
+        "source_collection": "《梅兰芳演出剧本选集》",
+        "source_type": "performance_script",
+        "n_pages": 5,
+        "n_scenes": 2,
+        "n_roles": 3,
+        "n_aria": 23,
+        "n_speech": 126,
+        "n_recitation": 4,
+        "n_stage_direction": 25,
+        "aria_segment_ratio": 0.1503,
+        "tune_counts": {
+          "西皮": 17,
+          "反二黄": 5
+        },
+        "banqiang_counts": {
+          "原板": 1,
+          "摇板": 6,
+          "散板": 10,
+          "正板": 5,
+          "哭头": 1
+        },
+        "role_type_counts": {
+          "正旦": 1,
+          "净": 1,
+          "小生": 1
+        },
+        "match_rate_to_v1": 0.977528
+      },
+      {
+        "version_id": "01002014",
+        "title": "宇宙锋",
+        "source_collection": "《戏考》",
+        "source_type": "anthology",
+        "n_pages": 4,
+        "n_scenes": 2,
+        "n_roles": 3,
+        "n_aria": 19,
+        "n_speech": 97,
+        "n_recitation": 6,
+        "n_stage_direction": 19,
+        "aria_segment_ratio": 0.1557,
+        "tune_counts": {
+          "西皮": 14,
+          "反二黄": 5
+        },
+        "banqiang_counts": {
+          "慢板": 6,
+          "摇板": 3,
+          "散板": 10
+        },
+        "role_type_counts": {
+          "正旦": 1,
+          "净": 1,
+          "小生": 1
+        },
+        "match_rate_to_v1": 0.978723
+      },
+      {
+        "version_id": "04011001",
+        "title": "宇宙锋",
+        "source_collection": "《京剧丛刊》",
+        "source_type": "anthology",
+        "n_pages": 5,
+        "n_scenes": 2,
+        "n_roles": 4,
+        "n_aria": 22,
+        "n_speech": 125,
+        "n_recitation": 4,
+        "n_stage_direction": 25,
+        "aria_segment_ratio": 0.1457,
+        "tune_counts": {
+          "西皮": 16,
+          "反二黄": 5
+        },
+        "banqiang_counts": {
+          "正板": 6,
+          "摇板": 3,
+          "散板": 12,
+          "哭头": 1
+        },
+        "role_type_counts": {
+          "旦": 2,
+          "净": 1,
+          "小生": 1
+        },
+        "match_rate_to_v1": 0.965909
+      },
+      {
+        "version_id": "09001002",
+        "title": "宇宙锋",
+        "source_collection": "《京剧流派剧目荟萃》",
+        "source_type": "anthology",
+        "n_pages": 12,
+        "n_scenes": 2,
+        "n_roles": 13,
+        "n_aria": 62,
+        "n_speech": 240,
+        "n_recitation": 4,
+        "n_stage_direction": 214,
+        "aria_segment_ratio": 0.2026,
+        "tune_counts": {
+          "西皮": 51,
+          "反二黄": 9
+        },
+        "banqiang_counts": {
+          "原板": 8,
+          "摇板": 5,
+          "散板": 38,
+          "慢板": 9,
+          "哭头": 2
+        },
+        "role_type_counts": {
+          "旦，梳大头线帘子、点翠头面、带抱头联、小白绸条、团花蓝披或黑披、衬青褶子、花边腰包、彩": 1,
+          "净，相巾、黪满、紫开氅、衬素褶子、红彩裤、厚底；金殿一场换相纱、黑蟒、玉带。": 1,
+          "小生，九龙冠、黄披、黄素褶子、红彩裤、厚底；金殿一场换王帽、黄蟒、玉带": 1,
+          "旦，梳大头抓髻线帘子、水钻头面、裤袄、大坎肩、白腰巾、彩鞋": 1,
+          "丑，圆纱、黑吊搭、青褶子、红彩裤、大布袜、朝方": 1,
+          "杂，太监帽、花褶子、彩裤、厚底": 1,
+          "净，尖纱、黑满、蓝蟒、玉带、红彩裤、厚底": 1,
+          "丑：圆纱、黑吊搭、红蟒、玉带、红彩裤、朝方": 1,
+          "生，中纱、黑三、白蟒、玉带、红彩裤、厚底": 1,
+          "生，中纱、黪三、白蟒、玉带、红彩裤、厚底": 1,
+          "杂，大铠服、罐子盔（武士盔）、红彩裤、薄底": 1,
+          "杂，太监帽、太监衣、红彩裤、薄底": 1,
+          "杂，太监帽、花褶子、红彩裤、厚底": 1
+        },
+        "match_rate_to_v1": 0.898077
+      },
+      {
+        "version_id": "14002010",
+        "title": "宇宙锋",
+        "source_collection": "《戏典》",
+        "source_type": "anthology",
+        "n_pages": 4,
+        "n_scenes": 2,
+        "n_roles": 4,
+        "n_aria": 16,
+        "n_speech": 94,
+        "n_recitation": 6,
+        "n_stage_direction": 21,
+        "aria_segment_ratio": 0.1379,
+        "tune_counts": {
+          "西皮": 12,
+          "反二黄": 4
+        },
+        "banqiang_counts": {
+          "慢板": 5,
+          "摇板": 11
+        },
+        "role_type_counts": {
+          "正旦": 1,
+          "净": 1,
+          "小生": 1,
+          "丑": 1
+        },
+        "match_rate_to_v1": 0.956204
+      }
+    ],
+    "similarity_pairs": [
+      {
+        "left_version_id": "70201101",
+        "right_version_id": "01002014",
+        "char_trigram_cosine": 0.829512
+      },
+      {
+        "left_version_id": "70201101",
+        "right_version_id": "04011001",
+        "char_trigram_cosine": 0.604411
+      },
+      {
+        "left_version_id": "70201101",
+        "right_version_id": "09001002",
+        "char_trigram_cosine": 0.692943
+      },
+      {
+        "left_version_id": "70201101",
+        "right_version_id": "14002010",
+        "char_trigram_cosine": 0.579695
+      },
+      {
+        "left_version_id": "01002014",
+        "right_version_id": "04011001",
+        "char_trigram_cosine": 0.501055
+      },
+      {
+        "left_version_id": "01002014",
+        "right_version_id": "09001002",
+        "char_trigram_cosine": 0.664249
+      },
+      {
+        "left_version_id": "01002014",
+        "right_version_id": "14002010",
+        "char_trigram_cosine": 0.668136
+      },
+      {
+        "left_version_id": "04011001",
+        "right_version_id": "09001002",
+        "char_trigram_cosine": 0.288762
+      },
+      {
+        "left_version_id": "04011001",
+        "right_version_id": "14002010",
+        "char_trigram_cosine": 0.682535
+      },
+      {
+        "left_version_id": "09001002",
+        "right_version_id": "14002010",
+        "char_trigram_cosine": 0.230635
+      }
+    ]
+  },
+  {
+    "normalized_title": "锁麟囊",
+    "versions": [
+      {
+        "version_id": "70202112",
+        "title": "锁麟囊",
+        "source_collection": "《程砚秋演出剧本选集》",
+        "source_type": "performance_script",
+        "n_pages": 24,
+        "n_scenes": 15,
+        "n_roles": 17,
+        "n_aria": 77,
+        "n_speech": 660,
+        "n_recitation": 11,
+        "n_stage_direction": 147,
+        "aria_segment_ratio": 0.1029,
+        "tune_counts": {
+          "二黄": 16,
+          "四平调": 4,
+          "西皮": 55
+        },
+        "banqiang_counts": {
+          "散板": 22,
+          "摇板": 18,
+          "哭头": 2,
+          "二六板": 8,
+          "快板": 2,
+          "流水板": 7,
+          "原板": 8,
+          "慢板": 1,
+          "快三眼": 5
+        },
+        "role_type_counts": {
+          "正旦": 1,
+          "老旦": 1,
+          "旦": 1,
+          "老生": 3,
+          "丑": 7,
+          "娃娃生": 2,
+          "丑旦": 2
+        },
+        "match_rate_to_v1": 0.992179
+      },
+      {
+        "version_id": "70805101",
+        "title": "锁麟囊",
+        "source_collection": "《翁偶虹剧作选》",
+        "source_type": "performance_script",
+        "n_pages": 24,
+        "n_scenes": 12,
+        "n_roles": 17,
+        "n_aria": 73,
+        "n_speech": 647,
+        "n_recitation": 7,
+        "n_stage_direction": 214,
+        "aria_segment_ratio": 0.1004,
+        "tune_counts": {
+          "二黄": 15,
+          "四平调": 4,
+          "西皮": 54
+        },
+        "banqiang_counts": {
+          "散板": 24,
+          "摇板": 12,
+          "哭头": 2,
+          "二六板": 9,
+          "流水板": 9,
+          "原板": 6,
+          "慢板": 1,
+          "快三眼": 6
+        },
+        "role_type_counts": {
+          "正旦": 1,
+          "老旦": 1,
+          "旦": 1,
+          "老生": 3,
+          "丑": 7,
+          "娃娃生": 2,
+          "丑旦": 2
+        },
+        "match_rate_to_v1": 0.979809
+      }
+    ],
+    "similarity_pairs": [
+      {
+        "left_version_id": "70202112",
+        "right_version_id": "70805101",
+        "char_trigram_cosine": 0.885947
+      }
+    ]
+  }
+]

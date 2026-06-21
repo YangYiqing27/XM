@@ -1,0 +1,2698 @@
+{
+  "sources": [
+    {
+      "source_collection": "《戏考》",
+      "versions": 448,
+      "plays": 426,
+      "scenes": 3336,
+      "segments": 109090
+    },
+    {
+      "source_collection": "《京剧汇编》",
+      "versions": 360,
+      "plays": 342,
+      "scenes": 4346,
+      "segments": 154870
+    },
+    {
+      "source_collection": "《国剧大成》",
+      "versions": 194,
+      "plays": 135,
+      "scenes": 1427,
+      "segments": 44552
+    },
+    {
+      "source_collection": "《京剧丛刊》",
+      "versions": 71,
+      "plays": 71,
+      "scenes": 610,
+      "segments": 27050
+    },
+    {
+      "source_collection": "《传统剧目汇编》",
+      "versions": 67,
+      "plays": 53,
+      "scenes": 599,
+      "segments": 29083
+    },
+    {
+      "source_collection": "俞振飞曲谱",
+      "versions": 45,
+      "plays": 45,
+      "scenes": 46,
+      "segments": 5261
+    },
+    {
+      "source_collection": "录音、唱片整理本",
+      "versions": 34,
+      "plays": 31,
+      "scenes": 222,
+      "segments": 14746
+    },
+    {
+      "source_collection": "李洪春剧本选",
+      "versions": 27,
+      "plays": 27,
+      "scenes": 238,
+      "segments": 6328
+    },
+    {
+      "source_collection": "《戏典》",
+      "versions": 25,
+      "plays": 25,
+      "scenes": 189,
+      "segments": 8616
+    },
+    {
+      "source_collection": "侯玉山昆曲谱",
+      "versions": 20,
+      "plays": 20,
+      "scenes": 23,
+      "segments": 2946
+    },
+    {
+      "source_collection": "荀慧生剧本选",
+      "versions": 15,
+      "plays": 15,
+      "scenes": 164,
+      "segments": 14928
+    },
+    {
+      "source_collection": "周信芳剧本选",
+      "versions": 14,
+      "plays": 13,
+      "scenes": 136,
+      "segments": 10055
+    },
+    {
+      "source_collection": "汪笑侬剧本选",
+      "versions": 14,
+      "plays": 14,
+      "scenes": 90,
+      "segments": 2355
+    },
+    {
+      "source_collection": "孟小冬所传余派剧本选",
+      "versions": 12,
+      "plays": 12,
+      "scenes": 61,
+      "segments": 3138
+    },
+    {
+      "source_collection": "程砚秋剧本选",
+      "versions": 12,
+      "plays": 12,
+      "scenes": 147,
+      "segments": 7372
+    },
+    {
+      "source_collection": "梅兰芳剧本选",
+      "versions": 11,
+      "plays": 11,
+      "scenes": 96,
+      "segments": 4084
+    },
+    {
+      "source_collection": "名家藏本、演出本",
+      "versions": 11,
+      "plays": 11,
+      "scenes": 74,
+      "segments": 3136
+    },
+    {
+      "source_collection": "唐韵笙剧本选",
+      "versions": 10,
+      "plays": 10,
+      "scenes": 93,
+      "segments": 3917
+    },
+    {
+      "source_collection": "马连良剧本选",
+      "versions": 9,
+      "plays": 9,
+      "scenes": 128,
+      "segments": 9730
+    },
+    {
+      "source_collection": "萧长华剧本选",
+      "versions": 9,
+      "plays": 2,
+      "scenes": 63,
+      "segments": 3609
+    },
+    {
+      "source_collection": "《京剧流派剧目荟萃》",
+      "versions": 8,
+      "plays": 8,
+      "scenes": 52,
+      "segments": 5481
+    },
+    {
+      "source_collection": "《剧学月刊》",
+      "versions": 7,
+      "plays": 7,
+      "scenes": 18,
+      "segments": 880
+    },
+    {
+      "source_collection": "翁偶虹剧本选",
+      "versions": 6,
+      "plays": 6,
+      "scenes": 68,
+      "segments": 5848
+    },
+    {
+      "source_collection": "院团改编本、演出本",
+      "versions": 6,
+      "plays": 6,
+      "scenes": 30,
+      "segments": 4636
+    },
+    {
+      "source_collection": "郝寿臣剧本选",
+      "versions": 5,
+      "plays": 5,
+      "scenes": 41,
+      "segments": 2543
+    },
+    {
+      "source_collection": "方荣翔剧本选",
+      "versions": 5,
+      "plays": 5,
+      "scenes": 36,
+      "segments": 2111
+    },
+    {
+      "source_collection": "马祥麟剧本选",
+      "versions": 5,
+      "plays": 4,
+      "scenes": 5,
+      "segments": 402
+    },
+    {
+      "source_collection": "《京剧集成》",
+      "versions": 4,
+      "plays": 4,
+      "scenes": 25,
+      "segments": 1044
+    },
+    {
+      "source_collection": "其他/未映射",
+      "versions": 4,
+      "plays": 4,
+      "scenes": 52,
+      "segments": 3411
+    },
+    {
+      "source_collection": "田汉剧本选",
+      "versions": 4,
+      "plays": 4,
+      "scenes": 141,
+      "segments": 6789
+    },
+    {
+      "source_collection": "《戏考大全》",
+      "versions": 3,
+      "plays": 3,
+      "scenes": 23,
+      "segments": 1089
+    },
+    {
+      "source_collection": "《中国传统戏曲剧本选集》",
+      "versions": 2,
+      "plays": 2,
+      "scenes": 40,
+      "segments": 1105
+    },
+    {
+      "source_collection": "《传统戏曲剧目资料汇编》",
+      "versions": 2,
+      "plays": 2,
+      "scenes": 43,
+      "segments": 1420
+    },
+    {
+      "source_collection": "欧阳予倩剧本选",
+      "versions": 2,
+      "plays": 2,
+      "scenes": 18,
+      "segments": 1968
+    },
+    {
+      "source_collection": "老舍剧本选",
+      "versions": 2,
+      "plays": 2,
+      "scenes": 2,
+      "segments": 1839
+    }
+  ],
+  "multi_version_plays": [
+    {
+      "play_id": "play_7811a4abb8c4",
+      "title": "九莲灯",
+      "versions": 10,
+      "version_ids": [
+        "02005006",
+        "02005007",
+        "02005008",
+        "02005009",
+        "02005010",
+        "02005011",
+        "02005012",
+        "02005013",
+        "02005014",
+        "02005015"
+      ]
+    },
+    {
+      "play_id": "play_e0b68559b2cf",
+      "title": "五彩舆",
+      "versions": 10,
+      "version_ids": [
+        "05018001",
+        "05018002",
+        "05018003",
+        "05018004",
+        "05018005",
+        "05019001",
+        "05019002",
+        "05019003",
+        "05019004",
+        "05019005"
+      ]
+    },
+    {
+      "play_id": "play_618157104e4b",
+      "title": "弓砚缘",
+      "versions": 9,
+      "version_ids": [
+        "02012037",
+        "02012038",
+        "02012039",
+        "02012041",
+        "02012042",
+        "02012043",
+        "02012044",
+        "02012045",
+        "02012046"
+      ]
+    },
+    {
+      "play_id": "play_c82bb53de4e0",
+      "title": "赤壁鏖兵",
+      "versions": 8,
+      "version_ids": [
+        "70601101",
+        "70601102",
+        "70601103",
+        "70601104",
+        "70601105",
+        "70601106",
+        "70601107",
+        "70601108"
+      ]
+    },
+    {
+      "play_id": "play_6023aa44245f",
+      "title": "雁门关",
+      "versions": 8,
+      "version_ids": [
+        "01009011",
+        "03030001",
+        "03030002",
+        "03030003",
+        "03030004",
+        "03030005",
+        "03030006",
+        "03030007"
+      ]
+    },
+    {
+      "play_id": "play_e53107f19562",
+      "title": "马陵道",
+      "versions": 8,
+      "version_ids": [
+        "03051001",
+        "03051002",
+        "03051003",
+        "03051004",
+        "03051005",
+        "03051006",
+        "03051007",
+        "03051008"
+      ]
+    },
+    {
+      "play_id": "play_5cd6dce8c60d",
+      "title": "九龙杯",
+      "versions": 7,
+      "version_ids": [
+        "01019011",
+        "02012007",
+        "02012008",
+        "02012009",
+        "02012010",
+        "02012011",
+        "02012012"
+      ]
+    },
+    {
+      "play_id": "play_b27f589a1db1",
+      "title": "双尽忠",
+      "versions": 7,
+      "version_ids": [
+        "02008007",
+        "02008008",
+        "02008009",
+        "02008010",
+        "02008011",
+        "02008012",
+        "03003001"
+      ]
+    },
+    {
+      "play_id": "play_77c30578deaf",
+      "title": "五凤楼",
+      "versions": 6,
+      "version_ids": [
+        "02006044",
+        "02006045",
+        "02006046",
+        "02006047",
+        "02006048",
+        "02006049"
+      ]
+    },
+    {
+      "play_id": "play_7c875fee9511",
+      "title": "五雷阵",
+      "versions": 6,
+      "version_ids": [
+        "01007014",
+        "02001047",
+        "02001048",
+        "02001049",
+        "02001050",
+        "03027001"
+      ]
+    },
+    {
+      "play_id": "play_eda2e4b28cb2",
+      "title": "目莲记",
+      "versions": 6,
+      "version_ids": [
+        "02007028",
+        "02007029",
+        "02007030",
+        "02007031",
+        "02007032",
+        "02007033"
+      ]
+    },
+    {
+      "play_id": "play_d286fc0dfa2d",
+      "title": "三击掌",
+      "versions": 5,
+      "version_ids": [
+        "01023004",
+        "03021003",
+        "04010002",
+        "14001007",
+        "70202102"
+      ]
+    },
+    {
+      "play_id": "play_4125cdb74fb2",
+      "title": "孝感天",
+      "versions": 5,
+      "version_ids": [
+        "01005009",
+        "02001021",
+        "02001022",
+        "02001023",
+        "03034002"
+      ]
+    },
+    {
+      "play_id": "play_ec2e79c1f80e",
+      "title": "宇宙锋",
+      "versions": 5,
+      "version_ids": [
+        "01002014",
+        "04011001",
+        "09001002",
+        "14002010",
+        "70201101"
+      ]
+    },
+    {
+      "play_id": "play_66779538c26a",
+      "title": "宏碧缘",
+      "versions": 5,
+      "version_ids": [
+        "01023001",
+        "01024001",
+        "01024002",
+        "01025001",
+        "01025002"
+      ]
+    },
+    {
+      "play_id": "play_3f376b4d4ae3",
+      "title": "打严嵩",
+      "versions": 5,
+      "version_ids": [
+        "09006001",
+        "14002005",
+        "70001102",
+        "70001311",
+        "80000019"
+      ]
+    },
+    {
+      "play_id": "play_bfc569a2b9a3",
+      "title": "玉堂春",
+      "versions": 5,
+      "version_ids": [
+        "01005008",
+        "02011049",
+        "04004001",
+        "14002007",
+        "70203202"
+      ]
+    },
+    {
+      "play_id": "play_993b67e4e471",
+      "title": "窃兵符",
+      "versions": 5,
+      "version_ids": [
+        "03106001",
+        "03106002",
+        "03106003",
+        "03106004",
+        "03106005"
+      ]
+    },
+    {
+      "play_id": "play_a849fbd54d51",
+      "title": "贺后骂殿",
+      "versions": 5,
+      "version_ids": [
+        "01033004",
+        "03109004",
+        "04034002",
+        "80000016",
+        "80000024"
+      ]
+    },
+    {
+      "play_id": "play_41b1e8dd7192",
+      "title": "一捧雪",
+      "versions": 4,
+      "version_ids": [
+        "01012015",
+        "01015012",
+        "03039002",
+        "14001001"
+      ]
+    },
+    {
+      "play_id": "play_d0953e72692e",
+      "title": "三门街",
+      "versions": 4,
+      "version_ids": [
+        "01027002",
+        "01027003",
+        "01027004",
+        "01027005"
+      ]
+    },
+    {
+      "play_id": "play_f9e0afd47838",
+      "title": "三顾茅庐",
+      "versions": 4,
+      "version_ids": [
+        "01019003",
+        "03054009",
+        "04003001",
+        "80000027"
+      ]
+    },
+    {
+      "play_id": "play_60fc74bb2c49",
+      "title": "二进宫",
+      "versions": 4,
+      "version_ids": [
+        "01005007",
+        "04017003",
+        "14001002",
+        "70006111"
+      ]
+    },
+    {
+      "play_id": "play_ae2f6b0e92a0",
+      "title": "借赵云",
+      "versions": 4,
+      "version_ids": [
+        "01013004",
+        "03096001",
+        "04025002",
+        "80000036"
+      ]
+    },
+    {
+      "play_id": "play_8cee0ee11927",
+      "title": "取南郡",
+      "versions": 4,
+      "version_ids": [
+        "01016006",
+        "01038002",
+        "01039003",
+        "03096004"
+      ]
+    },
+    {
+      "play_id": "play_e2e225e116c8",
+      "title": "徐母骂曹",
+      "versions": 4,
+      "version_ids": [
+        "01035002",
+        "02003030",
+        "03054006",
+        "05004002"
+      ]
+    },
+    {
+      "play_id": "play_779ef7b6d335",
+      "title": "战太平",
+      "versions": 4,
+      "version_ids": [
+        "01013012",
+        "03098005",
+        "04017001",
+        "70006110"
+      ]
+    },
+    {
+      "play_id": "play_185168ad6853",
+      "title": "打渔杀家",
+      "versions": 4,
+      "version_ids": [
+        "01002016",
+        "14002002",
+        "70001201",
+        "80000002"
+      ]
+    },
+    {
+      "play_id": "play_4deeb5a56e1a",
+      "title": "打面缸",
+      "versions": 4,
+      "version_ids": [
+        "01010007",
+        "03031006",
+        "04025003",
+        "80000017"
+      ]
+    },
+    {
+      "play_id": "play_311e16dfd083",
+      "title": "打龙袍",
+      "versions": 4,
+      "version_ids": [
+        "01003009",
+        "03053004",
+        "14002006",
+        "80000003"
+      ]
+    },
+    {
+      "play_id": "play_a974f64148fd",
+      "title": "捉放曹",
+      "versions": 4,
+      "version_ids": [
+        "01001006",
+        "02003003",
+        "02003004",
+        "70006102"
+      ]
+    },
+    {
+      "play_id": "play_d9a942e6279a",
+      "title": "梅龙镇",
+      "versions": 4,
+      "version_ids": [
+        "01002011",
+        "80000009",
+        "80000010",
+        "90000005"
+      ]
+    },
+    {
+      "play_id": "play_e87fdc39cc87",
+      "title": "武家坡",
+      "versions": 4,
+      "version_ids": [
+        "01005001",
+        "03021010",
+        "70006106",
+        "80000004"
+      ]
+    },
+    {
+      "play_id": "play_c551bc02273c",
+      "title": "汉忠烈",
+      "versions": 4,
+      "version_ids": [
+        "02002032",
+        "02002033",
+        "02002034",
+        "02002035"
+      ]
+    },
+    {
+      "play_id": "play_acad7b662788",
+      "title": "珍珠塔",
+      "versions": 4,
+      "version_ids": [
+        "05013002",
+        "05013003",
+        "05013004",
+        "05013005"
+      ]
+    },
+    {
+      "play_id": "play_0c46a6b3bce9",
+      "title": "瓦口关",
+      "versions": 4,
+      "version_ids": [
+        "02004020",
+        "03093006",
+        "04012002",
+        "70401106"
+      ]
+    },
+    {
+      "play_id": "play_e525a2550de8",
+      "title": "米注山",
+      "versions": 4,
+      "version_ids": [
+        "02001026",
+        "02001027",
+        "02001028",
+        "03001001"
+      ]
+    },
+    {
+      "play_id": "play_c887967b58d7",
+      "title": "连环套",
+      "versions": 4,
+      "version_ids": [
+        "01006009",
+        "01032002",
+        "01032003",
+        "11001001"
+      ]
+    },
+    {
+      "play_id": "play_44336e3670c0",
+      "title": "锁五龙",
+      "versions": 4,
+      "version_ids": [
+        "01014011",
+        "02006004",
+        "03003004",
+        "70402103"
+      ]
+    },
+    {
+      "play_id": "play_c2dbe10359a4",
+      "title": "上天台",
+      "versions": 3,
+      "version_ids": [
+        "01006018",
+        "03091002",
+        "14001008"
+      ]
+    },
+    {
+      "play_id": "play_25df2c71a7d9",
+      "title": "东昌府",
+      "versions": 3,
+      "version_ids": [
+        "02012034",
+        "02012035",
+        "02012036"
+      ]
+    },
+    {
+      "play_id": "play_8318850c55b1",
+      "title": "五台山",
+      "versions": 3,
+      "version_ids": [
+        "01007004",
+        "02008040",
+        "04017004"
+      ]
+    },
+    {
+      "play_id": "play_41a19edb77dd",
+      "title": "八大锤",
+      "versions": 3,
+      "version_ids": [
+        "01007002",
+        "04013001",
+        "14001003"
+      ]
+    },
+    {
+      "play_id": "play_7395f99c17bf",
+      "title": "击鼓骂曹",
+      "versions": 3,
+      "version_ids": [
+        "04042002",
+        "08005002",
+        "70006103"
+      ]
+    },
+    {
+      "play_id": "play_49361be29b08",
+      "title": "刀劈三关",
+      "versions": 3,
+      "version_ids": [
+        "01036007",
+        "70004111",
+        "70005112"
+      ]
+    },
+    {
+      "play_id": "play_5a791af1eafe",
+      "title": "别宫祭江",
+      "versions": 3,
+      "version_ids": [
+        "03004001",
+        "80000012",
+        "94000001"
+      ]
+    },
+    {
+      "play_id": "play_73ba3472b295",
+      "title": "华容道",
+      "versions": 3,
+      "version_ids": [
+        "01002013",
+        "03096003",
+        "70003121"
+      ]
+    },
+    {
+      "play_id": "play_c60271e0cd90",
+      "title": "卓文君",
+      "versions": 3,
+      "version_ids": [
+        "02002016",
+        "03079001",
+        "70203112"
+      ]
+    },
+    {
+      "play_id": "play_f7f92024d05d",
+      "title": "单刀会",
+      "versions": 3,
+      "version_ids": [
+        "03101001",
+        "04016003",
+        "70003123"
+      ]
+    },
+    {
+      "play_id": "play_e41c3321f789",
+      "title": "单刀会·刀会",
+      "versions": 3,
+      "version_ids": [
+        "70901102",
+        "70902101",
+        "70903102"
+      ]
+    },
+    {
+      "play_id": "play_178752373c51",
+      "title": "双合印",
+      "versions": 3,
+      "version_ids": [
+        "01021008",
+        "03041007",
+        "04034001"
+      ]
+    },
+    {
+      "play_id": "play_72c32a60945c",
+      "title": "哭祖庙",
+      "versions": 3,
+      "version_ids": [
+        "01022002",
+        "03093008",
+        "70005110"
+      ]
+    },
+    {
+      "play_id": "play_9ee773b8afc9",
+      "title": "四进士",
+      "versions": 3,
+      "version_ids": [
+        "03103002",
+        "70001101",
+        "70002201"
+      ]
+    },
+    {
+      "play_id": "play_2db7e950d511",
+      "title": "困曹府",
+      "versions": 3,
+      "version_ids": [
+        "01028007",
+        "03060005",
+        "90000021"
+      ]
+    },
+    {
+      "play_id": "play_4094be576f0a",
+      "title": "天水关",
+      "versions": 3,
+      "version_ids": [
+        "01001013",
+        "03090005",
+        "05014009"
+      ]
+    },
+    {
+      "play_id": "play_e5786367022a",
+      "title": "太平桥",
+      "versions": 3,
+      "version_ids": [
+        "01022006",
+        "02006073",
+        "02006074"
+      ]
+    },
+    {
+      "play_id": "play_4e70aa4d7451",
+      "title": "宁武关",
+      "versions": 3,
+      "version_ids": [
+        "01038010",
+        "02011040",
+        "02011041"
+      ]
+    },
+    {
+      "play_id": "play_5530bf7cfc35",
+      "title": "定军山",
+      "versions": 3,
+      "version_ids": [
+        "01006007",
+        "04003003",
+        "70006104"
+      ]
+    },
+    {
+      "play_id": "play_b01f7421448e",
+      "title": "山海关",
+      "versions": 3,
+      "version_ids": [
+        "01027009",
+        "01029006",
+        "01030006"
+      ]
+    },
+    {
+      "play_id": "play_e7c903b6432d",
+      "title": "平贵别窑",
+      "versions": 3,
+      "version_ids": [
+        "01036006",
+        "03021005",
+        "04010003"
+      ]
+    },
+    {
+      "play_id": "play_9ea85fbaf571",
+      "title": "彩楼配",
+      "versions": 3,
+      "version_ids": [
+        "01003012",
+        "03021002",
+        "04010001"
+      ]
+    },
+    {
+      "play_id": "play_2bff5069ed78",
+      "title": "战北原",
+      "versions": 3,
+      "version_ids": [
+        "01001015",
+        "03090007",
+        "05017001"
+      ]
+    },
+    {
+      "play_id": "play_7c9734ebe997",
+      "title": "战樊城",
+      "versions": 3,
+      "version_ids": [
+        "01009015",
+        "03097002",
+        "80000029"
+      ]
+    },
+    {
+      "play_id": "play_43d2295583a3",
+      "title": "战长沙",
+      "versions": 3,
+      "version_ids": [
+        "01006002",
+        "03096005",
+        "70003122"
+      ]
+    },
+    {
+      "play_id": "play_3ff0d26feab9",
+      "title": "搜孤救孤",
+      "versions": 3,
+      "version_ids": [
+        "02001033",
+        "02001034",
+        "70006101"
+      ]
+    },
+    {
+      "play_id": "play_8399edcf7450",
+      "title": "文昭关",
+      "versions": 3,
+      "version_ids": [
+        "01001011",
+        "03097004",
+        "80000031"
+      ]
+    },
+    {
+      "play_id": "play_5cfc77c55943",
+      "title": "斩华雄",
+      "versions": 3,
+      "version_ids": [
+        "02003005",
+        "03080001",
+        "70003104"
+      ]
+    },
+    {
+      "play_id": "play_d04a62e5af09",
+      "title": "明末遗恨",
+      "versions": 3,
+      "version_ids": [
+        "01022004",
+        "03042003",
+        "70001310"
+      ]
+    },
+    {
+      "play_id": "play_275c3b3691af",
+      "title": "春闺梦",
+      "versions": 3,
+      "version_ids": [
+        "04044001",
+        "70202110",
+        "80000025"
+      ]
+    },
+    {
+      "play_id": "play_7fab049b885f",
+      "title": "晋阳宫",
+      "versions": 3,
+      "version_ids": [
+        "01027010",
+        "02005032",
+        "02005033"
+      ]
+    },
+    {
+      "play_id": "play_6f509dda12c0",
+      "title": "汾河湾",
+      "versions": 3,
+      "version_ids": [
+        "01008003",
+        "01020003",
+        "80000014"
+      ]
+    },
+    {
+      "play_id": "play_33c8f5fd2c8f",
+      "title": "玉门关",
+      "versions": 3,
+      "version_ids": [
+        "01013015",
+        "01039002",
+        "03041003"
+      ]
+    },
+    {
+      "play_id": "play_23ec3631e1b0",
+      "title": "珠帘寨",
+      "versions": 3,
+      "version_ids": [
+        "01038001",
+        "10001032",
+        "70006107"
+      ]
+    },
+    {
+      "play_id": "play_d26e7805353a",
+      "title": "生死恨",
+      "versions": 3,
+      "version_ids": [
+        "04027001",
+        "09007001",
+        "70201110"
+      ]
+    },
+    {
+      "play_id": "play_a5830fd842af",
+      "title": "白门楼",
+      "versions": 3,
+      "version_ids": [
+        "01002012",
+        "03006003",
+        "14002008"
+      ]
+    },
+    {
+      "play_id": "play_d8cf50114762",
+      "title": "空城计",
+      "versions": 3,
+      "version_ids": [
+        "01001001",
+        "04001001",
+        "14003003"
+      ]
+    },
+    {
+      "play_id": "play_f4a1e20aea0c",
+      "title": "花田错",
+      "versions": 3,
+      "version_ids": [
+        "01006011",
+        "01029001",
+        "70203101"
+      ]
+    },
+    {
+      "play_id": "play_288237255ec6",
+      "title": "要离刺庆忌",
+      "versions": 3,
+      "version_ids": [
+        "03047002",
+        "05006004",
+        "05006005"
+      ]
+    },
+    {
+      "play_id": "play_639fef97c51c",
+      "title": "走麦城",
+      "versions": 3,
+      "version_ids": [
+        "03101003",
+        "70003127",
+        "70004109"
+      ]
+    },
+    {
+      "play_id": "play_0d2969ea0e6b",
+      "title": "辕门斩子",
+      "versions": 3,
+      "version_ids": [
+        "01003006",
+        "04002003",
+        "80000022"
+      ]
+    },
+    {
+      "play_id": "play_9d3037db8d91",
+      "title": "选元戎",
+      "versions": 3,
+      "version_ids": [
+        "01031010",
+        "03007006",
+        "14016004"
+      ]
+    },
+    {
+      "play_id": "play_79039f87cc77",
+      "title": "铡美案",
+      "versions": 3,
+      "version_ids": [
+        "01007003",
+        "04026002",
+        "70402102"
+      ]
+    },
+    {
+      "play_id": "play_519d0f409feb",
+      "title": "长亭会",
+      "versions": 3,
+      "version_ids": [
+        "01009013",
+        "03097003",
+        "80000030"
+      ]
+    },
+    {
+      "play_id": "play_c3c1871e05d0",
+      "title": "长坂坡",
+      "versions": 3,
+      "version_ids": [
+        "01009006",
+        "04003002",
+        "80000020"
+      ]
+    },
+    {
+      "play_id": "play_365dac17106a",
+      "title": "阳平关",
+      "versions": 3,
+      "version_ids": [
+        "01008004",
+        "03107003",
+        "04011004"
+      ]
+    },
+    {
+      "play_id": "play_d1aac4621d4a",
+      "title": "雪杯圆",
+      "versions": 3,
+      "version_ids": [
+        "01014008",
+        "01024006",
+        "03039005"
+      ]
+    },
+    {
+      "play_id": "play_c8ef1e21bbf6",
+      "title": "霸王别姬",
+      "versions": 3,
+      "version_ids": [
+        "01021002",
+        "04022001",
+        "70201106"
+      ]
+    },
+    {
+      "play_id": "play_9ff2ec814a68",
+      "title": "骂王朗",
+      "versions": 3,
+      "version_ids": [
+        "01016011",
+        "03027005",
+        "70005109"
+      ]
+    },
+    {
+      "play_id": "play_1fe1367a9e85",
+      "title": "黛玉葬花",
+      "versions": 3,
+      "version_ids": [
+        "01013019",
+        "03057003",
+        "70201104"
+      ]
+    },
+    {
+      "play_id": "play_2abc40224a89",
+      "title": "龙凤呈祥",
+      "versions": 3,
+      "version_ids": [
+        "01018007",
+        "02004001",
+        "02004002"
+      ]
+    },
+    {
+      "play_id": "play_7fd392d2ab1b",
+      "title": "丁甲山",
+      "versions": 2,
+      "version_ids": [
+        "01014006",
+        "14001005"
+      ]
+    },
+    {
+      "play_id": "play_703885eb1832",
+      "title": "三娘教子",
+      "versions": 2,
+      "version_ids": [
+        "01001003",
+        "14001006"
+      ]
+    },
+    {
+      "play_id": "play_6e874089c22e",
+      "title": "三字经",
+      "versions": 2,
+      "version_ids": [
+        "01037003",
+        "03091005"
+      ]
+    },
+    {
+      "play_id": "play_3af1ddbbc799",
+      "title": "三岔口",
+      "versions": 2,
+      "version_ids": [
+        "02008048",
+        "04010005"
+      ]
+    },
+    {
+      "play_id": "play_3f9bf7495684",
+      "title": "三气周瑜",
+      "versions": 2,
+      "version_ids": [
+        "01015015",
+        "03093003"
+      ]
+    },
+    {
+      "play_id": "play_d0b5ae95b198",
+      "title": "三让徐州",
+      "versions": 2,
+      "version_ids": [
+        "01016010",
+        "03075003"
+      ]
+    },
+    {
+      "play_id": "play_1000e5386197",
+      "title": "三进士",
+      "versions": 2,
+      "version_ids": [
+        "04029002",
+        "05011003"
+      ]
+    },
+    {
+      "play_id": "play_175b89e36129",
+      "title": "下河东",
+      "versions": 2,
+      "version_ids": [
+        "01017013",
+        "03016003"
+      ]
+    },
+    {
+      "play_id": "play_360e5dd9c60e",
+      "title": "举鼎观画",
+      "versions": 2,
+      "version_ids": [
+        "01023003",
+        "04045004"
+      ]
+    },
+    {
+      "play_id": "play_62d5189d9ac9",
+      "title": "乌盆记",
+      "versions": 2,
+      "version_ids": [
+        "03091006",
+        "70006109"
+      ]
+    },
+    {
+      "play_id": "play_87b42e2fcaa7",
+      "title": "九更天",
+      "versions": 2,
+      "version_ids": [
+        "01006004",
+        "14001004"
+      ]
+    },
+    {
+      "play_id": "play_f25e1bb4d4e9",
+      "title": "九江口",
+      "versions": 2,
+      "version_ids": [
+        "04018003",
+        "70803102"
+      ]
+    },
+    {
+      "play_id": "play_9b7fe2891cdb",
+      "title": "九阳钟",
+      "versions": 2,
+      "version_ids": [
+        "01028002",
+        "01029004"
+      ]
+    },
+    {
+      "play_id": "play_f94329fcda5c",
+      "title": "二堂舍子",
+      "versions": 2,
+      "version_ids": [
+        "04012001",
+        "70002203"
+      ]
+    },
+    {
+      "play_id": "play_b0f57f1e86fa",
+      "title": "五庄观",
+      "versions": 2,
+      "version_ids": [
+        "02006031",
+        "02006032"
+      ]
+    },
+    {
+      "play_id": "play_af94cdd8b267",
+      "title": "伐东吴",
+      "versions": 2,
+      "version_ids": [
+        "01013011",
+        "04026003"
+      ]
+    },
+    {
+      "play_id": "play_79393ce2ff70",
+      "title": "元宵谜",
+      "versions": 2,
+      "version_ids": [
+        "03061002",
+        "70203103"
+      ]
+    },
+    {
+      "play_id": "play_29284451da96",
+      "title": "凤凰台",
+      "versions": 2,
+      "version_ids": [
+        "02003013",
+        "03075005"
+      ]
+    },
+    {
+      "play_id": "play_5061c9dac28b",
+      "title": "凤凰山",
+      "versions": 2,
+      "version_ids": [
+        "01020007",
+        "01035007"
+      ]
+    },
+    {
+      "play_id": "play_732ca1a0744a",
+      "title": "凤鸣关",
+      "versions": 2,
+      "version_ids": [
+        "01007005",
+        "03090004"
+      ]
+    },
+    {
+      "play_id": "play_5a3befeac7c4",
+      "title": "十八扯",
+      "versions": 2,
+      "version_ids": [
+        "01009004",
+        "03031008"
+      ]
+    },
+    {
+      "play_id": "play_bdca9aa654b1",
+      "title": "十老安刘",
+      "versions": 2,
+      "version_ids": [
+        "03103001",
+        "70002103"
+      ]
+    },
+    {
+      "play_id": "play_fe33d50668b5",
+      "title": "千秋岭",
+      "versions": 2,
+      "version_ids": [
+        "02006002",
+        "03009003"
+      ]
+    },
+    {
+      "play_id": "play_b2755e2df430",
+      "title": "单刀赴会",
+      "versions": 2,
+      "version_ids": [
+        "01016003",
+        "70001204"
+      ]
+    },
+    {
+      "play_id": "play_3d6eb24f1254",
+      "title": "南天门",
+      "versions": 2,
+      "version_ids": [
+        "03004004",
+        "10002001"
+      ]
+    },
+    {
+      "play_id": "play_d617a08f49e6",
+      "title": "博浪锥",
+      "versions": 2,
+      "version_ids": [
+        "01031003",
+        "70005104"
+      ]
+    },
+    {
+      "play_id": "play_bbfb7072d2e1",
+      "title": "双包案",
+      "versions": 2,
+      "version_ids": [
+        "01006017",
+        "03053006"
+      ]
+    },
+    {
+      "play_id": "play_10839b53b53c",
+      "title": "双挂印",
+      "versions": 2,
+      "version_ids": [
+        "02008054",
+        "03089002"
+      ]
+    },
+    {
+      "play_id": "play_29dbf6f9160c",
+      "title": "双摇会",
+      "versions": 2,
+      "version_ids": [
+        "01005013",
+        "03031005"
+      ]
+    },
+    {
+      "play_id": "play_dc9433f57724",
+      "title": "双沙河",
+      "versions": 2,
+      "version_ids": [
+        "02008060",
+        "02008061"
+      ]
+    },
+    {
+      "play_id": "play_35fe6b2904b3",
+      "title": "双龙会",
+      "versions": 2,
+      "version_ids": [
+        "01036002",
+        "03055002"
+      ]
+    },
+    {
+      "play_id": "play_48249a5031c8",
+      "title": "反西凉",
+      "versions": 2,
+      "version_ids": [
+        "02004008",
+        "03017001"
+      ]
+    },
+    {
+      "play_id": "play_f809e23e05d5",
+      "title": "取帅印",
+      "versions": 2,
+      "version_ids": [
+        "01002015",
+        "03009004"
+      ]
+    },
+    {
+      "play_id": "play_4f0a0f9358b9",
+      "title": "取洛阳",
+      "versions": 2,
+      "version_ids": [
+        "01025009",
+        "03033001"
+      ]
+    },
+    {
+      "play_id": "play_b6cd62712a71",
+      "title": "受禅台",
+      "versions": 2,
+      "version_ids": [
+        "01026002",
+        "70005108"
+      ]
+    },
+    {
+      "play_id": "play_8c37cc225cec",
+      "title": "古城会",
+      "versions": 2,
+      "version_ids": [
+        "70003115",
+        "70004108"
+      ]
+    },
+    {
+      "play_id": "play_eec454aca8ce",
+      "title": "吴越春秋",
+      "versions": 2,
+      "version_ids": [
+        "05012001",
+        "05012002"
+      ]
+    },
+    {
+      "play_id": "play_86183c00b8ca",
+      "title": "四平山",
+      "versions": 2,
+      "version_ids": [
+        "02005031",
+        "03104004"
+      ]
+    },
+    {
+      "play_id": "play_c6d486b87bb5",
+      "title": "四红图",
+      "versions": 2,
+      "version_ids": [
+        "02008022",
+        "03084004"
+      ]
+    },
+    {
+      "play_id": "play_f8b3f45192b3",
+      "title": "四郎探母",
+      "versions": 2,
+      "version_ids": [
+        "80000001",
+        "80000028"
+      ]
+    },
+    {
+      "play_id": "play_a23913691b92",
+      "title": "回荆州",
+      "versions": 2,
+      "version_ids": [
+        "01005011",
+        "03109003"
+      ]
+    },
+    {
+      "play_id": "play_5ede96f13de2",
+      "title": "大保国",
+      "versions": 2,
+      "version_ids": [
+        "01004008",
+        "14001009"
+      ]
+    },
+    {
+      "play_id": "play_878ed043dfc0",
+      "title": "天女散花",
+      "versions": 2,
+      "version_ids": [
+        "01036005",
+        "70201105"
+      ]
+    },
+    {
+      "play_id": "play_bb9d2af8846b",
+      "title": "天宝图",
+      "versions": 2,
+      "version_ids": [
+        "01021006",
+        "01022012"
+      ]
+    },
+    {
+      "play_id": "play_625bceb46869",
+      "title": "太君辞朝",
+      "versions": 2,
+      "version_ids": [
+        "01039004",
+        "03034006"
+      ]
+    },
+    {
+      "play_id": "play_54ecb8412010",
+      "title": "奇冤报",
+      "versions": 2,
+      "version_ids": [
+        "01013006",
+        "80000018"
+      ]
+    },
+    {
+      "play_id": "play_5e90bdd97dbc",
+      "title": "女起解",
+      "versions": 2,
+      "version_ids": [
+        "01004012",
+        "70201201"
+      ]
+    },
+    {
+      "play_id": "play_7c161051a288",
+      "title": "好鹤失政",
+      "versions": 2,
+      "version_ids": [
+        "03047001",
+        "70004102"
+      ]
+    },
+    {
+      "play_id": "play_1c52eab56cad",
+      "title": "孝妇羹",
+      "versions": 2,
+      "version_ids": [
+        "01018002",
+        "70005118"
+      ]
+    },
+    {
+      "play_id": "play_e26229a2fd6a",
+      "title": "将相和",
+      "versions": 2,
+      "version_ids": [
+        "01022001",
+        "70005103"
+      ]
+    },
+    {
+      "play_id": "play_18861c19bd0f",
+      "title": "小上坟",
+      "versions": 2,
+      "version_ids": [
+        "01004016",
+        "03002002"
+      ]
+    },
+    {
+      "play_id": "play_d03137cf1d7b",
+      "title": "岳家庄",
+      "versions": 2,
+      "version_ids": [
+        "01009005",
+        "04014002"
+      ]
+    },
+    {
+      "play_id": "play_1a01a75ae202",
+      "title": "庆阳图",
+      "versions": 2,
+      "version_ids": [
+        "01015011",
+        "03003003"
+      ]
+    },
+    {
+      "play_id": "play_43cd9b951a3c",
+      "title": "御果园",
+      "versions": 2,
+      "version_ids": [
+        "02006009",
+        "03046002"
+      ]
+    },
+    {
+      "play_id": "play_7a77ae2cd335",
+      "title": "御碑亭",
+      "versions": 2,
+      "version_ids": [
+        "01005010",
+        "70006112"
+      ]
+    },
+    {
+      "play_id": "play_8eb59d63524c",
+      "title": "忠义图",
+      "versions": 2,
+      "version_ids": [
+        "02012001",
+        "02012002"
+      ]
+    },
+    {
+      "play_id": "play_6d8afa15b834",
+      "title": "思凡",
+      "versions": 2,
+      "version_ids": [
+        "01024005",
+        "04011003"
+      ]
+    },
+    {
+      "play_id": "play_acf67739c4a9",
+      "title": "战潼台",
+      "versions": 2,
+      "version_ids": [
+        "01027011",
+        "02008004"
+      ]
+    },
+    {
+      "play_id": "play_1d4c3cefd344",
+      "title": "扈家庄",
+      "versions": 2,
+      "version_ids": [
+        "02010003",
+        "03019002"
+      ]
+    },
+    {
+      "play_id": "play_291c18d6cc06",
+      "title": "打刀",
+      "versions": 2,
+      "version_ids": [
+        "01022009",
+        "03002004"
+      ]
+    },
+    {
+      "play_id": "play_d42cee5b0e27",
+      "title": "打樱桃",
+      "versions": 2,
+      "version_ids": [
+        "01014005",
+        "03029002"
+      ]
+    },
+    {
+      "play_id": "play_ca92abd86678",
+      "title": "打登州",
+      "versions": 2,
+      "version_ids": [
+        "03006006",
+        "04027002"
+      ]
+    },
+    {
+      "play_id": "play_705a2f1065ec",
+      "title": "打銮驾",
+      "versions": 2,
+      "version_ids": [
+        "01012005",
+        "03053001"
+      ]
+    },
+    {
+      "play_id": "play_35685b3f6685",
+      "title": "打鼓骂曹",
+      "versions": 2,
+      "version_ids": [
+        "01001005",
+        "14002003"
+      ]
+    },
+    {
+      "play_id": "play_bc54de8a73b3",
+      "title": "打龙棚",
+      "versions": 2,
+      "version_ids": [
+        "03033007",
+        "70401107"
+      ]
+    },
+    {
+      "play_id": "play_5a6f5d3b1055",
+      "title": "扫松下书",
+      "versions": 2,
+      "version_ids": [
+        "01015004",
+        "04022003"
+      ]
+    },
+    {
+      "play_id": "play_89f7025c05c6",
+      "title": "抗金兵",
+      "versions": 2,
+      "version_ids": [
+        "04025001",
+        "70201109"
+      ]
+    },
+    {
+      "play_id": "play_59592f7f327c",
+      "title": "拾玉镯",
+      "versions": 2,
+      "version_ids": [
+        "01016008",
+        "04016002"
+      ]
+    },
+    {
+      "play_id": "play_111f87fc6803",
+      "title": "挑滑车",
+      "versions": 2,
+      "version_ids": [
+        "03108005",
+        "04001003"
+      ]
+    },
+    {
+      "play_id": "play_2c199a9769d1",
+      "title": "排王赞",
+      "versions": 2,
+      "version_ids": [
+        "01018005",
+        "70005115"
+      ]
+    },
+    {
+      "play_id": "play_5ece03210e61",
+      "title": "探寒窑",
+      "versions": 2,
+      "version_ids": [
+        "01002004",
+        "03021007"
+      ]
+    },
+    {
+      "play_id": "play_07459ffaf278",
+      "title": "摘缨会",
+      "versions": 2,
+      "version_ids": [
+        "01014012",
+        "03001004"
+      ]
+    },
+    {
+      "play_id": "play_e89ccb886b86",
+      "title": "斩熊虎",
+      "versions": 2,
+      "version_ids": [
+        "02003001",
+        "70003101"
+      ]
+    },
+    {
+      "play_id": "play_2fed6c58c946",
+      "title": "斩车胄",
+      "versions": 2,
+      "version_ids": [
+        "03080002",
+        "70003105"
+      ]
+    },
+    {
+      "play_id": "play_0739046568b2",
+      "title": "斩黄袍",
+      "versions": 2,
+      "version_ids": [
+        "01003011",
+        "05007006"
+      ]
+    },
+    {
+      "play_id": "play_0efe5d7eff2d",
+      "title": "春秋配",
+      "versions": 2,
+      "version_ids": [
+        "01012008",
+        "03029001"
+      ]
+    },
+    {
+      "play_id": "play_2a830eb32d78",
+      "title": "晋阳城",
+      "versions": 2,
+      "version_ids": [
+        "03104001",
+        "05004011"
+      ]
+    },
+    {
+      "play_id": "play_9385935a0ac5",
+      "title": "望儿楼",
+      "versions": 2,
+      "version_ids": [
+        "01018004",
+        "03012001"
+      ]
+    },
+    {
+      "play_id": "play_0098169d7023",
+      "title": "李陵碑",
+      "versions": 2,
+      "version_ids": [
+        "01002001",
+        "80000007"
+      ]
+    },
+    {
+      "play_id": "play_6d1d81d8c929",
+      "title": "杜十娘",
+      "versions": 2,
+      "version_ids": [
+        "01008008",
+        "70203106"
+      ]
+    },
+    {
+      "play_id": "play_2b31d817289c",
+      "title": "林冲夜奔",
+      "versions": 2,
+      "version_ids": [
+        "02009026",
+        "09008002"
+      ]
+    },
+    {
+      "play_id": "play_870a2d63158a",
+      "title": "柴桑口",
+      "versions": 2,
+      "version_ids": [
+        "01001019",
+        "05024012"
+      ]
+    },
+    {
+      "play_id": "play_d0771d6c86d2",
+      "title": "桃花扇",
+      "versions": 2,
+      "version_ids": [
+        "70204107",
+        "80000026"
+      ]
+    },
+    {
+      "play_id": "play_edd62f863d5d",
+      "title": "樊江关",
+      "versions": 2,
+      "version_ids": [
+        "04001002",
+        "80000038"
+      ]
+    },
+    {
+      "play_id": "play_2bb6a97eab33",
+      "title": "水淹七军",
+      "versions": 2,
+      "version_ids": [
+        "03101002",
+        "70003125"
+      ]
+    },
+    {
+      "play_id": "play_a6987dad3eb7",
+      "title": "汉津口",
+      "versions": 2,
+      "version_ids": [
+        "03085003",
+        "70003119"
+      ]
+    },
+    {
+      "play_id": "play_37a99231ed92",
+      "title": "汉阳院",
+      "versions": 2,
+      "version_ids": [
+        "02003033",
+        "03085001"
+      ]
+    },
+    {
+      "play_id": "play_8ecd9d3d87cc",
+      "title": "沙陀国",
+      "versions": 2,
+      "version_ids": [
+        "01005005",
+        "03046005"
+      ]
+    },
+    {
+      "play_id": "play_ebf54cd64618",
+      "title": "洒金桥",
+      "versions": 2,
+      "version_ids": [
+        "02008026",
+        "03060002"
+      ]
+    },
+    {
+      "play_id": "play_507075ca4aca",
+      "title": "洗耳记",
+      "versions": 2,
+      "version_ids": [
+        "01025003",
+        "70005102"
+      ]
+    },
+    {
+      "play_id": "play_43f4c4de74b2",
+      "title": "洪羊洞",
+      "versions": 2,
+      "version_ids": [
+        "01001002",
+        "70006108"
+      ]
+    },
+    {
+      "play_id": "play_1b04193f24a5",
+      "title": "浔阳楼",
+      "versions": 2,
+      "version_ids": [
+        "01014003",
+        "03071003"
+      ]
+    },
+    {
+      "play_id": "play_1715ee3aac15",
+      "title": "浣纱记",
+      "versions": 2,
+      "version_ids": [
+        "01005002",
+        "03097005"
+      ]
+    },
+    {
+      "play_id": "play_e643549ff512",
+      "title": "海潮珠",
+      "versions": 2,
+      "version_ids": [
+        "01005012",
+        "03018002"
+      ]
+    },
+    {
+      "play_id": "play_0b88b6aafc6d",
+      "title": "清官册",
+      "versions": 2,
+      "version_ids": [
+        "01001017",
+        "80000006"
+      ]
+    },
+    {
+      "play_id": "play_93693263404a",
+      "title": "渡阴平",
+      "versions": 2,
+      "version_ids": [
+        "03026002",
+        "07002001"
+      ]
+    },
+    {
+      "play_id": "play_7bf482f439e3",
+      "title": "渭水河",
+      "versions": 2,
+      "version_ids": [
+        "01010003",
+        "03013001"
+      ]
+    },
+    {
+      "play_id": "play_d2eb2d620d11",
+      "title": "游武庙",
+      "versions": 2,
+      "version_ids": [
+        "01024004",
+        "05011001"
+      ]
+    },
+    {
+      "play_id": "play_e34fdb7a23f0",
+      "title": "湘江会",
+      "versions": 2,
+      "version_ids": [
+        "01038009",
+        "03092002"
+      ]
+    },
+    {
+      "play_id": "play_6699b3ca2bb5",
+      "title": "滚鼓山",
+      "versions": 2,
+      "version_ids": [
+        "01026007",
+        "03101004"
+      ]
+    },
+    {
+      "play_id": "play_b387abe32b09",
+      "title": "潞安州",
+      "versions": 2,
+      "version_ids": [
+        "01015003",
+        "03028001"
+      ]
+    },
+    {
+      "play_id": "play_a0876a4a3683",
+      "title": "灞桥挑袍",
+      "versions": 2,
+      "version_ids": [
+        "03080008",
+        "70003112"
+      ]
+    },
+    {
+      "play_id": "play_ccadb954ee3f",
+      "title": "火烧百凉楼",
+      "versions": 2,
+      "version_ids": [
+        "03044003",
+        "03044004"
+      ]
+    },
+    {
+      "play_id": "play_5fa03c9fef64",
+      "title": "煤山恨",
+      "versions": 2,
+      "version_ids": [
+        "01018006",
+        "70005116"
+      ]
+    },
+    {
+      "play_id": "play_ddc246bbd41c",
+      "title": "牛皋招亲",
+      "versions": 2,
+      "version_ids": [
+        "03028003",
+        "04034003"
+      ]
+    },
+    {
+      "play_id": "play_339a1df7fbff",
+      "title": "狸猫换太子",
+      "versions": 2,
+      "version_ids": [
+        "01033001",
+        "01035001"
+      ]
+    },
+    {
+      "play_id": "play_69a55163e845",
+      "title": "甘露寺",
+      "versions": 2,
+      "version_ids": [
+        "04016001",
+        "70002102"
+      ]
+    },
+    {
+      "play_id": "play_4484f43ca307",
+      "title": "疯僧扫秦",
+      "versions": 2,
+      "version_ids": [
+        "01015008",
+        "03108007"
+      ]
+    },
+    {
+      "play_id": "play_47297add6987",
+      "title": "白帝城",
+      "versions": 2,
+      "version_ids": [
+        "05007005",
+        "80000011"
+      ]
+    },
+    {
+      "play_id": "play_e64c3e765c13",
+      "title": "白良关",
+      "versions": 2,
+      "version_ids": [
+        "01009008",
+        "03046003"
+      ]
+    },
+    {
+      "play_id": "play_d64edbba1036",
+      "title": "白马坡",
+      "versions": 2,
+      "version_ids": [
+        "01011011",
+        "70003108"
+      ]
+    },
+    {
+      "play_id": "play_0c1eb51185bc",
+      "title": "目莲救母",
+      "versions": 2,
+      "version_ids": [
+        "01002018",
+        "14002009"
+      ]
+    },
+    {
+      "play_id": "play_2916d1128d16",
+      "title": "磐河战",
+      "versions": 2,
+      "version_ids": [
+        "01019013",
+        "03075001"
+      ]
+    },
+    {
+      "play_id": "play_73d539a9d5bd",
+      "title": "秦淮河",
+      "versions": 2,
+      "version_ids": [
+        "01014004",
+        "03076002"
+      ]
+    },
+    {
+      "play_id": "play_09ea26fd68c3",
+      "title": "红娘",
+      "versions": 2,
+      "version_ids": [
+        "70203109",
+        "90000004"
+      ]
+    },
+    {
+      "play_id": "play_46404b594b34",
+      "title": "红梅阁",
+      "versions": 2,
+      "version_ids": [
+        "01014020",
+        "90000010"
+      ]
+    },
+    {
+      "play_id": "play_8bfabf35c498",
+      "title": "纪母骂刘邦",
+      "versions": 2,
+      "version_ids": [
+        "03007002",
+        "05021001"
+      ]
+    },
+    {
+      "play_id": "play_ae9dcee2b54a",
+      "title": "胭脂虎",
+      "versions": 2,
+      "version_ids": [
+        "01005014",
+        "03004002"
+      ]
+    },
+    {
+      "play_id": "play_8ef81c99b53a",
+      "title": "舌战群儒",
+      "versions": 2,
+      "version_ids": [
+        "01019004",
+        "03096002"
+      ]
+    },
+    {
+      "play_id": "play_527568a2bb94",
+      "title": "芦花河",
+      "versions": 2,
+      "version_ids": [
+        "01011007",
+        "03014002"
+      ]
+    },
+    {
+      "play_id": "play_fbc26a0f76a9",
+      "title": "花园赠金",
+      "versions": 2,
+      "version_ids": [
+        "03021001",
+        "90000006"
+      ]
+    },
+    {
+      "play_id": "play_23abc4a26b40",
+      "title": "草桥关",
+      "versions": 2,
+      "version_ids": [
+        "01006003",
+        "03046001"
+      ]
+    },
+    {
+      "play_id": "play_165a80ed79d8",
+      "title": "荒山泪",
+      "versions": 2,
+      "version_ids": [
+        "09006002",
+        "70202109"
+      ]
+    },
+    {
+      "play_id": "play_e533a7f2866a",
+      "title": "莲花洞",
+      "versions": 2,
+      "version_ids": [
+        "02006038",
+        "03099003"
+      ]
+    },
+    {
+      "play_id": "play_0824be485867",
+      "title": "莲花湖",
+      "versions": 2,
+      "version_ids": [
+        "01012004",
+        "02012020"
+      ]
+    },
+    {
+      "play_id": "play_ab37c8823af6",
+      "title": "葭萌关",
+      "versions": 2,
+      "version_ids": [
+        "01037004",
+        "03017005"
+      ]
+    },
+    {
+      "play_id": "play_5badc87bb714",
+      "title": "虎牢关",
+      "versions": 2,
+      "version_ids": [
+        "02003006",
+        "05024002"
+      ]
+    },
+    {
+      "play_id": "play_636443e1e44b",
+      "title": "虹霓关",
+      "versions": 2,
+      "version_ids": [
+        "01008006",
+        "03100001"
+      ]
+    },
+    {
+      "play_id": "play_55e151d639f2",
+      "title": "襄阳宴",
+      "versions": 2,
+      "version_ids": [
+        "01017004",
+        "03054002"
+      ]
+    },
+    {
+      "play_id": "play_aebf44a72989",
+      "title": "西施",
+      "versions": 2,
+      "version_ids": [
+        "02001044",
+        "70201203"
+      ]
+    },
+    {
+      "play_id": "play_37e2e978e476",
+      "title": "西游记·胖姑学舌",
+      "versions": 2,
+      "version_ids": [
+        "70904115",
+        "70904208"
+      ]
+    },
+    {
+      "play_id": "play_989cc24669ae",
+      "title": "西游记·认子",
+      "versions": 2,
+      "version_ids": [
+        "70902103",
+        "70904207"
+      ]
+    },
+    {
+      "play_id": "play_b759e3688199",
+      "title": "许田射鹿",
+      "versions": 2,
+      "version_ids": [
+        "01021001",
+        "03093001"
+      ]
+    },
+    {
+      "play_id": "play_7b93241a3ea9",
+      "title": "请宋灵",
+      "versions": 2,
+      "version_ids": [
+        "01011002",
+        "03028006"
+      ]
+    },
+    {
+      "play_id": "play_4b39eccbbaf9",
+      "title": "赶三关",
+      "versions": 2,
+      "version_ids": [
+        "01012011",
+        "03021009"
+      ]
+    },
+    {
+      "play_id": "play_69de17861c55",
+      "title": "辕门射戟",
+      "versions": 2,
+      "version_ids": [
+        "01004006",
+        "04009003"
+      ]
+    },
+    {
+      "play_id": "play_1dcc761ec5a5",
+      "title": "过五关",
+      "versions": 2,
+      "version_ids": [
+        "01019002",
+        "70003113"
+      ]
+    },
+    {
+      "play_id": "play_a4c41a43dea3",
+      "title": "连环阵",
+      "versions": 2,
+      "version_ids": [
+        "02001030",
+        "03001006"
+      ]
+    },
+    {
+      "play_id": "play_ae3604681ea4",
+      "title": "连营寨",
+      "versions": 2,
+      "version_ids": [
+        "01006001",
+        "04032002"
+      ]
+    },
+    {
+      "play_id": "play_851753721ee6",
+      "title": "逍遥津",
+      "versions": 2,
+      "version_ids": [
+        "01004001",
+        "03093005"
+      ]
+    },
+    {
+      "play_id": "play_42bc2ab06c07",
+      "title": "造白袍",
+      "versions": 2,
+      "version_ids": [
+        "02004028",
+        "02004029"
+      ]
+    },
+    {
+      "play_id": "play_d1966729ca10",
+      "title": "采石矶",
+      "versions": 2,
+      "version_ids": [
+        "02011012",
+        "03098004"
+      ]
+    },
+    {
+      "play_id": "play_457bf0bd416c",
+      "title": "野猪林",
+      "versions": 2,
+      "version_ids": [
+        "03071001",
+        "80000013"
+      ]
+    },
+    {
+      "play_id": "play_d7bacb6f3a36",
+      "title": "钓金龟",
+      "versions": 2,
+      "version_ids": [
+        "01002010",
+        "03034005"
+      ]
+    },
+    {
+      "play_id": "play_d8d8aef63afe",
+      "title": "锁麟囊",
+      "versions": 2,
+      "version_ids": [
+        "70202112",
+        "70805101"
+      ]
+    },
+    {
+      "play_id": "play_ca9bd9bb9e20",
+      "title": "镇潭州",
+      "versions": 2,
+      "version_ids": [
+        "01019012",
+        "04021002"
+      ]
+    },
+    {
+      "play_id": "play_40da56d864f8",
+      "title": "除三害",
+      "versions": 2,
+      "version_ids": [
+        "01014009",
+        "70402104"
+      ]
+    },
+    {
+      "play_id": "play_84eeeb2f53aa",
+      "title": "雄州关",
+      "versions": 2,
+      "version_ids": [
+        "02010018",
+        "05009002"
+      ]
+    },
+    {
+      "play_id": "play_a594d0b66c7d",
+      "title": "雍凉关",
+      "versions": 2,
+      "version_ids": [
+        "01031009",
+        "03090003"
+      ]
+    },
+    {
+      "play_id": "play_ca749868a639",
+      "title": "雪夜访普",
+      "versions": 2,
+      "version_ids": [
+        "01021007",
+        "03060009"
+      ]
+    },
+    {
+      "play_id": "play_2fb54a9b6dba",
+      "title": "飞叉阵",
+      "versions": 2,
+      "version_ids": [
+        "01022010",
+        "03068003"
+      ]
+    },
+    {
+      "play_id": "play_3c746474d60e",
+      "title": "飞虎山",
+      "versions": 2,
+      "version_ids": [
+        "01004011",
+        "03046006"
+      ]
+    },
+    {
+      "play_id": "play_257364c34291",
+      "title": "马前泼水",
+      "versions": 2,
+      "version_ids": [
+        "01019005",
+        "70005106"
+      ]
+    },
+    {
+      "play_id": "play_9a8b9f233736",
+      "title": "马鞍山",
+      "versions": 2,
+      "version_ids": [
+        "01010001",
+        "03074005"
+      ]
+    },
+    {
+      "play_id": "play_afa001c05933",
+      "title": "驱车战将",
+      "versions": 2,
+      "version_ids": [
+        "03092001",
+        "70004101"
+      ]
+    },
+    {
+      "play_id": "play_33202eaafc1d",
+      "title": "骂杨广",
+      "versions": 2,
+      "version_ids": [
+        "01016001",
+        "03027006"
+      ]
+    },
+    {
+      "play_id": "play_b1529d7b4dcd",
+      "title": "骂阎罗",
+      "versions": 2,
+      "version_ids": [
+        "01018003",
+        "70005114"
+      ]
+    },
+    {
+      "play_id": "play_329c2db1cc06",
+      "title": "高平关",
+      "versions": 2,
+      "version_ids": [
+        "01012003",
+        "03013007"
+      ]
+    },
+    {
+      "play_id": "play_f91ecc0a32ef",
+      "title": "鹦鹉洲",
+      "versions": 2,
+      "version_ids": [
+        "03093002",
+        "08005004"
+      ]
+    },
+    {
+      "play_id": "play_369d53928db4",
+      "title": "黄鹤楼",
+      "versions": 2,
+      "version_ids": [
+        "01001012",
+        "03096006"
+      ]
+    },
+    {
+      "play_id": "play_525c65dc9475",
+      "title": "黑风帕",
+      "versions": 2,
+      "version_ids": [
+        "01002017",
+        "03003005"
+      ]
+    },
+    {
+      "play_id": "play_b5544cea3d8d",
+      "title": "黛玉焚稿",
+      "versions": 2,
+      "version_ids": [
+        "01030001",
+        "03057008"
+      ]
+    }
+  ],
+  "performer_credit_count": 176
+}
