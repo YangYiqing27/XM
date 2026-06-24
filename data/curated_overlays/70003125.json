@@ -1,0 +1,5423 @@
+{
+  "version": {
+    "version_id": "70003125",
+    "title_on_source": "水淹七军",
+    "source_collection": "余叔岩剧本选",
+    "source_file": "京剧剧本/70003000/70003125_水淹七军.pdf",
+    "premiere_year": null,
+    "source_note": "pdfjs first-pass overlay",
+    "plot_summary": null
+  },
+  "scenes": [
+    {
+      "scene_id": "70003125:001",
+      "scene_no": 1,
+      "title_raw": "第一场",
+      "source_page_start": 1,
+      "source_page_end": 1
+    },
+    {
+      "scene_id": "70003125:002",
+      "scene_no": 2,
+      "title_raw": "第二场",
+      "source_page_start": 1,
+      "source_page_end": 2
+    },
+    {
+      "scene_id": "70003125:003",
+      "scene_no": 3,
+      "title_raw": "第三场",
+      "source_page_start": 2,
+      "source_page_end": 2
+    },
+    {
+      "scene_id": "70003125:004",
+      "scene_no": 4,
+      "title_raw": "第四场",
+      "source_page_start": 2,
+      "source_page_end": 2
+    },
+    {
+      "scene_id": "70003125:005",
+      "scene_no": 5,
+      "title_raw": "第五场",
+      "source_page_start": 2,
+      "source_page_end": 4
+    },
+    {
+      "scene_id": "70003125:006",
+      "scene_no": 6,
+      "title_raw": "第六场",
+      "source_page_start": 4,
+      "source_page_end": 4
+    },
+    {
+      "scene_id": "70003125:007",
+      "scene_no": 7,
+      "title_raw": "第七场",
+      "source_page_start": 4,
+      "source_page_end": 5
+    },
+    {
+      "scene_id": "70003125:008",
+      "scene_no": 8,
+      "title_raw": "第八场",
+      "source_page_start": 5,
+      "source_page_end": 6
+    }
+  ],
+  "segments": [
+    {
+      "segment_id": "70003125:0001",
+      "scene_id": "70003125:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 1,
+      "segment_type": "entrance_exit",
+      "text": "（庞德上，起霸。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "庞德上，起霸。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0002",
+      "scene_id": "70003125:001",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 2,
+      "segment_type": "recitation",
+      "text": "乌叶盔铠皂罗袍，大将威风杀气高。于禁挂了元帅印，庞德奋勇逞英豪。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0003",
+      "scene_id": "70003125:001",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 3,
+      "segment_type": "speech",
+      "text": "（白） 俺，姓庞名德字令名。只因曹仁襄阳败阵，魏王挂于禁为帅，命俺以为先行。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0004",
+      "scene_id": "70003125:001",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 4,
+      "segment_type": "speech",
+      "text": "俺自备皮榇一口，此去援军，定与关羽决一死战。远远望见元帅来也！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0005",
+      "scene_id": "70003125:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 5,
+      "segment_type": "entrance_exit",
+      "text": "（四龙套、四上手、于禁同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "四龙套、四上手、于禁同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0006",
+      "scene_id": "70003125:001",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 6,
+      "segment_type": "speech",
+      "text": "参见元帅！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0007",
+      "scene_id": "70003125:001",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 7,
+      "segment_type": "speech",
+      "text": "人马可齐？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0008",
+      "scene_id": "70003125:001",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 8,
+      "segment_type": "speech",
+      "text": "俱已齐备。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0009",
+      "scene_id": "70003125:001",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 9,
+      "segment_type": "speech",
+      "text": "起兵襄阳去者！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0010",
+      "scene_id": "70003125:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 10,
+      "segment_type": "entrance_exit",
+      "text": "（众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0011",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 11,
+      "segment_type": "entrance_exit",
+      "text": "（小马童引关羽同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "小马童引关羽同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0012",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 12,
+      "segment_type": "speech",
+      "text": "关羽（引子） 赤面雄心，须似乌，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0013",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 13,
+      "segment_type": "entrance_exit",
+      "text": "（周仓上，亮相。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "周仓上，亮相。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0014",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 14,
+      "segment_type": "speech",
+      "text": "关羽（引子） 绿袍锦甲，逞威武。秉烛达旦天下晓，汉室美髯一丈夫。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0015",
+      "scene_id": "70003125:002",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 15,
+      "segment_type": "speech",
+      "text": "参见父王！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0016",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 16,
+      "segment_type": "speech",
+      "text": "少礼。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0017",
+      "scene_id": "70003125:002",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 17,
+      "segment_type": "speech",
+      "text": "啊。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0018",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 18,
+      "segment_type": "recitation",
+      "text": "威镇荆州统雄兵，运筹帷幄鬼神惊。东吴君臣俱丧胆，智压曹瞒百万军。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0019",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 19,
+      "segment_type": "speech",
+      "text": "（白） 桃园结义，玄德兄、翼德弟，誓同生死。某奉大哥之命，威镇荆襄九郡。前者",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0020",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 20,
+      "segment_type": "speech",
+      "text": "曹仁失机兵败，曹操定不干休。也曾命赵累将军，探听魏军动静，未见回报。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0021",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 21,
+      "segment_type": "entrance_exit",
+      "text": "（赵累上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "赵累上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0022",
+      "scene_id": "70003125:002",
+      "speaker_name": "赵累",
+      "speaker_character_id": "char_e8b5b5e7b4af",
+      "order": 22,
+      "segment_type": "recitation",
+      "text": "探得机密事，回报君侯知。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0023",
+      "scene_id": "70003125:002",
+      "speaker_name": "赵累",
+      "speaker_character_id": "char_e8b5b5e7b4af",
+      "order": 23,
+      "segment_type": "speech",
+      "text": "（白） 启禀君侯：今有曹操，挂于禁为帅，统领七路人马。庞德以为先锋，自带皮榇",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0024",
+      "scene_id": "70003125:002",
+      "speaker_name": "赵累",
+      "speaker_character_id": "char_e8b5b5e7b4af",
+      "order": 24,
+      "segment_type": "speech",
+      "text": "一口，要与君侯决一死战。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0025",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 25,
+      "segment_type": "speech",
+      "text": "参谋紧守大营。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0026",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 26,
+      "segment_type": "entrance_exit",
+      "text": "（赵累下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "赵累下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0027",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 27,
+      "segment_type": "speech",
+      "text": "且住！庞德小儿，不过是马超帐下一员小将，何敢出此狂言？庞德呀，庞德！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0028",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 28,
+      "segment_type": "speech",
+      "text": "任你英勇无敌手，难逃关某偃月刀。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0029",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 29,
+      "segment_type": "speech",
+      "text": "周将！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0030",
+      "scene_id": "70003125:002",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 30,
+      "segment_type": "speech",
+      "text": "啊。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0031",
+      "scene_id": "70003125:002",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 31,
+      "segment_type": "speech",
+      "text": "排开阵式，迎敌者！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0032",
+      "scene_id": "70003125:002",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 32,
+      "segment_type": "speech",
+      "text": "咋，排开阵式，迎敌者！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0033",
+      "scene_id": "70003125:002",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 33,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/70003125 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0035",
+      "scene_id": "70003125:002",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 34,
+      "segment_type": "entrance_exit",
+      "text": "（众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0036",
+      "scene_id": "70003125:003",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 35,
+      "segment_type": "entrance_exit",
+      "text": "（四龙套、马童、庞德、关羽同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "四龙套、马童、庞德、关羽同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0037",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 36,
+      "segment_type": "speech",
+      "text": "呔，马前来的敢是庞德？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0038",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 37,
+      "segment_type": "speech",
+      "text": "然！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0039",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 38,
+      "segment_type": "speech",
+      "text": "庞将军！关某威名，尔岂不知？若肯归降，关某有爱将之癖，饶你不死。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0040",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 39,
+      "segment_type": "speech",
+      "text": "关羽！某奉魏王之命，来解樊城之围。今日阵前相会，倒要看看你的刀法如何？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0041",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 40,
+      "segment_type": "speech",
+      "text": "关羽马前，未遇三合之将。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0042",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 41,
+      "segment_type": "speech",
+      "text": "看刀！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0043",
+      "scene_id": "70003125:003",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 42,
+      "segment_type": "entrance_exit",
+      "text": "（〖吹打〗。关羽、庞德同对刀。于禁、马良双上，摇旗。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "〖吹打〗。关羽、庞德同对刀。于禁、马良双上，摇旗。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0044",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 43,
+      "segment_type": "speech",
+      "text": "呔，关羽你敢是怯战？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0045",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 44,
+      "segment_type": "speech",
+      "text": "你营先自鸣金，何言关某怯战？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0046",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 45,
+      "segment_type": "speech",
+      "text": "众将官！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0047",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 46,
+      "segment_type": "speech",
+      "text": "众将（同白） 有！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0048",
+      "scene_id": "70003125:003",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 47,
+      "segment_type": "speech",
+      "text": "收兵。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0049",
+      "scene_id": "70003125:003",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 48,
+      "segment_type": "entrance_exit",
+      "text": "（关羽、马童、众将同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关羽、马童、众将同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0050",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 49,
+      "segment_type": "speech",
+      "text": "且住。某与关羽，大战一百余合，眼见关羽气力不足。不知元帅为何鸣金收兵？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0051",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 50,
+      "segment_type": "speech",
+      "text": "众将官！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0052",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 51,
+      "segment_type": "speech",
+      "text": "四上手（同白） 有。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0053",
+      "scene_id": "70003125:003",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 52,
+      "segment_type": "speech",
+      "text": "回营。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0054",
+      "scene_id": "70003125:003",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 53,
+      "segment_type": "entrance_exit",
+      "text": "（众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0055",
+      "scene_id": "70003125:004",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 54,
+      "segment_type": "entrance_exit",
+      "text": "（四龙套、于禁同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "四龙套、于禁同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0056",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 55,
+      "segment_type": "recitation",
+      "text": "统领七军身为重，岂容庞德立头功。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0057",
+      "scene_id": "70003125:004",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 56,
+      "segment_type": "entrance_exit",
+      "text": "（庞德、四上手同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "庞德、四上手同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0058",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 57,
+      "segment_type": "speech",
+      "text": "参见元帅！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0059",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 58,
+      "segment_type": "speech",
+      "text": "庞将军辛苦了。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0060",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 59,
+      "segment_type": "speech",
+      "text": "元帅，适才关羽阵前，力已不支，正要擒他下马，元帅为何鸣金收兵？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0061",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 60,
+      "segment_type": "speech",
+      "text": "这个……某恐关羽有诈，故而鸣金。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0062",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 61,
+      "segment_type": "speech",
+      "text": "元帅，依某之见趁此锐气，统领七军，冲入敌营，以解樊城之围。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0063",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 62,
+      "segment_type": "speech",
+      "text": "哎！临行之时，魏王曾传谕旨，告诫我等不可轻敌。依本帅之见，只宜谨守，",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0064",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 63,
+      "segment_type": "speech",
+      "text": "切莫贪功。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0065",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 64,
+      "segment_type": "speech",
+      "text": "元帅！魏王有言，可取则取，不可取则宜谨守。今日一战，胜负即见，理当进",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0066",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 65,
+      "segment_type": "speech",
+      "text": "取。何言庞某贪功？",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0067",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 66,
+      "segment_type": "speech",
+      "text": "本帅遵奉谕旨，早有成算在心。就将七路大军，移往樊城之北，依山下寨。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0068",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 67,
+      "segment_type": "speech",
+      "text": "啊？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0069",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 68,
+      "segment_type": "speech",
+      "text": "庞德听令！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0070",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 69,
+      "segment_type": "speech",
+      "text": "在！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0071",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 70,
+      "segment_type": "speech",
+      "text": "命你带领本部人马，屯扎山谷之内，无令不可进兵，本帅自有奇谋破敌。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0072",
+      "scene_id": "70003125:004",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 71,
+      "segment_type": "speech",
+      "text": "得令！带马。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0073",
+      "scene_id": "70003125:004",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 72,
+      "segment_type": "entrance_exit",
+      "text": "（庞德、四下手同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "庞德、四下手同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0074",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 73,
+      "segment_type": "speech",
+      "text": "众将官！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0075",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 74,
+      "segment_type": "speech",
+      "text": "龙套（同白） 啊。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0076",
+      "scene_id": "70003125:004",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 75,
+      "segment_type": "speech",
+      "text": "将人马扎在山旁，截断大路，阻挡关羽，并防庞德擅自进兵。就此移营者。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0077",
+      "scene_id": "70003125:004",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 76,
+      "segment_type": "entrance_exit",
+      "text": "（于禁、众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "于禁、众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0078",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 77,
+      "segment_type": "entrance_exit",
+      "text": "（马童、周仓引关羽同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "马童、周仓引关羽同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0079",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 78,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/70003125 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0081",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 79,
+      "segment_type": "speech",
+      "text": "周将。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0082",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 80,
+      "segment_type": "speech",
+      "text": "在。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0083",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 81,
+      "segment_type": "speech",
+      "text": "传令下去，人不可卸甲，马不可离鞍，明日五鼓天明，大战庞德。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0084",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 82,
+      "segment_type": "speech",
+      "text": "咋，咋，咋！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0085",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 83,
+      "segment_type": "speech",
+      "text": "三军的，人不可卸甲，马不可离鞍，明日五鼓天明，大战那庞德。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0086",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 84,
+      "segment_type": "speech",
+      "text": "众人（内同白） 啊！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0087",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 85,
+      "segment_type": "entrance_exit",
+      "text": "（马童下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "马童下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0088",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 86,
+      "segment_type": "speech",
+      "text": "传令已毕。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0089",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 87,
+      "segment_type": "speech",
+      "text": "起过一旁。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0090",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 88,
+      "segment_type": "speech",
+      "text": "啊。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0091",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 89,
+      "segment_type": "recitation",
+      "text": "收了刀枪卷了旗，两下鸣金各自归。强中自有强中手，庞德刀法世间稀。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0092",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 90,
+      "segment_type": "speech",
+      "text": "庞德好刀法！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0093",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 91,
+      "segment_type": "aria",
+      "text": "恨庞德英勇无敌，",
+      "label_raw": "吹腔",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "aria",
+        "marker": "吹腔",
+        "tune": "吹腔",
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0094",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 92,
+      "segment_type": "speech",
+      "text": "（白） 刀来！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0095",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 93,
+      "segment_type": "speech",
+      "text": "（周仓交过刀。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0096",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 94,
+      "segment_type": "speech",
+      "text": "刀哇！想你过关斩将，何等威风。今日小小庞德，战他不过，好不气煞人也！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0097",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 95,
+      "segment_type": "speech",
+      "text": "（吹腔） 纵有青龙刀要尔何用。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0098",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 96,
+      "segment_type": "speech",
+      "text": "大骂庞德尔好威风，尔好煞气，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0099",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 97,
+      "segment_type": "speech",
+      "text": "阵前逞能轻视俺关某——",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0100",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 98,
+      "segment_type": "speech",
+      "text": "赤兔马要尔还何用。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0101",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 99,
+      "segment_type": "speech",
+      "text": "只怕那庞德，明日再来讨战。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0102",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 100,
+      "segment_type": "aria",
+      "text": "那庞德明日里若来讨战——",
+      "label_raw": "吹腔",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "aria",
+        "marker": "吹腔",
+        "tune": "吹腔",
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0103",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 101,
+      "segment_type": "speech",
+      "text": "待俺周仓会他一会。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0104",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 102,
+      "segment_type": "speech",
+      "text": "你么？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0105",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 103,
+      "segment_type": "speech",
+      "text": "某与少将军一同出马。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0106",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 104,
+      "segment_type": "speech",
+      "text": "嗯？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0107",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 105,
+      "segment_type": "speech",
+      "text": "我等随定君侯，杀他个三马连环。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0108",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 106,
+      "segment_type": "speech",
+      "text": "哼！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0109",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 107,
+      "segment_type": "speech",
+      "text": "（吹腔） 三马连环战庞德，岂不羞惭！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0110",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 108,
+      "segment_type": "entrance_exit",
+      "text": "（关平上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关平上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0111",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 109,
+      "segment_type": "recitation",
+      "text": "于禁迁移营，进帐报军情。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0112",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 110,
+      "segment_type": "speech",
+      "text": "（关平进帐。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0113",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 111,
+      "segment_type": "speech",
+      "text": "启禀爹爹：今有于禁将七路军马，移在山口扎营。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0114",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 112,
+      "segment_type": "speech",
+      "text": "有这等事？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0115",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 113,
+      "segment_type": "speech",
+      "text": "关平、周将随我查看者。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0116",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 114,
+      "segment_type": "speech",
+      "text": "（粉蝶儿） 离却宝帐，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0117",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 115,
+      "segment_type": "entrance_exit",
+      "text": "（关羽向下场望。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关羽向下场望。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0118",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 116,
+      "segment_type": "speech",
+      "text": "出营房敌情查防，",
+      "label_raw": "粉蝶儿",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "粉蝶儿",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0119",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 117,
+      "segment_type": "entrance_exit",
+      "text": "（关羽向上场望。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关羽向上场望。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0120",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 118,
+      "segment_type": "speech",
+      "text": "雾腾腾杀气弥漫，",
+      "label_raw": "粉蝶儿",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "粉蝶儿",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0121",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 119,
+      "segment_type": "speech",
+      "text": "（关羽向中场望。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0122",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 120,
+      "segment_type": "speech",
+      "text": "上山冈仔细观望。",
+      "label_raw": "粉蝶儿",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "粉蝶儿",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0123",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 121,
+      "segment_type": "speech",
+      "text": "（关羽正场高望。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0124",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 122,
+      "segment_type": "speech",
+      "text": "白茫茫一带襄江，",
+      "label_raw": "粉蝶儿",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "粉蝶儿",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0125",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 123,
+      "segment_type": "speech",
+      "text": "（水声。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0126",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 124,
+      "segment_type": "speech",
+      "text": "又听得水声沧浪。",
+      "label_raw": "粉蝶儿",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "粉蝶儿",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0127",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 125,
+      "segment_type": "entrance_exit",
+      "text": "（七军同上，过场，同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "七军同上，过场，同下。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0128",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 126,
+      "segment_type": "speech",
+      "text": "哇呀呀！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0129",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 127,
+      "segment_type": "speech",
+      "text": "魏营中移营盘军号喧嚷，",
+      "label_raw": "粉蝶儿",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "粉蝶儿",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0130",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 128,
+      "segment_type": "speech",
+      "text": "猛然间计上胸膛。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0131",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 129,
+      "segment_type": "speech",
+      "text": "乘襄江狂涛怒涨，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0132",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 130,
+      "segment_type": "speech",
+      "text": "擒庞德和七军尽赴汪洋。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0133",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 131,
+      "segment_type": "speech",
+      "text": "（白） 回营！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0134",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 132,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/70003125 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0136",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 133,
+      "segment_type": "entrance_exit",
+      "text": "（关羽、周仓、关平同下山，关羽归座。众将同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关羽、周仓、关平同下山，关羽归座。众将同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0137",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 134,
+      "segment_type": "speech",
+      "text": "哈哈哈！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0138",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 135,
+      "segment_type": "speech",
+      "text": "爹爹为何发笑？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0139",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 136,
+      "segment_type": "speech",
+      "text": "我笑的是庞德恃勇，于禁无谋。七路大军，屯扎在罾口川低洼之处。鱼入罾口，",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0140",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 137,
+      "segment_type": "speech",
+      "text": "岂能久乎？某略施小计，管叫他全军尽没。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0141",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 138,
+      "segment_type": "speech",
+      "text": "周仓、",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0142",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 139,
+      "segment_type": "speech",
+      "text": "君侯之计如何？",
+      "label_raw": "同白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "同白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0143",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 140,
+      "segment_type": "speech",
+      "text": "沿江决口，水淹七军。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0144",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 141,
+      "segment_type": "speech",
+      "text": "周将听令！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0145",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 142,
+      "segment_type": "speech",
+      "text": "咋。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0146",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 143,
+      "segment_type": "speech",
+      "text": "命你将树伐倒，造成木排，带领五百水手，生擒庞德。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0147",
+      "scene_id": "70003125:005",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 144,
+      "segment_type": "speech",
+      "text": "得令。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0148",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 145,
+      "segment_type": "entrance_exit",
+      "text": "（周仓下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "周仓下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0149",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 146,
+      "segment_type": "speech",
+      "text": "关平听令！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0150",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 147,
+      "segment_type": "speech",
+      "text": "在。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0151",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 148,
+      "segment_type": "speech",
+      "text": "命你带领一千人马，准备沙囊土袋，去至襄江，将上下流水堵塞。只等江水暴",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": "流水",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0152",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 149,
+      "segment_type": "speech",
+      "text": "涨，将近上流土袋撤去，决破堤口，然后水面杀敌。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0153",
+      "scene_id": "70003125:005",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 150,
+      "segment_type": "speech",
+      "text": "得令！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0154",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 151,
+      "segment_type": "entrance_exit",
+      "text": "（关平下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关平下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0155",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 152,
+      "segment_type": "speech",
+      "text": "众将官！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0156",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 153,
+      "segment_type": "speech",
+      "text": "众将（同白） 有！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0157",
+      "scene_id": "70003125:005",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 154,
+      "segment_type": "speech",
+      "text": "全军人马，连夜移驻高阜之上准备船只，尽灭七军去者！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0158",
+      "scene_id": "70003125:005",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 155,
+      "segment_type": "entrance_exit",
+      "text": "（关羽、众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关羽、众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0159",
+      "scene_id": "70003125:006",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 156,
+      "segment_type": "entrance_exit",
+      "text": "（四龙套、于禁同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "四龙套、于禁同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0160",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 157,
+      "segment_type": "recitation",
+      "text": "兵扎罾口川，犹如铁桶般。",
+      "label_raw": "念",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "recitation",
+        "marker": "念",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0161",
+      "scene_id": "70003125:006",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 158,
+      "segment_type": "entrance_exit",
+      "text": "（庞德、四下手同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "庞德、四下手同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0162",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 159,
+      "segment_type": "speech",
+      "text": "参见元帅。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0163",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 160,
+      "segment_type": "speech",
+      "text": "庞将军到此何事？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0164",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 161,
+      "segment_type": "speech",
+      "text": "适才差人暗探敌人动静，荆州兵马，移驻高阜之上，其中有诈。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0165",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 162,
+      "segment_type": "speech",
+      "text": "关羽移营，何诈之有？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0166",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 163,
+      "segment_type": "speech",
+      "text": "想这七军屯于川口，地势甚低，而今秋雨连绵，江水暴涨。倘若关羽决口放水，",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0167",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 164,
+      "segment_type": "speech",
+      "text": "我军危矣。就请元帅传令，速速移营！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0168",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 165,
+      "segment_type": "speech",
+      "text": "哎！移营方定，军士辛苦，再若移动，那关羽乘势截杀，如何抵挡？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0169",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 166,
+      "segment_type": "speech",
+      "text": "兵贵神速，不可迟疑。关羽杀来，有某抵挡。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0170",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 167,
+      "segment_type": "speech",
+      "text": "说什么迟疑不迟疑，分明是你危言耸听，贪功好胜。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0171",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 168,
+      "segment_type": "speech",
+      "text": "元帅！某以七军为重，何言贪功好胜？元帅不肯移营，俺庞德愿将本部军马，",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0172",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 169,
+      "segment_type": "speech",
+      "text": "移驻高阜之上，倘有不测，也好接应。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0173",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 170,
+      "segment_type": "speech",
+      "text": "容某思之。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0174",
+      "scene_id": "70003125:006",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 171,
+      "segment_type": "entrance_exit",
+      "text": "（报子上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "报子上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0175",
+      "scene_id": "70003125:006",
+      "speaker_name": "报子",
+      "speaker_character_id": "char_e68aa5e5ad90",
+      "order": 172,
+      "segment_type": "speech",
+      "text": "启元帅，襄江决口，直灌我营。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0176",
+      "scene_id": "70003125:006",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 173,
+      "segment_type": "speech",
+      "text": "哎呀！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0177",
+      "scene_id": "70003125:006",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 174,
+      "segment_type": "speech",
+      "text": "众将官！速速离营！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0178",
+      "scene_id": "70003125:006",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 175,
+      "segment_type": "entrance_exit",
+      "text": "（水声冲众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "水声冲众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0179",
+      "scene_id": "70003125:007",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 176,
+      "segment_type": "entrance_exit",
+      "text": "（马童、关平同上，过场，同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "马童、关平同上，过场，同下。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0180",
+      "scene_id": "70003125:007",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 177,
+      "segment_type": "speech",
+      "text": "好大水也！",
+      "label_raw": "内白",
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": "内白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0181",
+      "scene_id": "70003125:007",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 178,
+      "segment_type": "entrance_exit",
+      "text": "（周仓执排上，擒七军众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "周仓执排上，擒七军众人同下。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0182",
+      "scene_id": "70003125:007",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 179,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/70003125 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 4,
+      "source_page_end": 4,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0184",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 180,
+      "segment_type": "entrance_exit",
+      "text": "（众将、马童、关羽同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "众将、马童、关羽同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0185",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 181,
+      "segment_type": "speech",
+      "text": "哈哈哈！",
+      "label_raw": "笑",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "笑",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0186",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 182,
+      "segment_type": "entrance_exit",
+      "text": "（关平上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "关平上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0187",
+      "scene_id": "70003125:008",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 183,
+      "segment_type": "speech",
+      "text": "于禁被擒。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0188",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 184,
+      "segment_type": "speech",
+      "text": "绑进帐来。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0189",
+      "scene_id": "70003125:008",
+      "speaker_name": "关平",
+      "speaker_character_id": "char_e585b3e5b9b3",
+      "order": 185,
+      "segment_type": "speech",
+      "text": "绑进帐来。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0190",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 186,
+      "segment_type": "entrance_exit",
+      "text": "（二兵卒押于禁同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "二兵卒押于禁同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0191",
+      "scene_id": "70003125:008",
+      "speaker_name": "于禁",
+      "speaker_character_id": "char_e4ba8ee7a681",
+      "order": 187,
+      "segment_type": "speech",
+      "text": "君侯啊！于禁归降来迟，死罪呀，死罪！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0192",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 188,
+      "segment_type": "speech",
+      "text": "唗！大胆于禁，关某兴兵至此，尔竟敢猖狂。来将于禁打入囚车，解回荆州，",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0193",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 189,
+      "segment_type": "speech",
+      "text": "待某擒住曹操，一齐斩首。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0194",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 190,
+      "segment_type": "entrance_exit",
+      "text": "（二兵卒押于禁同下。周仓上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "二兵卒押于禁同下。周仓上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0195",
+      "scene_id": "70003125:008",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 191,
+      "segment_type": "speech",
+      "text": "庞德被擒。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0196",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 192,
+      "segment_type": "speech",
+      "text": "押进帐来。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0197",
+      "scene_id": "70003125:008",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 193,
+      "segment_type": "speech",
+      "text": "押进帐来。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0198",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 194,
+      "segment_type": "entrance_exit",
+      "text": "（二兵士押庞德同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "二兵士押庞德同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0199",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 195,
+      "segment_type": "speech",
+      "text": "下站可是庞德？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0200",
+      "scene_id": "70003125:008",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 196,
+      "segment_type": "speech",
+      "text": "然！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0201",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 197,
+      "segment_type": "speech",
+      "text": "既已被擒，为何不跪？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0202",
+      "scene_id": "70003125:008",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 198,
+      "segment_type": "speech",
+      "text": "俺乃堂堂英雄，岂肯屈膝于你。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0203",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 199,
+      "segment_type": "speech",
+      "text": "今日被擒，可知关某威名？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0204",
+      "scene_id": "70003125:008",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 200,
+      "segment_type": "speech",
+      "text": "关羽！今日之事，只因于禁不听某言，致有此败。那日若不是他鸣金收兵，只",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0205",
+      "scene_id": "70003125:008",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 201,
+      "segment_type": "speech",
+      "text": "怕你早做了俺的刀头之鬼。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0206",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 202,
+      "segment_type": "speech",
+      "text": "大胆！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0207",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 203,
+      "segment_type": "speech",
+      "text": "（风入松） 庞德出言太猖狂，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0208",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 204,
+      "segment_type": "speech",
+      "text": "敢说刀法比我强。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0209",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 205,
+      "segment_type": "speech",
+      "text": "（白） 斩！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0210",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 206,
+      "segment_type": "speech",
+      "text": "众将（同白） 且慢！庞德乃马超将军帐下旧将，勇猛非常，劝他归降，岂不又添一员猛将？",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0211",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 207,
+      "segment_type": "speech",
+      "text": "这……",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0212",
+      "scene_id": "70003125:008",
+      "speaker_name": "众将",
+      "speaker_character_id": "char_e4bc97e5b086",
+      "order": 208,
+      "segment_type": "speech",
+      "text": "君侯三思。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0213",
+      "scene_id": "70003125:008",
+      "speaker_name": "庞德",
+      "speaker_character_id": "char_e5ba9ee5beb7",
+      "order": 209,
+      "segment_type": "speech",
+      "text": "某宁死不降。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0214",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 210,
+      "segment_type": "speech",
+      "text": "斩！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0215",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 211,
+      "segment_type": "entrance_exit",
+      "text": "（周仓推庞德同下，周仓上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "周仓推庞德同下，周仓上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0216",
+      "scene_id": "70003125:008",
+      "speaker_name": "周仓",
+      "speaker_character_id": "char_e591a8e4bb93",
+      "order": 212,
+      "segment_type": "speech",
+      "text": "斩首已毕。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0217",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 213,
+      "segment_type": "speech",
+      "text": "将他自带皮榇，盛殓他的尸首，埋葬起来。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0218",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 214,
+      "segment_type": "speech",
+      "text": "（关羽出位。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0219",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 215,
+      "segment_type": "speech",
+      "text": "今日七军已灭，樊城指日可破，皆众位将军之功。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0220",
+      "scene_id": "70003125:008",
+      "speaker_name": "众将",
+      "speaker_character_id": "char_e4bc97e5b086",
+      "order": 216,
+      "segment_type": "speech",
+      "text": "末将等何功之有。君侯谋略灭七军，于禁被擒，庞德被斩，声威大震，君侯可",
+      "label_raw": "同白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "同白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0221",
+      "scene_id": "70003125:008",
+      "speaker_name": "众将",
+      "speaker_character_id": "char_e4bc97e5b086",
+      "order": 217,
+      "segment_type": "speech",
+      "text": "称威震华夏矣！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0222",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 218,
+      "segment_type": "speech",
+      "text": "威震华夏？",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0223",
+      "scene_id": "70003125:008",
+      "speaker_name": "众将",
+      "speaker_character_id": "char_e4bc97e5b086",
+      "order": 219,
+      "segment_type": "speech",
+      "text": "威震华夏。",
+      "label_raw": "同白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "同白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0224",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 220,
+      "segment_type": "speech",
+      "text": "哈哈哈！",
+      "label_raw": "三笑",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "三笑",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0225",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 221,
+      "segment_type": "speech",
+      "text": "（白） 后帐摆宴，与众将贺功。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0226",
+      "scene_id": "70003125:008",
+      "speaker_name": "众将",
+      "speaker_character_id": "char_e4bc97e5b086",
+      "order": 222,
+      "segment_type": "speech",
+      "text": "谢君侯。",
+      "label_raw": "同白",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "同白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0227",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 223,
+      "segment_type": "speech",
+      "text": "奉君命镇荆襄，",
+      "label_raw": "沽美酒",
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": "沽美酒",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0228",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 224,
+      "segment_type": "speech",
+      "text": "统雄师战襄阳，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0229",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 225,
+      "segment_type": "speech",
+      "text": "全凭着青龙偃月英名好。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0230",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 226,
+      "segment_type": "speech",
+      "text": "今日里庞德命丧，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0231",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 227,
+      "segment_type": "speech",
+      "text": "擒于禁七军皆亡，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0232",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 228,
+      "segment_type": "speech",
+      "text": "灭吴魏犹如反掌，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0233",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 229,
+      "segment_type": "speech",
+      "text": "指日里把中原扫荡，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0234",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 230,
+      "segment_type": "speech",
+      "text": "俺乎，显得俺威风抖搂凌云智广，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0235",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 231,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/70003125 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 5,
+      "source_page_end": 5,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0237",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 232,
+      "segment_type": "speech",
+      "text": "（白） 哎呀！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 6,
+      "source_page_end": 6,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0238",
+      "scene_id": "70003125:008",
+      "speaker_name": "关羽",
+      "speaker_character_id": "char_e585b3e7bebd",
+      "order": 233,
+      "segment_type": "speech",
+      "text": "（沽美酒） 保大哥展土开疆。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 6,
+      "source_page_end": 6,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0239",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 234,
+      "segment_type": "entrance_exit",
+      "text": "（众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 6,
+      "source_page_end": 6,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0240",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 235,
+      "segment_type": "speech",
+      "text": "（完）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 6,
+      "source_page_end": 6,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0241",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 236,
+      "segment_type": "speech",
+      "text": "Powered by TCPDF (www.tcpdf.org)",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 6,
+      "source_page_end": 6,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "70003125:0242",
+      "scene_id": "70003125:008",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 237,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/70003125 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 6,
+      "source_page_end": 6,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    }
+  ],
+  "characters": [
+    {
+      "character_id": "char_e5ba9ee5beb7",
+      "canonical_name": "庞德",
+      "version_roles": [
+        {
+          "role_type_raw": "净"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e585b3e5b9b3",
+      "canonical_name": "关平",
+      "version_roles": [
+        {
+          "role_type_raw": "武生"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e591a8e4bb93",
+      "canonical_name": "周仓",
+      "version_roles": [
+        {
+          "role_type_raw": "净"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e4ba8ee7a681",
+      "canonical_name": "于禁",
+      "version_roles": []
+    },
+    {
+      "character_id": "char_e585b3e7bebd",
+      "canonical_name": "关羽",
+      "version_roles": []
+    },
+    {
+      "character_id": "char_e8b5b5e7b4af",
+      "canonical_name": "赵累",
+      "version_roles": []
+    },
+    {
+      "character_id": "char_e68aa5e5ad90",
+      "canonical_name": "报子",
+      "version_roles": []
+    },
+    {
+      "character_id": "char_e4bc97e5b086",
+      "canonical_name": "众将",
+      "version_roles": []
+    }
+  ],
+  "credits": [],
+  "curation": {
+    "match_rate": 0.68,
+    "page_provenance": "pdfjs first-pass",
+    "extractor_version": "pdfjs-first-pass-0.1"
+  }
+}
