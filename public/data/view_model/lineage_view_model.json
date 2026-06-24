@@ -1,0 +1,1652 @@
+{
+  "plays": [
+    {
+      "playId": "play-四郎探母",
+      "playName": "四郎探母",
+      "summary": {
+        "sourceCount": 1,
+        "versionCount": 2,
+        "roleTypeCount": 5,
+        "characterCount": 14,
+        "objectCount": 0,
+        "similarityAvg": 0.9556
+      },
+      "nodes": [
+        {
+          "id": "play-四郎探母",
+          "type": "play",
+          "label": "四郎探母",
+          "subtitle": "全2版本",
+          "count": 2
+        },
+        {
+          "id": "source-录音、唱片本",
+          "type": "source",
+          "label": "录音、唱片本",
+          "count": 2
+        },
+        {
+          "id": "version-80000001",
+          "type": "version",
+          "label": "80000001",
+          "subtitle": "四郎探母",
+          "count": 11,
+          "pageRange": "共 17 页",
+          "raw": {
+            "source_collection": "录音、唱片本",
+            "source_type": "recording_transcript",
+            "n_scenes": 11,
+            "n_roles": 10,
+            "n_aria": 177,
+            "n_speech": 260,
+            "aria_segment_ratio": 0.4005
+          }
+        },
+        {
+          "id": "version-80000028",
+          "type": "version",
+          "label": "80000028",
+          "subtitle": "四郎探母",
+          "count": 12,
+          "pageRange": "共 20 页",
+          "raw": {
+            "source_collection": "录音、唱片本",
+            "source_type": "recording_transcript",
+            "n_scenes": 12,
+            "n_roles": 11,
+            "n_aria": 215,
+            "n_speech": 337,
+            "aria_segment_ratio": 0.3853
+          }
+        },
+        {
+          "id": "roletype-play-四郎探母-老生",
+          "type": "roleType",
+          "label": "老生",
+          "count": 4
+        },
+        {
+          "id": "roletype-play-四郎探母-旦",
+          "type": "roleType",
+          "label": "旦",
+          "count": 9
+        },
+        {
+          "id": "roletype-play-四郎探母-小生",
+          "type": "roleType",
+          "label": "小生",
+          "count": 2
+        },
+        {
+          "id": "roletype-play-四郎探母-老旦",
+          "type": "roleType",
+          "label": "老旦",
+          "count": 2
+        },
+        {
+          "id": "roletype-play-四郎探母-丑",
+          "type": "roleType",
+          "label": "丑",
+          "count": 4
+        },
+        {
+          "id": "char-char_e579b672df4d",
+          "type": "character",
+          "label": "二国舅",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_053a3564598a",
+          "type": "character",
+          "label": "佘太君",
+          "subtitle": "老旦"
+        },
+        {
+          "id": "char-char_419c5b120b37",
+          "type": "character",
+          "label": "四夫人",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_9051f0321682",
+          "type": "character",
+          "label": "大国舅",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_169f4dc327d3",
+          "type": "character",
+          "label": "杨九妹",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_c36039220c82",
+          "type": "character",
+          "label": "杨八姐",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_4cfff05f07c5",
+          "type": "character",
+          "label": "杨宗保",
+          "subtitle": "小生"
+        },
+        {
+          "id": "char-char_1af15e0dc928",
+          "type": "character",
+          "label": "杨延昭",
+          "subtitle": "老生"
+        },
+        {
+          "id": "char-char_d5d6ead97724",
+          "type": "character",
+          "label": "杨延辉",
+          "subtitle": "老生"
+        },
+        {
+          "id": "char-char_1e7c45aa00da",
+          "type": "character",
+          "label": "萧太后",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_22eb638169e8",
+          "type": "character",
+          "label": "铁镜公主",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_677bdf894809",
+          "type": "character",
+          "label": "丫鬟",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_4f3b2e8ab822",
+          "type": "character",
+          "label": "余太君",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_b848c43c0309",
+          "type": "character",
+          "label": "四宋兵",
+          "subtitle": "未标注行当"
+        }
+      ],
+      "links": [
+        {
+          "source": "source-录音、唱片本",
+          "target": "version-80000001",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-80000001",
+          "target": "play-四郎探母",
+          "type": "version_to_play",
+          "weight": 11,
+          "importance": "primary"
+        },
+        {
+          "source": "source-录音、唱片本",
+          "target": "version-80000028",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-80000028",
+          "target": "play-四郎探母",
+          "type": "version_to_play",
+          "weight": 12,
+          "importance": "primary"
+        },
+        {
+          "source": "play-四郎探母",
+          "target": "roletype-play-四郎探母-老生",
+          "type": "play_to_role_type",
+          "weight": 4,
+          "importance": "primary"
+        },
+        {
+          "source": "play-四郎探母",
+          "target": "roletype-play-四郎探母-旦",
+          "type": "play_to_role_type",
+          "weight": 9,
+          "importance": "primary"
+        },
+        {
+          "source": "play-四郎探母",
+          "target": "roletype-play-四郎探母-小生",
+          "type": "play_to_role_type",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-四郎探母",
+          "target": "roletype-play-四郎探母-老旦",
+          "type": "play_to_role_type",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-四郎探母",
+          "target": "roletype-play-四郎探母-丑",
+          "type": "play_to_role_type",
+          "weight": 4,
+          "importance": "primary"
+        },
+        {
+          "source": "version-80000001",
+          "target": "version-80000028",
+          "type": "version_similarity",
+          "confidence": 0.9556,
+          "weight": 0.9556,
+          "label": "相似度 95.6%",
+          "importance": "primary"
+        },
+        {
+          "source": "roletype-play-四郎探母-丑",
+          "target": "char-char_e579b672df4d",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-老旦",
+          "target": "char-char_053a3564598a",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-丑",
+          "target": "char-char_9051f0321682",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-旦",
+          "target": "char-char_169f4dc327d3",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-旦",
+          "target": "char-char_c36039220c82",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-小生",
+          "target": "char-char_4cfff05f07c5",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-老生",
+          "target": "char-char_1af15e0dc928",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-老生",
+          "target": "char-char_d5d6ead97724",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-旦",
+          "target": "char-char_1e7c45aa00da",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-旦",
+          "target": "char-char_22eb638169e8",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-四郎探母-旦",
+          "target": "char-char_419c5b120b37",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        }
+      ],
+      "versionBridge": [
+        {
+          "versionId": "80000001",
+          "sourceLabel": "录音、唱片本",
+          "sceneCount": 11,
+          "pageCount": 17,
+          "similarity": 0.992048,
+          "sourceFile": "京剧剧本/80000000/80000001_四郎探母.pdf"
+        },
+        {
+          "versionId": "80000028",
+          "sourceLabel": "录音、唱片本",
+          "sceneCount": 12,
+          "pageCount": 20,
+          "similarity": 0.990909,
+          "sourceFile": "京剧剧本/80000000/80000028_四郎探母.pdf"
+        }
+      ],
+      "readingGuide": {
+        "question": "《四郎探母》在不同来源中如何被记录？",
+        "howToRead": "中心镜轴为剧目；左右为来源 → 版本 → 角色行当；金色虚线表示版本间文本相似度，越粗越接近。",
+        "currentFinding": "本剧暂无关联流派/对象元数据。",
+        "caution": ""
+      }
+    },
+    {
+      "playId": "play-宇宙锋",
+      "playName": "宇宙锋",
+      "summary": {
+        "sourceCount": 5,
+        "versionCount": 5,
+        "roleTypeCount": 17,
+        "characterCount": 22,
+        "objectCount": 1,
+        "similarityAvg": 0.5741933
+      },
+      "nodes": [
+        {
+          "id": "play-宇宙锋",
+          "type": "play",
+          "label": "宇宙锋",
+          "subtitle": "全5版本",
+          "count": 5
+        },
+        {
+          "id": "source-《梅兰芳演出剧本选集》",
+          "type": "source",
+          "label": "《梅兰芳演出剧本选集》",
+          "count": 1
+        },
+        {
+          "id": "source-《戏考》",
+          "type": "source",
+          "label": "《戏考》",
+          "count": 1
+        },
+        {
+          "id": "source-《京剧丛刊》",
+          "type": "source",
+          "label": "《京剧丛刊》",
+          "count": 1
+        },
+        {
+          "id": "source-《京剧流派剧目荟萃》",
+          "type": "source",
+          "label": "《京剧流派剧目荟萃》",
+          "count": 1
+        },
+        {
+          "id": "source-《戏典》",
+          "type": "source",
+          "label": "《戏典》",
+          "count": 1
+        },
+        {
+          "id": "version-70201101",
+          "type": "version",
+          "label": "70201101",
+          "subtitle": "宇宙锋",
+          "count": 2,
+          "pageRange": "共 5 页",
+          "raw": {
+            "source_collection": "《梅兰芳演出剧本选集》",
+            "source_type": "performance_script",
+            "n_scenes": 2,
+            "n_roles": 3,
+            "n_aria": 23,
+            "n_speech": 126,
+            "aria_segment_ratio": 0.1503
+          }
+        },
+        {
+          "id": "version-01002014",
+          "type": "version",
+          "label": "01002014",
+          "subtitle": "宇宙锋",
+          "count": 2,
+          "pageRange": "共 4 页",
+          "raw": {
+            "source_collection": "《戏考》",
+            "source_type": "anthology",
+            "n_scenes": 2,
+            "n_roles": 3,
+            "n_aria": 19,
+            "n_speech": 97,
+            "aria_segment_ratio": 0.1557
+          }
+        },
+        {
+          "id": "version-04011001",
+          "type": "version",
+          "label": "04011001",
+          "subtitle": "宇宙锋",
+          "count": 2,
+          "pageRange": "共 5 页",
+          "raw": {
+            "source_collection": "《京剧丛刊》",
+            "source_type": "anthology",
+            "n_scenes": 2,
+            "n_roles": 4,
+            "n_aria": 22,
+            "n_speech": 125,
+            "aria_segment_ratio": 0.1457
+          }
+        },
+        {
+          "id": "version-09001002",
+          "type": "version",
+          "label": "09001002",
+          "subtitle": "宇宙锋",
+          "count": 2,
+          "pageRange": "共 12 页",
+          "raw": {
+            "source_collection": "《京剧流派剧目荟萃》",
+            "source_type": "anthology",
+            "n_scenes": 2,
+            "n_roles": 13,
+            "n_aria": 62,
+            "n_speech": 240,
+            "aria_segment_ratio": 0.2026
+          }
+        },
+        {
+          "id": "version-14002010",
+          "type": "version",
+          "label": "14002010",
+          "subtitle": "宇宙锋",
+          "count": 2,
+          "pageRange": "共 4 页",
+          "raw": {
+            "source_collection": "《戏典》",
+            "source_type": "anthology",
+            "n_scenes": 2,
+            "n_roles": 4,
+            "n_aria": 16,
+            "n_speech": 94,
+            "aria_segment_ratio": 0.1379
+          }
+        },
+        {
+          "id": "roletype-play-宇宙锋-正旦",
+          "type": "roleType",
+          "label": "正旦",
+          "count": 3
+        },
+        {
+          "id": "roletype-play-宇宙锋-净",
+          "type": "roleType",
+          "label": "净",
+          "count": 4
+        },
+        {
+          "id": "roletype-play-宇宙锋-小生",
+          "type": "roleType",
+          "label": "小生",
+          "count": 5
+        },
+        {
+          "id": "roletype-play-宇宙锋-旦",
+          "type": "roleType",
+          "label": "旦",
+          "count": 2
+        },
+        {
+          "id": "roletype-play-宇宙锋-旦，梳大头线帘子、点翠头面、带抱头联、小白绸条、团花蓝披或黑披、衬青褶子、花边腰包、彩",
+          "type": "roleType",
+          "label": "旦，梳大头线帘子、点翠头面、带抱头联、小白绸条、团花蓝披或黑披、衬青褶子、花边腰包、彩",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-净，相巾、黪满、紫开氅、衬素褶子、红彩裤、厚底；金殿一场换相纱、黑蟒、玉带。",
+          "type": "roleType",
+          "label": "净，相巾、黪满、紫开氅、衬素褶子、红彩裤、厚底；金殿一场换相纱、黑蟒、玉带。",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-旦，梳大头抓髻线帘子、水钻头面、裤袄、大坎肩、白腰巾、彩鞋",
+          "type": "roleType",
+          "label": "旦，梳大头抓髻线帘子、水钻头面、裤袄、大坎肩、白腰巾、彩鞋",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-丑，圆纱、黑吊搭、青褶子、红彩裤、大布袜、朝方",
+          "type": "roleType",
+          "label": "丑，圆纱、黑吊搭、青褶子、红彩裤、大布袜、朝方",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-杂，太监帽、花褶子、彩裤、厚底",
+          "type": "roleType",
+          "label": "杂，太监帽、花褶子、彩裤、厚底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-净，尖纱、黑满、蓝蟒、玉带、红彩裤、厚底",
+          "type": "roleType",
+          "label": "净，尖纱、黑满、蓝蟒、玉带、红彩裤、厚底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-丑：圆纱、黑吊搭、红蟒、玉带、红彩裤、朝方",
+          "type": "roleType",
+          "label": "丑：圆纱、黑吊搭、红蟒、玉带、红彩裤、朝方",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-生，中纱、黑三、白蟒、玉带、红彩裤、厚底",
+          "type": "roleType",
+          "label": "生，中纱、黑三、白蟒、玉带、红彩裤、厚底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-生，中纱、黪三、白蟒、玉带、红彩裤、厚底",
+          "type": "roleType",
+          "label": "生，中纱、黪三、白蟒、玉带、红彩裤、厚底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-杂，大铠服、罐子盔（武士盔）、红彩裤、薄底",
+          "type": "roleType",
+          "label": "杂，大铠服、罐子盔（武士盔）、红彩裤、薄底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-杂，太监帽、太监衣、红彩裤、薄底",
+          "type": "roleType",
+          "label": "杂，太监帽、太监衣、红彩裤、薄底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-杂，太监帽、花褶子、红彩裤、厚底",
+          "type": "roleType",
+          "label": "杂，太监帽、花褶子、红彩裤、厚底",
+          "count": 1
+        },
+        {
+          "id": "roletype-play-宇宙锋-丑",
+          "type": "roleType",
+          "label": "丑",
+          "count": 1
+        },
+        {
+          "id": "object-70201000",
+          "type": "school",
+          "label": "梅兰芳 / 梅派",
+          "subtitle": "《梅兰芳演出剧本选集》",
+          "count": 11
+        },
+        {
+          "id": "char-char_0ce30db5c2b2",
+          "type": "character",
+          "label": "四朝臣",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_ec44459115e8",
+          "type": "character",
+          "label": "大太监甲",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_89e180f668b9",
+          "type": "character",
+          "label": "秦王",
+          "subtitle": "小生"
+        },
+        {
+          "id": "char-char_f272d63fcc52",
+          "type": "character",
+          "label": "赵艳容",
+          "subtitle": "正旦"
+        },
+        {
+          "id": "char-char_0602092cc313",
+          "type": "character",
+          "label": "赵高",
+          "subtitle": "净"
+        },
+        {
+          "id": "char-char_442eb398b1e4",
+          "type": "character",
+          "label": "门官",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_7143c8771a23",
+          "type": "character",
+          "label": "丫头",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_9d4a690f81bc",
+          "type": "character",
+          "label": "丫鬟",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_fce8211b8f79",
+          "type": "character",
+          "label": "哑丫鬟",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_b2aa658f5614",
+          "type": "character",
+          "label": "大太监",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_bdf9002ec066",
+          "type": "character",
+          "label": "秦二世",
+          "subtitle": "小生"
+        },
+        {
+          "id": "char-char_c5de0768c3d9",
+          "type": "character",
+          "label": "赵女",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_e7f9ffd30874",
+          "type": "character",
+          "label": "二大太监",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_5f3dcaabf903",
+          "type": "character",
+          "label": "二太监",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_01a7d45120f6",
+          "type": "character",
+          "label": "哑奴",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_91989cd9dd51",
+          "type": "character",
+          "label": "四小太监",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_c7a8bf50804d",
+          "type": "character",
+          "label": "四御林军",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_5896039da56f",
+          "type": "character",
+          "label": "太监",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_ce7695ab5ac3",
+          "type": "character",
+          "label": "朝臣丁",
+          "subtitle": "生"
+        },
+        {
+          "id": "char-char_98d32356cde9",
+          "type": "character",
+          "label": "朝臣丙",
+          "subtitle": "生"
+        },
+        {
+          "id": "char-char_09b07994dbb9",
+          "type": "character",
+          "label": "朝臣甲",
+          "subtitle": "净"
+        },
+        {
+          "id": "char-char_ed0b7fb836fd",
+          "type": "character",
+          "label": "车夫",
+          "subtitle": "未标注行当"
+        }
+      ],
+      "links": [
+        {
+          "source": "source-《梅兰芳演出剧本选集》",
+          "target": "version-70201101",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-70201101",
+          "target": "play-宇宙锋",
+          "type": "version_to_play",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "source-《戏考》",
+          "target": "version-01002014",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-01002014",
+          "target": "play-宇宙锋",
+          "type": "version_to_play",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "source-《京剧丛刊》",
+          "target": "version-04011001",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-04011001",
+          "target": "play-宇宙锋",
+          "type": "version_to_play",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "source-《京剧流派剧目荟萃》",
+          "target": "version-09001002",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-09001002",
+          "target": "play-宇宙锋",
+          "type": "version_to_play",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "source-《戏典》",
+          "target": "version-14002010",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-14002010",
+          "target": "play-宇宙锋",
+          "type": "version_to_play",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-正旦",
+          "type": "play_to_role_type",
+          "weight": 3,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-净",
+          "type": "play_to_role_type",
+          "weight": 4,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-小生",
+          "type": "play_to_role_type",
+          "weight": 5,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-旦",
+          "type": "play_to_role_type",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-旦，梳大头线帘子、点翠头面、带抱头联、小白绸条、团花蓝披或黑披、衬青褶子、花边腰包、彩",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-净，相巾、黪满、紫开氅、衬素褶子、红彩裤、厚底；金殿一场换相纱、黑蟒、玉带。",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-旦，梳大头抓髻线帘子、水钻头面、裤袄、大坎肩、白腰巾、彩鞋",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-丑，圆纱、黑吊搭、青褶子、红彩裤、大布袜、朝方",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-杂，太监帽、花褶子、彩裤、厚底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-净，尖纱、黑满、蓝蟒、玉带、红彩裤、厚底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-丑：圆纱、黑吊搭、红蟒、玉带、红彩裤、朝方",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-生，中纱、黑三、白蟒、玉带、红彩裤、厚底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-生，中纱、黪三、白蟒、玉带、红彩裤、厚底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-杂，大铠服、罐子盔（武士盔）、红彩裤、薄底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-杂，太监帽、太监衣、红彩裤、薄底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-杂，太监帽、花褶子、红彩裤、厚底",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "roletype-play-宇宙锋-丑",
+          "type": "play_to_role_type",
+          "weight": 1,
+          "importance": "primary"
+        },
+        {
+          "source": "play-宇宙锋",
+          "target": "object-70201000",
+          "type": "play_to_object",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-70201101",
+          "target": "version-01002014",
+          "type": "version_similarity",
+          "confidence": 0.829512,
+          "weight": 0.829512,
+          "label": "相似度 83.0%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-70201101",
+          "target": "version-04011001",
+          "type": "version_similarity",
+          "confidence": 0.604411,
+          "weight": 0.604411,
+          "label": "相似度 60.4%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-70201101",
+          "target": "version-09001002",
+          "type": "version_similarity",
+          "confidence": 0.692943,
+          "weight": 0.692943,
+          "label": "相似度 69.3%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-70201101",
+          "target": "version-14002010",
+          "type": "version_similarity",
+          "confidence": 0.579695,
+          "weight": 0.579695,
+          "label": "相似度 58.0%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-01002014",
+          "target": "version-04011001",
+          "type": "version_similarity",
+          "confidence": 0.501055,
+          "weight": 0.501055,
+          "label": "相似度 50.1%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-01002014",
+          "target": "version-09001002",
+          "type": "version_similarity",
+          "confidence": 0.664249,
+          "weight": 0.664249,
+          "label": "相似度 66.4%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-01002014",
+          "target": "version-14002010",
+          "type": "version_similarity",
+          "confidence": 0.668136,
+          "weight": 0.668136,
+          "label": "相似度 66.8%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-04011001",
+          "target": "version-09001002",
+          "type": "version_similarity",
+          "confidence": 0.288762,
+          "weight": 0.288762,
+          "label": "相似度 28.9%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-04011001",
+          "target": "version-14002010",
+          "type": "version_similarity",
+          "confidence": 0.682535,
+          "weight": 0.682535,
+          "label": "相似度 68.3%",
+          "importance": "primary"
+        },
+        {
+          "source": "version-09001002",
+          "target": "version-14002010",
+          "type": "version_similarity",
+          "confidence": 0.230635,
+          "weight": 0.230635,
+          "label": "相似度 23.1%",
+          "importance": "primary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-小生",
+          "target": "char-char_89e180f668b9",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-正旦",
+          "target": "char-char_f272d63fcc52",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-净",
+          "target": "char-char_0602092cc313",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-丑",
+          "target": "char-char_442eb398b1e4",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-旦",
+          "target": "char-char_fce8211b8f79",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-小生",
+          "target": "char-char_bdf9002ec066",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-旦",
+          "target": "char-char_c5de0768c3d9",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-宇宙锋-净",
+          "target": "char-char_09b07994dbb9",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        }
+      ],
+      "versionBridge": [
+        {
+          "versionId": "70201101",
+          "sourceLabel": "《梅兰芳演出剧本选集》",
+          "sceneCount": 2,
+          "pageCount": 5,
+          "similarity": 0.977528,
+          "sourceFile": "京剧剧本/70201000/70201101_宇宙锋.pdf"
+        },
+        {
+          "versionId": "01002014",
+          "sourceLabel": "《戏考》",
+          "sceneCount": 2,
+          "pageCount": 4,
+          "similarity": 0.978723,
+          "sourceFile": "京剧剧本/01000000/01002014_宇宙锋.pdf"
+        },
+        {
+          "versionId": "04011001",
+          "sourceLabel": "《京剧丛刊》",
+          "sceneCount": 2,
+          "pageCount": 5,
+          "similarity": 0.965909,
+          "sourceFile": "京剧剧本/04000000/04011001_宇宙锋.pdf"
+        },
+        {
+          "versionId": "09001002",
+          "sourceLabel": "《京剧流派剧目荟萃》",
+          "sceneCount": 2,
+          "pageCount": 12,
+          "similarity": 0.898077,
+          "sourceFile": "京剧剧本/09000000/09001002_宇宙锋.pdf"
+        },
+        {
+          "versionId": "14002010",
+          "sourceLabel": "《戏典》",
+          "sceneCount": 2,
+          "pageCount": 4,
+          "similarity": 0.956204,
+          "sourceFile": "京剧剧本/14000000/14002010_宇宙锋.pdf"
+        }
+      ],
+      "readingGuide": {
+        "question": "《宇宙锋》在不同来源中如何被记录？",
+        "howToRead": "中心镜轴为剧目；左右为来源 → 版本 → 角色行当；金色虚线表示版本间文本相似度，越粗越接近。",
+        "currentFinding": "本剧关联对象：梅兰芳 / 梅派。",
+        "caution": ""
+      }
+    },
+    {
+      "playId": "play-锁麟囊",
+      "playName": "锁麟囊",
+      "summary": {
+        "sourceCount": 2,
+        "versionCount": 2,
+        "roleTypeCount": 7,
+        "characterCount": 34,
+        "objectCount": 1,
+        "similarityAvg": 0.885947
+      },
+      "nodes": [
+        {
+          "id": "play-锁麟囊",
+          "type": "play",
+          "label": "锁麟囊",
+          "subtitle": "全2版本",
+          "count": 2
+        },
+        {
+          "id": "source-《程砚秋演出剧本选集》",
+          "type": "source",
+          "label": "《程砚秋演出剧本选集》",
+          "count": 1
+        },
+        {
+          "id": "source-《翁偶虹剧作选》",
+          "type": "source",
+          "label": "《翁偶虹剧作选》",
+          "count": 1
+        },
+        {
+          "id": "version-70202112",
+          "type": "version",
+          "label": "70202112",
+          "subtitle": "锁麟囊",
+          "count": 15,
+          "pageRange": "共 24 页",
+          "raw": {
+            "source_collection": "《程砚秋演出剧本选集》",
+            "source_type": "performance_script",
+            "n_scenes": 15,
+            "n_roles": 17,
+            "n_aria": 77,
+            "n_speech": 660,
+            "aria_segment_ratio": 0.1029
+          }
+        },
+        {
+          "id": "version-70805101",
+          "type": "version",
+          "label": "70805101",
+          "subtitle": "锁麟囊",
+          "count": 12,
+          "pageRange": "共 24 页",
+          "raw": {
+            "source_collection": "《翁偶虹剧作选》",
+            "source_type": "performance_script",
+            "n_scenes": 12,
+            "n_roles": 17,
+            "n_aria": 73,
+            "n_speech": 647,
+            "aria_segment_ratio": 0.1004
+          }
+        },
+        {
+          "id": "roletype-play-锁麟囊-正旦",
+          "type": "roleType",
+          "label": "正旦",
+          "count": 2
+        },
+        {
+          "id": "roletype-play-锁麟囊-老旦",
+          "type": "roleType",
+          "label": "老旦",
+          "count": 2
+        },
+        {
+          "id": "roletype-play-锁麟囊-旦",
+          "type": "roleType",
+          "label": "旦",
+          "count": 2
+        },
+        {
+          "id": "roletype-play-锁麟囊-老生",
+          "type": "roleType",
+          "label": "老生",
+          "count": 6
+        },
+        {
+          "id": "roletype-play-锁麟囊-丑",
+          "type": "roleType",
+          "label": "丑",
+          "count": 14
+        },
+        {
+          "id": "roletype-play-锁麟囊-娃娃生",
+          "type": "roleType",
+          "label": "娃娃生",
+          "count": 4
+        },
+        {
+          "id": "roletype-play-锁麟囊-丑旦",
+          "type": "roleType",
+          "label": "丑旦",
+          "count": 4
+        },
+        {
+          "id": "object-70202000",
+          "type": "school",
+          "label": "程砚秋 / 程派",
+          "subtitle": "《程砚秋演出剧本选集》",
+          "count": 12
+        },
+        {
+          "id": "char-char_fba1414fed89",
+          "type": "character",
+          "label": "丫鬟",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_21036d19a7e3",
+          "type": "character",
+          "label": "众百姓",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_8b2dc57911b2",
+          "type": "character",
+          "label": "傧相",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_6eb9c1babd02",
+          "type": "character",
+          "label": "卢义",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_8a715192c32f",
+          "type": "character",
+          "label": "卢仁",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_1e16eafa84ac",
+          "type": "character",
+          "label": "卢天麟",
+          "subtitle": "娃娃生"
+        },
+        {
+          "id": "char-char_1f0a94fd6ba6",
+          "type": "character",
+          "label": "卢胜筹",
+          "subtitle": "老生"
+        },
+        {
+          "id": "char-char_e762cdc76d5d",
+          "type": "character",
+          "label": "周大器",
+          "subtitle": "娃娃生"
+        },
+        {
+          "id": "char-char_605fabfe350a",
+          "type": "character",
+          "label": "周庭训",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_ca3b0e2654a3",
+          "type": "character",
+          "label": "少傧相",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_c21dd5ef41ec",
+          "type": "character",
+          "label": "梅香",
+          "subtitle": "丑旦"
+        },
+        {
+          "id": "char-char_e73d0fd928d8",
+          "type": "character",
+          "label": "王青",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_19bb4bc5acd5",
+          "type": "character",
+          "label": "碧玉",
+          "subtitle": "丑旦"
+        },
+        {
+          "id": "char-char_15dcfea7dfe7",
+          "type": "character",
+          "label": "程俊",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_63d7581d5962",
+          "type": "character",
+          "label": "老傧相",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_774e11e6cdc3",
+          "type": "character",
+          "label": "老妇",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_e8f062fd12d2",
+          "type": "character",
+          "label": "胡婆",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_8e86c38ebe44",
+          "type": "character",
+          "label": "胡杰",
+          "subtitle": "丑"
+        },
+        {
+          "id": "char-char_7187b6497aab",
+          "type": "character",
+          "label": "船夫",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_6f09f99ed466",
+          "type": "character",
+          "label": "薛夫人",
+          "subtitle": "老旦"
+        },
+        {
+          "id": "char-char_a8c73cfacc18",
+          "type": "character",
+          "label": "薛湘灵",
+          "subtitle": "正旦"
+        },
+        {
+          "id": "char-char_ce5a1b3f7587",
+          "type": "character",
+          "label": "薛良",
+          "subtitle": "老生"
+        },
+        {
+          "id": "char-char_92655c10368c",
+          "type": "character",
+          "label": "薛顺",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_b5488f782c67",
+          "type": "character",
+          "label": "薛香灵",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_66983812fc95",
+          "type": "character",
+          "label": "赵守贞",
+          "subtitle": "旦"
+        },
+        {
+          "id": "char-char_6a62f8bbf609",
+          "type": "character",
+          "label": "赵禄寒",
+          "subtitle": "老生"
+        },
+        {
+          "id": "char-char_b16de0c2b039",
+          "type": "character",
+          "label": "赵轿夫",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_3237e58b5e23",
+          "type": "character",
+          "label": "轿夫",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_84b1268eb1e3",
+          "type": "character",
+          "label": "卢员外",
+          "subtitle": "老生"
+        },
+        {
+          "id": "char-char_f2df8e45a47f",
+          "type": "character",
+          "label": "周丫鬟",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_0529f335f860",
+          "type": "character",
+          "label": "大器",
+          "subtitle": "娃娃生"
+        },
+        {
+          "id": "char-char_6ce76b26f542",
+          "type": "character",
+          "label": "老婆",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_4d43aea6f662",
+          "type": "character",
+          "label": "锣夫",
+          "subtitle": "未标注行当"
+        },
+        {
+          "id": "char-char_15a16c7ac4cf",
+          "type": "character",
+          "label": "麟儿",
+          "subtitle": "娃娃生"
+        }
+      ],
+      "links": [
+        {
+          "source": "source-《程砚秋演出剧本选集》",
+          "target": "version-70202112",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-70202112",
+          "target": "play-锁麟囊",
+          "type": "version_to_play",
+          "weight": 15,
+          "importance": "primary"
+        },
+        {
+          "source": "source-《翁偶虹剧作选》",
+          "target": "version-70805101",
+          "type": "source_to_version",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-70805101",
+          "target": "play-锁麟囊",
+          "type": "version_to_play",
+          "weight": 12,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-正旦",
+          "type": "play_to_role_type",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-老旦",
+          "type": "play_to_role_type",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-旦",
+          "type": "play_to_role_type",
+          "weight": 2,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-老生",
+          "type": "play_to_role_type",
+          "weight": 6,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-丑",
+          "type": "play_to_role_type",
+          "weight": 14,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-娃娃生",
+          "type": "play_to_role_type",
+          "weight": 4,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "roletype-play-锁麟囊-丑旦",
+          "type": "play_to_role_type",
+          "weight": 4,
+          "importance": "primary"
+        },
+        {
+          "source": "play-锁麟囊",
+          "target": "object-70202000",
+          "type": "play_to_object",
+          "importance": "secondary"
+        },
+        {
+          "source": "version-70202112",
+          "target": "version-70805101",
+          "type": "version_similarity",
+          "confidence": 0.885947,
+          "weight": 0.885947,
+          "label": "相似度 88.6%",
+          "importance": "primary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_6eb9c1babd02",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_8a715192c32f",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-娃娃生",
+          "target": "char-char_1e16eafa84ac",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-老生",
+          "target": "char-char_1f0a94fd6ba6",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-娃娃生",
+          "target": "char-char_e762cdc76d5d",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_ca3b0e2654a3",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑旦",
+          "target": "char-char_c21dd5ef41ec",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑旦",
+          "target": "char-char_19bb4bc5acd5",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_15dcfea7dfe7",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_63d7581d5962",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_e8f062fd12d2",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-丑",
+          "target": "char-char_8e86c38ebe44",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-老旦",
+          "target": "char-char_6f09f99ed466",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-正旦",
+          "target": "char-char_a8c73cfacc18",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-老生",
+          "target": "char-char_ce5a1b3f7587",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-旦",
+          "target": "char-char_66983812fc95",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-老生",
+          "target": "char-char_6a62f8bbf609",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-老生",
+          "target": "char-char_84b1268eb1e3",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-娃娃生",
+          "target": "char-char_0529f335f860",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        },
+        {
+          "source": "roletype-play-锁麟囊-娃娃生",
+          "target": "char-char_15a16c7ac4cf",
+          "type": "role_type_to_character",
+          "importance": "secondary"
+        }
+      ],
+      "versionBridge": [
+        {
+          "versionId": "70202112",
+          "sourceLabel": "《程砚秋演出剧本选集》",
+          "sceneCount": 15,
+          "pageCount": 24,
+          "similarity": 0.992179,
+          "sourceFile": "京剧剧本/70202000/70202112_锁麟囊.pdf"
+        },
+        {
+          "versionId": "70805101",
+          "sourceLabel": "《翁偶虹剧作选》",
+          "sceneCount": 12,
+          "pageCount": 24,
+          "similarity": 0.979809,
+          "sourceFile": "京剧剧本/70805000/70805101_锁麟囊.pdf"
+        }
+      ],
+      "readingGuide": {
+        "question": "《锁麟囊》在不同来源中如何被记录？",
+        "howToRead": "中心镜轴为剧目；左右为来源 → 版本 → 角色行当；金色虚线表示版本间文本相似度，越粗越接近。",
+        "currentFinding": "本剧关联对象：程砚秋 / 程派。",
+        "caution": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "generated_at": "2026-06-21T12:10:52.819Z",
+  "sources_used": [
+    "collections.json",
+    "comparison_groups.json",
+    "curated_overlays/01002014.json",
+    "curated_overlays/04011001.json",
+    "curated_overlays/09001002.json",
+    "curated_overlays/14002010.json",
+    "curated_overlays/70201101.json",
+    "curated_overlays/70202112.json",
+    "curated_overlays/70805101.json",
+    "curated_overlays/80000001.json",
+    "curated_overlays/80000028.json",
+    "integration_report.json",
+    "objects.json",
+    "validation_report.json"
+  ],
+  "overlay_files": [
+    "01002014.json",
+    "04011001.json",
+    "09001002.json",
+    "14002010.json",
+    "70201101.json",
+    "70202112.json",
+    "70805101.json",
+    "80000001.json",
+    "80000028.json"
+  ],
+  "missing_inputs": [],
+  "fallback_log": [],
+  "pages_supported": {
+    "lineage": {
+      "plays": [
+        {
+          "playName": "四郎探母",
+          "versionCount": 2,
+          "characterCount": 14
+        },
+        {
+          "playName": "宇宙锋",
+          "versionCount": 5,
+          "characterCount": 22
+        },
+        {
+          "playName": "锁麟囊",
+          "versionCount": 2,
+          "characterCount": 34
+        }
+      ],
+      "notes": "节点和连线分类型生成；行当 / 角色 仅在 curated overlay 存在时填充。"
+    },
+    "fingerprint": {
+      "objects": [
+        {
+          "objectName": "梅兰芳 / 梅派",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.142379
+        },
+        {
+          "objectName": "程砚秋 / 程派",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.114423
+        },
+        {
+          "objectName": "荀慧生 / 荀派",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.079232
+        },
+        {
+          "objectName": "马连良 / 马派",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.102568
+        },
+        {
+          "objectName": "周信芳 / 麒派",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.1001
+        },
+        {
+          "objectName": "孟小冬 / 余派传承",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.236466
+        },
+        {
+          "objectName": "李洪春",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.105241
+        },
+        {
+          "objectName": "唐韵笙",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.179714
+        },
+        {
+          "objectName": "郝寿臣 / 郝派",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.104418
+        },
+        {
+          "objectName": "方荣翔 / 裘派花脸传承",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.235855
+        },
+        {
+          "objectName": "萧长华",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.079283
+        },
+        {
+          "objectName": "汪笑侬",
+          "modeDiversitySource": "real-categories",
+          "ariaRatio": 0.195067
+        }
+      ],
+      "notes": "modeDiversity 来自 banqiang_counts/tune_counts；其余 4 层基于对象级标量 + deterministic seed 切分（已在 fallback_log 中标 fallback-segmentation）。"
+    },
+    "heartbeat": {
+      "versions": [
+        {
+          "versionId": "80000001",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 11
+        },
+        {
+          "versionId": "80000028",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 12
+        },
+        {
+          "versionId": "70201101",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 2
+        },
+        {
+          "versionId": "01002014",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 2
+        },
+        {
+          "versionId": "04011001",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 2
+        },
+        {
+          "versionId": "09001002",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 2
+        },
+        {
+          "versionId": "14002010",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 2
+        },
+        {
+          "versionId": "70202112",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 15
+        },
+        {
+          "versionId": "70805101",
+          "overlayStatus": "curated_overlay",
+          "sceneCount": 12
+        }
+      ],
+      "notes": "有 curated overlay 的版本走 curated_overlay；其余只给版本聚合数据，前端不应画伪场次心跳。"
+    }
+  },
+  "integration_summary": {
+    "mean_segment_match_rate": 0.970154,
+    "minimum_segment_match_rate": 0.898077,
+    "overlays_created": 9
+  },
+  "validation_summary": {
+    "status": "passed",
+    "counts": {
+      "overlays": 9,
+      "object_profiles": 12,
+      "comparison_groups": 3
+    }
+  },
+  "collections_summary": {
+    "source_count": 35,
+    "multi_version_plays": 252
+  }
+}

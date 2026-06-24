@@ -1,0 +1,2090 @@
+{
+  "version": {
+    "version_id": "01014011",
+    "title_on_source": "锁五龙",
+    "source_collection": "《戏考》",
+    "source_file": "京剧剧本/01000000/01014011_锁五龙.pdf",
+    "premiere_year": null,
+    "source_note": "pdfjs first-pass overlay",
+    "plot_summary": null
+  },
+  "scenes": [
+    {
+      "scene_id": "01014011:001",
+      "scene_no": 1,
+      "title_raw": "开场",
+      "source_page_start": 1,
+      "source_page_end": 3
+    }
+  ],
+  "segments": [
+    {
+      "segment_id": "01014011:0001",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 1,
+      "segment_type": "aria",
+      "text": "大炮一声绑帐外，",
+      "label_raw": "内西皮导板",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "aria",
+        "marker": "内西皮导板",
+        "tune": "西皮",
+        "banqiang": "导板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0002",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 2,
+      "segment_type": "entrance_exit",
+      "text": "（四大铠、单雄信同上。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "四大铠、单雄信同上。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0003",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 3,
+      "segment_type": "aria",
+      "text": "不由得豪杰笑开怀。",
+      "label_raw": "西皮原板",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮原板",
+        "tune": "西皮",
+        "banqiang": "原板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0004",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 4,
+      "segment_type": "speech",
+      "text": "单人独马唐营踹，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0005",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 5,
+      "segment_type": "speech",
+      "text": "只杀得儿郎苦悲哀。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0006",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 6,
+      "segment_type": "speech",
+      "text": "遍地荒郊血成海，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0007",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 7,
+      "segment_type": "speech",
+      "text": "尸骨堆山无有葬埋。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0008",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 8,
+      "segment_type": "speech",
+      "text": "小唐童被某",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0009",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 9,
+      "segment_type": "speech",
+      "text": "（西皮流水板） 把胆吓坏，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0010",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 10,
+      "segment_type": "speech",
+      "text": "二次被擒也应该。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0011",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 11,
+      "segment_type": "speech",
+      "text": "今生再不能把节改，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0012",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 12,
+      "segment_type": "speech",
+      "text": "要报仇二十年投胎某再来。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0013",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 13,
+      "segment_type": "entrance_exit",
+      "text": "（四龙套、李世民、徐勣、罗成、程咬金、尉迟恭同上。〖吹打〗。众人同祭。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "四龙套、李世民、徐勣、罗成、程咬金、尉迟恭同上。〖吹打〗。众人同祭。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0014",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 14,
+      "segment_type": "speech",
+      "text": "看酒来！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0015",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 15,
+      "segment_type": "speech",
+      "text": "（西皮摇板） 一杯酒儿满满酾，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0016",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 16,
+      "segment_type": "speech",
+      "text": "尊声将军听言来：",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0017",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 17,
+      "segment_type": "speech",
+      "text": "王今奉你一斗酒，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0018",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 18,
+      "segment_type": "speech",
+      "text": "愿你转世早投胎。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0019",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 19,
+      "segment_type": "aria",
+      "text": "唐童假意把我待，",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0020",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 20,
+      "segment_type": "speech",
+      "text": "花言巧语说开怀。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0021",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 21,
+      "segment_type": "speech",
+      "text": "我与你冤仇难分解，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0022",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 22,
+      "segment_type": "speech",
+      "text": "报仇还要再投胎。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0023",
+      "scene_id": "01014011:001",
+      "speaker_name": "徐勣",
+      "speaker_character_id": "char_e5be90e58ba3",
+      "order": 23,
+      "segment_type": "aria",
+      "text": "一杯水酒杯中酾，",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0024",
+      "scene_id": "01014011:001",
+      "speaker_name": "徐勣",
+      "speaker_character_id": "char_e5be90e58ba3",
+      "order": 24,
+      "segment_type": "speech",
+      "text": "叫声五弟听明白：",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0025",
+      "scene_id": "01014011:001",
+      "speaker_name": "徐勣",
+      "speaker_character_id": "char_e5be90e58ba3",
+      "order": 25,
+      "segment_type": "speech",
+      "text": "今日被擒是天意，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0026",
+      "scene_id": "01014011:001",
+      "speaker_name": "徐勣",
+      "speaker_character_id": "char_e5be90e58ba3",
+      "order": 26,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/01014011 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 1,
+      "source_page_end": 1,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0028",
+      "scene_id": "01014011:001",
+      "speaker_name": "徐勣",
+      "speaker_character_id": "char_e5be90e58ba3",
+      "order": 27,
+      "segment_type": "speech",
+      "text": "且莫埋怨愚兄来。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0029",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 28,
+      "segment_type": "aria",
+      "text": "徐勣休得巧言盖，",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0030",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 29,
+      "segment_type": "speech",
+      "text": "阴阳八卦你安排。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0031",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 30,
+      "segment_type": "speech",
+      "text": "结义情由你忘怀，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0032",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 31,
+      "segment_type": "speech",
+      "text": "你是个人面兽心怀！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0033",
+      "scene_id": "01014011:001",
+      "speaker_name": "罗成",
+      "speaker_character_id": "char_e7bd97e68890",
+      "order": 32,
+      "segment_type": "aria",
+      "text": "人来看过杯中赛，",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0034",
+      "scene_id": "01014011:001",
+      "speaker_name": "罗成",
+      "speaker_character_id": "char_e7bd97e68890",
+      "order": 33,
+      "segment_type": "speech",
+      "text": "尊声五哥听开怀：",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0035",
+      "scene_id": "01014011:001",
+      "speaker_name": "罗成",
+      "speaker_character_id": "char_e7bd97e68890",
+      "order": 34,
+      "segment_type": "speech",
+      "text": "我今奉你一斗酒，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0036",
+      "scene_id": "01014011:001",
+      "speaker_name": "罗成",
+      "speaker_character_id": "char_e7bd97e68890",
+      "order": 35,
+      "segment_type": "speech",
+      "text": "愿你魂灵到天台。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0037",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 36,
+      "segment_type": "speech",
+      "text": "住口！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0038",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 37,
+      "segment_type": "speech",
+      "text": "（西皮紧板） 见罗成把我的牙咬坏，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0039",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 38,
+      "segment_type": "speech",
+      "text": "大骂无义小奴才！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0040",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 39,
+      "segment_type": "speech",
+      "text": "自从与你来结拜，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0041",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 40,
+      "segment_type": "speech",
+      "text": "同心起义巧安排。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0042",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 41,
+      "segment_type": "speech",
+      "text": "你到洛阳将某拜，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0043",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 42,
+      "segment_type": "speech",
+      "text": "某家接你到家来。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0044",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 43,
+      "segment_type": "speech",
+      "text": "我为你招军把兵带，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0045",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 44,
+      "segment_type": "speech",
+      "text": "我为你修盖瓦楼台；",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0046",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 45,
+      "segment_type": "speech",
+      "text": "我为你屯粮把马买，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0047",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 46,
+      "segment_type": "speech",
+      "text": "我为你花费许多财；",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0048",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 47,
+      "segment_type": "speech",
+      "text": "我为你东床招驸马，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0049",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 48,
+      "segment_type": "speech",
+      "text": "我为你受了许多灾。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0050",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 49,
+      "segment_type": "speech",
+      "text": "你忘恩无义良心败，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0051",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 50,
+      "segment_type": "speech",
+      "text": "管叫你乱箭穿身死无有葬埋。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0052",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 51,
+      "segment_type": "speech",
+      "text": "（罗成怒，欲打。程咬金劝。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0053",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 52,
+      "segment_type": "aria",
+      "text": "一杯酒儿满满酾，",
+      "label_raw": "西皮流水板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮流水板",
+        "tune": "西皮",
+        "banqiang": "流水板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0054",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 53,
+      "segment_type": "speech",
+      "text": "尊一声五哥听明白：",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0055",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 54,
+      "segment_type": "speech",
+      "text": "你今饮了杯中酒，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0056",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 55,
+      "segment_type": "speech",
+      "text": "管叫你灵魂赴天台。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0057",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 56,
+      "segment_type": "speech",
+      "text": "赴天台？好，酒来！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0058",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 57,
+      "segment_type": "aria",
+      "text": "二杯酒儿杯中酾，",
+      "label_raw": "西皮流水板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮流水板",
+        "tune": "西皮",
+        "banqiang": "流水板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0059",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 58,
+      "segment_type": "speech",
+      "text": "小弟言来听开怀：",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0060",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 59,
+      "segment_type": "speech",
+      "text": "你若饮了二杯酒，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0061",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 60,
+      "segment_type": "speech",
+      "text": "保你阴灵到蓬莱。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0062",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 61,
+      "segment_type": "speech",
+      "text": "到蓬莱？看酒来！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0063",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 62,
+      "segment_type": "aria",
+      "text": "三杯酒，捧上来，",
+      "label_raw": "西皮流水板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮流水板",
+        "tune": "西皮",
+        "banqiang": "流水板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0064",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 63,
+      "segment_type": "speech",
+      "text": "我与五哥同心怀。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0065",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 64,
+      "segment_type": "speech",
+      "text": "你今饮了三杯酒，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0066",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 65,
+      "segment_type": "speech",
+      "text": "将他一个一个俱把刀开，把我丢开。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0067",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 66,
+      "segment_type": "speech",
+      "text": "把你丢开？好呀！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0068",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 67,
+      "segment_type": "speech",
+      "text": "（西皮摇板） 这句话儿真爽快，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0069",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 68,
+      "segment_type": "speech",
+      "text": "叫咬金把酒斟上来。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0070",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 69,
+      "segment_type": "speech",
+      "text": "（单雄信饮酒。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0071",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 70,
+      "segment_type": "aria",
+      "text": "满营将官俱都在，",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0072",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 71,
+      "segment_type": "speech",
+      "text": "为何不见栋梁材？",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0073",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 72,
+      "segment_type": "speech",
+      "text": "问一声秦二哥今何在？",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0074",
+      "scene_id": "01014011:001",
+      "speaker_name": "程咬金",
+      "speaker_character_id": "char_e7a88be592ace98791",
+      "order": 73,
+      "segment_type": "aria",
+      "text": "二哥押粮未回来。",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0075",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 74,
+      "segment_type": "aria",
+      "text": "哭一声秦二哥，叫一声好汉哥哥！",
+      "label_raw": "西皮摇板",
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "aria",
+        "marker": "西皮摇板",
+        "tune": "西皮",
+        "banqiang": "摇板",
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0076",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 75,
+      "segment_type": "speech",
+      "text": "（哭头） 嗳嗳嗳呀，我的好汉哥呀！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0077",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 76,
+      "segment_type": "speech",
+      "text": "（西皮摇板） 贾家楼，曾结拜，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0078",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 77,
+      "segment_type": "speech",
+      "text": "惟有你我同心怀。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0079",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 78,
+      "segment_type": "speech",
+      "text": "我今饮了三斗酒，",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0080",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 79,
+      "segment_type": "speech",
+      "text": "叫唐童快把刀来开！",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0081",
+      "scene_id": "01014011:001",
+      "speaker_name": "单雄信",
+      "speaker_character_id": "char_e58d95e99b84e4bfa1",
+      "order": 80,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/01014011 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 2,
+      "source_page_end": 2,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0083",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 81,
+      "segment_type": "speech",
+      "text": "尉迟恭听令！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0084",
+      "scene_id": "01014011:001",
+      "speaker_name": "尉迟恭",
+      "speaker_character_id": "char_e5b089e8bf9fe681ad",
+      "order": 82,
+      "segment_type": "speech",
+      "text": "在。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0085",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 83,
+      "segment_type": "speech",
+      "text": "命你将雄信斩首。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0086",
+      "scene_id": "01014011:001",
+      "speaker_name": "尉迟恭",
+      "speaker_character_id": "char_e5b089e8bf9fe681ad",
+      "order": 84,
+      "segment_type": "speech",
+      "text": "得令。",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0087",
+      "scene_id": "01014011:001",
+      "speaker_name": "尉迟恭",
+      "speaker_character_id": "char_e5b089e8bf9fe681ad",
+      "order": 85,
+      "segment_type": "speech",
+      "text": "来，击鼓。",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0088",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 86,
+      "segment_type": "entrance_exit",
+      "text": "（尉迟恭斩单雄信。龙形上，小童持绳上，缚龙形，同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "尉迟恭斩单雄信。龙形上，小童持绳上，缚龙形，同下。"
+        ],
+        "entrance_exit": "enter",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0089",
+      "scene_id": "01014011:001",
+      "speaker_name": "李世民",
+      "speaker_character_id": "char_e69d8ee4b896e6b091",
+      "order": 87,
+      "segment_type": "speech",
+      "text": "后帐备宴，与众卿贺功！",
+      "label_raw": "白",
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": "白",
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0090",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 88,
+      "segment_type": "entrance_exit",
+      "text": "（众人同下。）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "entrance_exit",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [
+          "众人同下。"
+        ],
+        "entrance_exit": "exit",
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0091",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 89,
+      "segment_type": "speech",
+      "text": "（完）",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0092",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 90,
+      "segment_type": "speech",
+      "text": "Powered by TCPDF (www.tcpdf.org)",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    },
+    {
+      "segment_id": "01014011:0093",
+      "scene_id": "01014011:001",
+      "speaker_name": null,
+      "speaker_character_id": null,
+      "order": 91,
+      "segment_type": "speech",
+      "text": "http://scripts.xikao.com/play/01014011 2018-08-23",
+      "label_raw": null,
+      "mode": null,
+      "source_page_start": 3,
+      "source_page_end": 3,
+      "display": {
+        "segment_type": "speech",
+        "marker": null,
+        "tune": null,
+        "banqiang": null,
+        "stage_action": [],
+        "entrance_exit": null,
+        "source": "pdfjs_first_pass_v0.1"
+      }
+    }
+  ],
+  "characters": [
+    {
+      "character_id": "char_e58d95e99b84e4bfa1",
+      "canonical_name": "单雄信",
+      "version_roles": [
+        {
+          "role_type_raw": "净"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e69d8ee4b896e6b091",
+      "canonical_name": "李世民",
+      "version_roles": [
+        {
+          "role_type_raw": "小生"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e5be90e58ba3",
+      "canonical_name": "徐勣",
+      "version_roles": [
+        {
+          "role_type_raw": "老生"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e7bd97e68890",
+      "canonical_name": "罗成",
+      "version_roles": [
+        {
+          "role_type_raw": "小生"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e7a88be592ace98791",
+      "canonical_name": "程咬金",
+      "version_roles": [
+        {
+          "role_type_raw": "丑"
+        }
+      ]
+    },
+    {
+      "character_id": "char_e5b089e8bf9fe681ad",
+      "canonical_name": "尉迟恭",
+      "version_roles": []
+    }
+  ],
+  "credits": [],
+  "curation": {
+    "match_rate": 0.68,
+    "page_provenance": "pdfjs first-pass",
+    "extractor_version": "pdfjs-first-pass-0.1"
+  }
+}

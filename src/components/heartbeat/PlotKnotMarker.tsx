@@ -1,0 +1,1 @@
+export function PlotKnotMarker({x,y,label,onClick}:{x:number;y:number;label:string;onClick?:()=>void}){return <g className="plot-knot-marker" transform={`translate(${x} ${y})`} onClick={onClick} role="button"><path d="M-9 0C-9-8 0-8 0 0C0 8 9 8 9 0C9-8 0-8 0 0C0 8-9 8-9 0Z"/><text y="24" textAnchor="middle">{label}</text></g>}

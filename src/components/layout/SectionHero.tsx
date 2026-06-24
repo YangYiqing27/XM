@@ -1,0 +1,2 @@
+export interface SectionHeroProps{index?:string;eyebrow:string;title:string;description:string;mode?:"dark"|"paper"}
+export function SectionHero({index,eyebrow,title,description,mode="paper"}:SectionHeroProps){return <header className={`section-hero mode-${mode}`}>{index&&<span className="section-hero__index">{index}</span>}<div className="section-hero__title"><p>{eyebrow}</p><h2>{title}</h2></div><p className="section-hero__description">{description}</p></header>}

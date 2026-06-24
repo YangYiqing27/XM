@@ -1,0 +1,707 @@
+{
+  "generated_at": "2026-06-24T11:40:54.552Z",
+  "total_objects": 12,
+  "complete_objects": 12,
+  "incomplete_objects": 0,
+  "entries": [
+    {
+      "object_id": "70201000",
+      "object_name": "梅兰芳 / 梅派",
+      "highlight_count": 5,
+      "plays": [
+        {
+          "title": "宇宙锋",
+          "resolvedBy": "exact",
+          "versionCount": 5,
+          "versionIds": [
+            "01002014",
+            "04011001",
+            "09001002",
+            "14002010",
+            "70201101"
+          ],
+          "matchedTitles": [
+            "宇宙锋"
+          ]
+        },
+        {
+          "title": "霸王别姬",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "01021002",
+            "04022001",
+            "70201106"
+          ],
+          "matchedTitles": [
+            "霸王别姬"
+          ]
+        },
+        {
+          "title": "洛神",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70201107"
+          ],
+          "matchedTitles": [
+            "洛神"
+          ]
+        },
+        {
+          "title": "生死恨",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "04027001",
+            "09007001",
+            "70201110"
+          ],
+          "matchedTitles": [
+            "生死恨"
+          ]
+        },
+        {
+          "title": "穆桂英挂帅",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70201204"
+          ],
+          "matchedTitles": [
+            "穆桂英挂帅"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70202000",
+      "object_name": "程砚秋 / 程派",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "锁麟囊",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "70202112",
+            "70805101"
+          ],
+          "matchedTitles": [
+            "锁麟囊"
+          ]
+        },
+        {
+          "title": "春闺梦",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "04044001",
+            "70202110",
+            "80000025"
+          ],
+          "matchedTitles": [
+            "春闺梦"
+          ]
+        },
+        {
+          "title": "荒山泪",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "09006002",
+            "70202109"
+          ],
+          "matchedTitles": [
+            "荒山泪"
+          ]
+        },
+        {
+          "title": "窦娥冤",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70202105"
+          ],
+          "matchedTitles": [
+            "窦娥冤"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70203000",
+      "object_name": "荀慧生 / 荀派",
+      "highlight_count": 5,
+      "plays": [
+        {
+          "title": "红娘",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "70203109",
+            "90000004"
+          ],
+          "matchedTitles": [
+            "红娘"
+          ]
+        },
+        {
+          "title": "花田错",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70203101"
+          ],
+          "matchedTitles": [
+            "花田错"
+          ]
+        },
+        {
+          "title": "钗头凤",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70203105"
+          ],
+          "matchedTitles": [
+            "钗头凤"
+          ]
+        },
+        {
+          "title": "玉堂春",
+          "resolvedBy": "exact",
+          "versionCount": 4,
+          "versionIds": [
+            "01005008",
+            "04004001",
+            "14002007",
+            "70203202"
+          ],
+          "matchedTitles": [
+            "玉堂春"
+          ]
+        },
+        {
+          "title": "杜十娘",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "01008008",
+            "70203106"
+          ],
+          "matchedTitles": [
+            "杜十娘"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70002000",
+      "object_name": "马连良 / 马派",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "赵氏孤儿",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70002105"
+          ],
+          "matchedTitles": [
+            "赵氏孤儿"
+          ]
+        },
+        {
+          "title": "甘露寺",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "04016001",
+            "70002102"
+          ],
+          "matchedTitles": [
+            "甘露寺"
+          ]
+        },
+        {
+          "title": "四进士",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "03103002",
+            "70001101",
+            "70002201"
+          ],
+          "matchedTitles": [
+            "四进士"
+          ]
+        },
+        {
+          "title": "清官册·夜审潘洪",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70002205"
+          ],
+          "matchedTitles": [
+            "清官册·夜审潘洪"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70001000",
+      "object_name": "周信芳 / 麒派",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "徐策跑城",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70001108"
+          ],
+          "matchedTitles": [
+            "徐策跑城"
+          ]
+        },
+        {
+          "title": "萧何月下追韩信",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70001107"
+          ],
+          "matchedTitles": [
+            "萧何月下追韩信"
+          ]
+        },
+        {
+          "title": "打渔杀家",
+          "resolvedBy": "exact",
+          "versionCount": 4,
+          "versionIds": [
+            "01002016",
+            "14002002",
+            "70001201",
+            "80000002"
+          ],
+          "matchedTitles": [
+            "打渔杀家"
+          ]
+        },
+        {
+          "title": "文天祥",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70001111"
+          ],
+          "matchedTitles": [
+            "文天祥"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70006000",
+      "object_name": "孟小冬 / 余派传承",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "定军山",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "01006007",
+            "04003003",
+            "70006104"
+          ],
+          "matchedTitles": [
+            "定军山"
+          ]
+        },
+        {
+          "title": "失街亭·空城计·斩马谡",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70006105"
+          ],
+          "matchedTitles": [
+            "失街亭·空城计·斩马谡"
+          ]
+        },
+        {
+          "title": "捉放曹",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "01001006",
+            "70006102"
+          ],
+          "matchedTitles": [
+            "捉放曹"
+          ]
+        },
+        {
+          "title": "珠帘寨",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "01038001",
+            "10001032",
+            "70006107"
+          ],
+          "matchedTitles": [
+            "珠帘寨"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70003000",
+      "object_name": "李洪春",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "过五关",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "01019002",
+            "70003113"
+          ],
+          "matchedTitles": [
+            "过五关"
+          ]
+        },
+        {
+          "title": "走麦城",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "03101003",
+            "70003127",
+            "70004109"
+          ],
+          "matchedTitles": [
+            "走麦城"
+          ]
+        },
+        {
+          "title": "水淹七军",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "03101002",
+            "70003125"
+          ],
+          "matchedTitles": [
+            "水淹七军"
+          ]
+        },
+        {
+          "title": "单刀会",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "03101001",
+            "04016003",
+            "70003123"
+          ],
+          "matchedTitles": [
+            "单刀会"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70004000",
+      "object_name": "唐韵笙",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "古城会",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "70003115",
+            "70004108"
+          ],
+          "matchedTitles": [
+            "古城会"
+          ]
+        },
+        {
+          "title": "走麦城",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "03101003",
+            "70003127",
+            "70004109"
+          ],
+          "matchedTitles": [
+            "走麦城"
+          ]
+        },
+        {
+          "title": "二子乘舟",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70004106"
+          ],
+          "matchedTitles": [
+            "二子乘舟"
+          ]
+        },
+        {
+          "title": "绝龙岭",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70004104"
+          ],
+          "matchedTitles": [
+            "绝龙岭"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70401000",
+      "object_name": "郝寿臣 / 郝派",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "荆轲传",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70401101"
+          ],
+          "matchedTitles": [
+            "荆轲传"
+          ]
+        },
+        {
+          "title": "瓦口关",
+          "resolvedBy": "exact",
+          "versionCount": 4,
+          "versionIds": [
+            "02004020",
+            "03093006",
+            "04012002",
+            "70401106"
+          ],
+          "matchedTitles": [
+            "瓦口关"
+          ]
+        },
+        {
+          "title": "打龙棚",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "03033007",
+            "70401107"
+          ],
+          "matchedTitles": [
+            "打龙棚"
+          ]
+        },
+        {
+          "title": "青梅煮酒论英雄",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70401104"
+          ],
+          "matchedTitles": [
+            "青梅煮酒论英雄"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70402000",
+      "object_name": "方荣翔 / 裘派花脸传承",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "铡美案",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "01007003",
+            "04026002",
+            "70402102"
+          ],
+          "matchedTitles": [
+            "铡美案"
+          ]
+        },
+        {
+          "title": "锁五龙",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "01014011",
+            "03003004",
+            "70402103"
+          ],
+          "matchedTitles": [
+            "锁五龙"
+          ]
+        },
+        {
+          "title": "铡判官",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70402101"
+          ],
+          "matchedTitles": [
+            "铡判官"
+          ]
+        },
+        {
+          "title": "断密涧",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70402105"
+          ],
+          "matchedTitles": [
+            "断密涧"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70601000",
+      "object_name": "萧长华",
+      "highlight_count": 2,
+      "plays": [
+        {
+          "title": "赤壁鏖兵",
+          "resolvedBy": "normalized",
+          "versionCount": 8,
+          "versionIds": [
+            "70601101",
+            "70601102",
+            "70601103",
+            "70601104",
+            "70601105",
+            "70601106",
+            "70601107",
+            "70601108"
+          ],
+          "matchedTitles": [
+            "赤壁鏖兵【头本】",
+            "赤壁鏖兵【二本】",
+            "赤壁鏖兵【三本】",
+            "赤壁鏖兵【四本】",
+            "赤壁鏖兵【五本】",
+            "赤壁鏖兵【六本】",
+            "赤壁鏖兵【七本】",
+            "赤壁鏖兵【八本】"
+          ]
+        },
+        {
+          "title": "变羊记",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70601110"
+          ],
+          "matchedTitles": [
+            "变羊记"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    },
+    {
+      "object_id": "70005000",
+      "object_name": "汪笑侬",
+      "highlight_count": 4,
+      "plays": [
+        {
+          "title": "马嵬驿",
+          "resolvedBy": "exact",
+          "versionCount": 1,
+          "versionIds": [
+            "70005111"
+          ],
+          "matchedTitles": [
+            "马嵬驿"
+          ]
+        },
+        {
+          "title": "哭祖庙",
+          "resolvedBy": "exact",
+          "versionCount": 3,
+          "versionIds": [
+            "01022002",
+            "03093008",
+            "70005110"
+          ],
+          "matchedTitles": [
+            "哭祖庙"
+          ]
+        },
+        {
+          "title": "煤山恨",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "01018006",
+            "70005116"
+          ],
+          "matchedTitles": [
+            "煤山恨"
+          ]
+        },
+        {
+          "title": "将相和",
+          "resolvedBy": "exact",
+          "versionCount": 2,
+          "versionIds": [
+            "01022001",
+            "70005103"
+          ],
+          "matchedTitles": [
+            "将相和"
+          ]
+        }
+      ],
+      "missing_titles": [],
+      "complete": true
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "status": "completed",
+  "curated_input_files": 9,
+  "overlays_created": 9,
+  "object_profiles": 12,
+  "comparison_groups": 3,
+  "mean_segment_match_rate": 0.970154,
+  "minimum_segment_match_rate": 0.898077,
+  "overlay_reports": [
+    {
+      "version_id": "70201101",
+      "title": "宇宙锋",
+      "v1_segments": 180,
+      "curated_segments": 178,
+      "matched_segments": 174,
+      "match_rate": 0.977528,
+      "unmatched_curated": 4,
+      "v1_only_segments": 6,
+      "match_methods": {
+        "speaker_and_text": 173,
+        "unmatched": 4,
+        "unique_text": 1
+      }
+    },
+    {
+      "version_id": "70202112",
+      "title": "锁麟囊",
+      "v1_segments": 896,
+      "curated_segments": 895,
+      "matched_segments": 888,
+      "match_rate": 0.992179,
+      "unmatched_curated": 7,
+      "v1_only_segments": 8,
+      "match_methods": {
+        "speaker_and_text": 883,
+        "unmatched": 7,
+        "unique_text": 5
+      }
+    },
+    {
+      "version_id": "80000001",
+      "title": "四郎探母",
+      "v1_segments": 503,
+      "curated_segments": 503,
+      "matched_segments": 499,
+      "match_rate": 0.992048,
+      "unmatched_curated": 4,
+      "v1_only_segments": 4,
+      "match_methods": {
+        "speaker_and_text": 496,
+        "unmatched": 4,
+        "unique_text": 3
+      }
+    },
+    {
+      "version_id": "01002014",
+      "title": "宇宙锋",
+      "v1_segments": 143,
+      "curated_segments": 141,
+      "matched_segments": 138,
+      "match_rate": 0.978723,
+      "unmatched_curated": 3,
+      "v1_only_segments": 5,
+      "match_methods": {
+        "speaker_and_text": 137,
+        "unmatched": 3,
+        "unique_text": 1
+      }
+    },
+    {
+      "version_id": "04011001",
+      "title": "宇宙锋",
+      "v1_segments": 181,
+      "curated_segments": 176,
+      "matched_segments": 170,
+      "match_rate": 0.965909,
+      "unmatched_curated": 6,
+      "v1_only_segments": 11,
+      "match_methods": {
+        "speaker_and_text": 169,
+        "unmatched": 6,
+        "unique_text": 1
+      }
+    },
+    {
+      "version_id": "09001002",
+      "title": "宇宙锋",
+      "v1_segments": 513,
+      "curated_segments": 520,
+      "matched_segments": 467,
+      "match_rate": 0.898077,
+      "unmatched_curated": 53,
+      "v1_only_segments": 46,
+      "match_methods": {
+        "unmatched": 53,
+        "speaker_and_text": 467
+      }
+    },
+    {
+      "version_id": "14002010",
+      "title": "宇宙锋",
+      "v1_segments": 138,
+      "curated_segments": 137,
+      "matched_segments": 131,
+      "match_rate": 0.956204,
+      "unmatched_curated": 6,
+      "v1_only_segments": 7,
+      "match_methods": {
+        "speaker_and_text": 130,
+        "unmatched": 6,
+        "unique_text": 1
+      }
+    },
+    {
+      "version_id": "70805101",
+      "title": "锁麟囊",
+      "v1_segments": 938,
+      "curated_segments": 941,
+      "matched_segments": 922,
+      "match_rate": 0.979809,
+      "unmatched_curated": 19,
+      "v1_only_segments": 16,
+      "match_methods": {
+        "speaker_and_text": 920,
+        "unmatched": 19,
+        "unique_text": 2
+      }
+    },
+    {
+      "version_id": "80000028",
+      "title": "四郎探母",
+      "v1_segments": 659,
+      "curated_segments": 660,
+      "matched_segments": 654,
+      "match_rate": 0.990909,
+      "unmatched_curated": 6,
+      "v1_only_segments": 5,
+      "match_methods": {
+        "speaker_and_text": 653,
+        "unmatched": 6,
+        "unique_text": 1
+      }
+    }
+  ],
+  "metric_contract": {
+    "segment_count_metrics": "from curated structured data for the 9 detailed cases",
+    "character_density_metrics": "from full corpus v1 uniform parser",
+    "object_profiles": "computed uniformly from v1 packages for all 143 versions",
+    "narrative_keywords": "human-curated metadata; not algorithmic findings"
+  },
+  "limits": [
+    "Only matched curated segments inherit v1 PDF page provenance.",
+    "Unmatched curated segments are retained inside each overlay curation block.",
+    "Narrative keywords and school labels require humanities review before publication."
+  ]
+}

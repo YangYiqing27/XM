@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "errors": [],
+  "warnings": [],
+  "counts": {
+    "overlays": 9,
+    "object_profiles": 12,
+    "comparison_groups": 3
+  },
+  "mean_segment_match_rate": 0.970154,
+  "minimum_segment_match_rate": 0.898077,
+  "page_range_errors": 0,
+  "segments_missing_display_classification": 0,
+  "missing_source_files": []
+}
